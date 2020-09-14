@@ -28,6 +28,7 @@ glide (1) secs to x: (100) y: (100)
 --- /task ---
 
 You can also add a stamp of the turtle to show the known positions of the turtle. 
+
 --- task ---
 
 ```blocks3
