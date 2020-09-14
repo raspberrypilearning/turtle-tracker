@@ -27,7 +27,9 @@ glide (1) secs to x: (0) y: (0)
 --- /task ---
 
 --- task ---
+
 Test your code by dragging Turtle 1 to any location on the stage and then clicking the green flag. Turtle 1 will always go to the centre of the stage. 
+
 --- /task ---
 
 The x coordinate gives a left-to-right position from -240 to 240. Negative x coordinates are to the left of the centre of the Stage and positive coordinates are to the right. 
@@ -75,3 +77,4 @@ when green flag clicked
 --- /task ---
 
 --- save ---
+

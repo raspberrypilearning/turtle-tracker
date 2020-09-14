@@ -38,8 +38,8 @@ set pen [color v] to (40)
 set pen size to (2)
 pen up
 glide (1) secs to x: (100) y: (100)
-stamp
 pen down
+stamp
 glide (1) secs to x: (100) y: (-100)
 stamp
 glide (1) secs to x: (-100) y: (-100)
@@ -53,6 +53,11 @@ glide (1) secs to x: (100) y: (100)
 
 --- task ---
 Click the green flag to see the turtle draw its route and stamp a marker at each known position. 
+--- /task ---
+
+--- task ---
+Of course turtles don't swim in perfect squares! Try changing the coordinate numbers to get your turtle to swim in a different route.   
+
 --- /task ---
 
 --- save ---
