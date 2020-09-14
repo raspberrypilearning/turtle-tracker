@@ -24,6 +24,7 @@ glide (1) secs to x: (-100) y: (-100)
 glide (1) secs to x: (-100) y: (100)
 glide (1) secs to x: (100) y: (100)
 ```
+
 --- /task ---
 
 You can also add a stamp of the turtle to show the known positions of the turtle. 
@@ -46,9 +47,11 @@ glide (1) secs to x: (-100) y: (100)
 stamp
 glide (1) secs to x: (100) y: (100)
 ```
+
 --- /task ---
 
 --- task ---
 Click the green flag to see the turtle draw its route and stamp a marker at each known position. 
 --- /task ---
+
 --- save ---
