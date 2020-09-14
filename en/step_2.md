@@ -15,14 +15,15 @@ When you open the starter project you will see a grid backdrop and turtle sprite
 --- /task ---
 
 Scratch uses x and y coordinate numbers to indicate locations on the Stage. The x coordinate gives the left-right position and the y coordinate gives the up-down position. The coodinate of the centre of the stage is (x=0, y=0). Let's send Turtle 1 to the centre of the Stage. 
+
 --- task ---
 Select the Turtle 1 sprite and click on its Code tab. Add code to move the turtle to the centre of the Stage when the green flag is clicked:
 
 ```blocks3
 when green flag clicked
 glide (1) secs to x: (0) y: (0)
-
 ```
+
 --- /task ---
 
 --- task ---
@@ -46,6 +47,8 @@ glide (1) secs to x: (0) y: (0)
 The y coordinate goes from -180 at the bottom of the Stage to 180 at the top of the Stage. Negative y coordinates are in the bottom half of the Stage. 
 
 --- task ---
+Add code to move the turtle to the top and bottom of the Stage:
+
 ```blocks3
 when green flag clicked
 glide (1) secs to x: (0) y: (0)
@@ -54,6 +57,7 @@ glide (1) secs to x: (240) y: (0)
 +glide (1) secs to x: (0) y: (180)
 +glide (1) secs to x: (0) y: (-180)
 ```
+
 --- /task ---
 
 --- task ---
@@ -67,6 +71,7 @@ when green flag clicked
 +glide (1) secs to x: (-100) y: (100)
 +glide (1) secs to x: (100) y: (100)
 ```
+
 --- /task ---
 
 --- save ---
