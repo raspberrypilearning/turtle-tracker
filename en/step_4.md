@@ -55,6 +55,8 @@ Repeat for the rest of the x coordinate values so that your list looks like this
 
 ![screenshot of empty lists](images/turtle-2-x-data.png)
 
+--- /task ---
+
 --- task ---
 When you have finished entering the data, you can hide the lists from the stage. Uncheck the box next to the lists in the Variables section:
 
@@ -115,7 +117,6 @@ pen down
 +set [location v] to (1) 
 ```
 
-
 --- /task ---
 
 --- task --- 
@@ -157,6 +158,7 @@ repeat (length of [x coords v]
 
 --- task ---
 Run your code to see Turtle 2 draw its route using the x and y coordinates from the lists. 
+
 --- /task ---
 
 --- save ---
