@@ -1,11 +1,11 @@
-title: turtle-tracker
+title: Turtle tracker
 hero_image: images/banner.png
-description: turtle-tracker description
-version: 4
+description: Draw the the routes taken by sea turtles. 
+version: 1
 listed: false
 copyedit: false
 last_tested: "2020-09-10"
 steps:
   - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Using coordinates
+  - title: Drawing the route

@@ -1,14 +1,18 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+In this project you will use the pen tool and Scratch x and y coordinates to draw the routes taken by sea turtles. It's important to understand the movements of these endangered creatures so that they can be protected.
+
+This project is inspired by the work of The Shuttleworth foundation which has tracked the movement of turtles based at the islands of Principe and Poilao off the west coast of Africa. Each year turtles return to their nesting grounds and spend time there mating and laying eggs. But where exactly do they go while they are there? The Shuttleworth Foundation which has developed inexpensive electronic tags that can be safely attached to real sea turtles to track their movement. 
+
+Turtle tags provide coordinate numbers that show where a turtle has been. It's much easier for people to understand this data if we draw it on a map.
 
 ### What you will make
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Click the green flag to watch each turtle draw a route based on its tracking data. 
 
+--- no-print ---
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+<iframe src="https://scratch.mit.edu/projects/422092630/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 --- /no-print ---
 
@@ -22,13 +26,12 @@ title: What you will need
 ---
 ### Hardware
 
-+ A computer or tablet capable of running Scratch 3
++ A computer or tablet capable of running Scratch 3.
++ Storage for files that can be imported and exported to Scratch (such as a shared drive on a network or a USB drive)
 
 ### Software
 
 + Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
 
 ### Downloads
 
@@ -41,9 +44,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
++ Use x and y coordinates in Scratch
++ Use lists to store data
++ Use variables 'for this sprite only'
 
 --- /collapse ---
 
