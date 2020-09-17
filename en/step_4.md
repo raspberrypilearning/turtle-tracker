@@ -79,7 +79,7 @@ Add code to move the Turtle to its first position when it is clicked.
 ```blocks3
 when this sprite clicked
 pen up
-glide to x: (item (1) of [x coords v]) y: (item (1) of [y coords v])
+glide (1) secs to x: (item (1) of [x coords v]) y: (item (1) of [y coords v])
 ```
 
 Make sure you choose the correct list from the drop-down menu to select the x coords and y coords lists. 
@@ -108,7 +108,7 @@ Add a block to set the location to 1 to start at the beginning of the list. Chan
 when this sprite clicked
 pen up
 +set [location v] to (1)
-+glide to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
++glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
 ```
 
 --- /task ---
@@ -121,7 +121,7 @@ when this sprite clicked
 pen up
 set [location v] to (1) 
 +repeat (length of [x coords v])
-glide to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
+glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
 +change [location v] by (1)
 ```
 
@@ -138,7 +138,7 @@ when this sprite clicked
 pen up
 set [location v] to (1) 
 repeat (length of [x coords v])
-glide to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
+glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
 change [location v] by (1)
 +pen down
 +stamp

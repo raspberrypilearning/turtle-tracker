@@ -28,7 +28,7 @@ The colour `40` matches the colour of Turtle 1's costume.
 Add code to draw the route taken by the turtle using the pen:
 
 ```blocks3
-when this sprite flag clicked
+when this sprite clicked
 +pen up
 glide (1) secs to x: (100) y: (100)
 +pen down
@@ -45,7 +45,7 @@ Now add a stamp of the turtle to show the known positions of the turtle.
 --- task ---
 
 ```blocks3
-when this sprite flag clicked
+when this sprite clicked
 pen up
 glide (1) secs to x: (100) y: (100)
 pen down
