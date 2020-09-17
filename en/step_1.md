@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project you will use the pen tool and Scratch x and y coordinates to draw the routes taken by sea turtles. It's important to understand the movements of these endangered creatures so that they can be protected.
+In this project you will use the pen tool and Scratch x and y coordinates to draw the locations visited by green sea turtles over a few days during their nesting time. It's important to understand the movements of these endangered creatures so that they can be protected.
 
 This project is inspired by the work of The Shuttleworth foundation which has tracked the movement of turtles based at the islands of Principe and Poilao off the west coast of Africa. Each year turtles return to their nesting grounds and spend time there mating and laying eggs. But where exactly do they go while they are there? The Shuttleworth Foundation which has developed inexpensive electronic tags that can be safely attached to real sea turtles to track their movement. 
 
@@ -8,7 +8,7 @@ Turtle tags provide coordinate numbers that show where a turtle has been. It's m
 
 ### What you will make
 
-Click the green flag to watch each turtle draw a route based on its tracking data. 
+Click on the green flag and then click on each turtle to see the locations it visited over a few days. You can also click on the button to switch between a Scrath coordinates grid and a map of Poilao island. 
 
 --- no-print ---
 <div class="scratch-preview">

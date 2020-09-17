@@ -22,6 +22,8 @@ Save the file on your local computer, a shared network drive or an external driv
 --- task ---
 Now go back to Scratch. 
 
+![animation of importing x coords](images/import-x-coords.gif)
+
 Right click (or tap and hold) on the `Turtle 4: x coords` list and choose import. 
 
 Select the file that you downloaded, it will be something like 'turtle5.csv'. 
@@ -29,6 +31,7 @@ Select the file that you downloaded, it will be something like 'turtle5.csv'.
 When you are asked 'which column should be used?', enter the number 1. The x coordinate data is in the first column of the file.
 
 Scratch will load the data from the first column in the file into the Turtle 4's x coords list.
+
 --- /task ---
 
 --- task ---
@@ -43,17 +46,39 @@ This time, choose column **2** which contains the y coordinate data for the same
 --- /task ---
 
 --- task ---
-Copy the code from Turtle 3 to Turtle 4 by dragging it. Change the colour of the line that gets drawn to 50. 
+Rename the Turtle 4 sprite to match the number of the turtle you imported, such as Turtle 21. This will help you remember which turtle data you have used.
 
 --- /task ---
 
 --- task ---
-Click the green flag to run your code and find out where this turtle went. 
+Copy the code from Turtle 3 to Turtle 4 by dragging it. Change the colour of the line that gets drawn to 50 to match the Turtle 4 costume colour. 
 
 --- /task ---
 
 --- task ---
-If you have time you can download more data and follow the journeys of more turtles. 
+Click on your turtle to find out where this turtle went. 
+
+--- /task ---
+
+--- task ---
+If you have time you can download more data and follow the journeys of more turtles. You can duplicate a turtle and change it's costume colour if you need more turtles. 
+
+If you need to delete the data a turtle and start again then you can select the turtle and add the following blocks. Just click on the blocks to run them.
+
+```blocks3
+delete all of [x coords v]
+delete all of [y coords v]
+
+```
+--- /task ---
+
+--- task ---
+Look at the locations visited by your turtles. If you are in a group you could also look at the results for the turtles chosen by others.
+
+Questions to think about:
+- Do all the turtles start at a similar place? Why do you think that is?
+- Are there other locations visited by multiple turtles? Why do you think they would go there?
+- Why do the lines connecting the locations sometimes go across the island? Remember you only have one location per day. How do you think the turtles travelled between the locations?
 --- /task ---
 
 --- save ---

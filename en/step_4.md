@@ -8,7 +8,9 @@ You are going to create two lists, one for the x coordinates of your turtle and 
 
 --- task ---
 
-Select the Turtle 2 sprite, click on the Code tab and then the Variables section. 
+![animation of adding x coords list for this sprite](images/add-x-coords-list.gif)
+
+Select the yellow Turtle 2 sprite, click on the Code tab and then the Variables section. 
 
 Click on 'Make a List'.
 
@@ -72,25 +74,21 @@ You will use `item (1) of [x coords v]` to get the first item in the x coords li
 
 The code to set up the pen has been provided for you. It is the same as for Turtle 1 except that it uses a different pen colour. 
 
-In between the `pen up` and `pen down` blocks, add a `go to` block and 
+Add code to move the Turtle to its first position when it is clicked. 
 
 ```blocks3
-when green flag clicked
-erase all
-set pen [color v] to (80)
-set pen size to (2)
+when this sprite clicked
 pen up
-+go to x: (item (1) of [x coords v]) y: ( (item (1) of [y coords v]))
-pen down
+glide to x: (item (1) of [x coords v]) y: (item (1) of [y coords v])
 ```
 
-Make sure you choose the correct list from the drop-down menu to select the x coordination and y coordinate. 
+Make sure you choose the correct list from the drop-down menu to select the x coords and y coords lists. 
 
 --- /task ---
 
 
 --- task ---
-Run your code and you should see Turtle 2 move to its starting position.
+Run your code and click on Turtle 2 (the yellow turtle) to see it move to its starting position.
 
 --- /task ---
 
@@ -104,17 +102,13 @@ Create a new variable with 'For this sprite only' checked and name it location:
 --- /task ---
 
 --- task --- 
-Add a block to set the location to 1 to start at the beginning of the list. 
+Add a block to set the location to 1 to start at the beginning of the list. Change the `glide to` block so that it uses the `location` variable instead of the number 1. 
 
 ```blocks3
-when green flag clicked
-erase all
-set pen [color v] to (80)
-set pen size to (2)
+when this sprite clicked
 pen up
-go to x: (item (1) of [x coords v]) y: (item (1) of [y coords v])
-pen down
-+set [location v] to (1) 
++set [location v] to (1)
++glide to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
 ```
 
 --- /task ---
@@ -123,35 +117,32 @@ pen down
 Now add a `repeat` loop to loop over the lists of coordinates. There's a block to find out the length of a list which you can use to give the number of times to repeat: 
 
 ```blocks3
-when green flag clicked
-erase all
-set pen [color v] to (80)
-set pen size to (2)
+when this sprite clicked
 pen up
-go to x: (item (1) of [x coords v]) y: (item (1) of [y coords v])
-pen down
 set [location v] to (1) 
-+repeat (length of [x coords v]
++repeat (length of [x coords v])
+glide to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
++change [location v] by (1)
 ```
+
+Make sure you drag your `glide` block inside the `repeat`.
+
+Each time round the loop, location will be increased and the `item` blocks will get the next item from the `x coords` and `y coords` lists. 
 
 --- /task ---
 
 --- task ---
-Inside the loop, add the code to glide to the next location, stamp the sprite and then increase the location. Each time round the loop the `item` blocks will get the next entry from the `x coords` and `y coords` lists. 
-
+Inside the loop, add to put the pen down and stamp the sprite:
 ```blocks3
-when green flag clicked
-erase all
-set pen [color v] to (80)
-set pen size to (2)
+when this sprite clicked
 pen up
-go to x: (item (1) of [x coords v]) y: (item (1) of [y coords v])
-pen down
 set [location v] to (1) 
-repeat (length of [x coords v]
-+glide to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
+repeat (length of [x coords v])
+glide to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
+change [location v] by (1)
++pen down
 +stamp
-+change [location v] by (1)
+
 ```
 
 --- /task ---
