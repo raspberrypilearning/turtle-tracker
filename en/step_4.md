@@ -37,10 +37,30 @@ Next you need to add coordinate data to the lists.
 
 This table gives coordinate positions for your turtle:
 
+|x coords | y coords |
+|--------:|---------:|
+| 189     | 147      |
+| 154     | 122      |
+| 57      | 140      |
+| -58     | 110      |
+| -120    | 17       |
 
 
 --- task ---
-Use the '+' at the bottom of the **y coords** list to add the y coordinate data for your turtle. 
+Click on the '+' at the bottom of the `x coords`{:class="block3variables"} list. 
+
+This will add an entry to the list. Enter the value '189', the first x coordinate in the table. 
+
+Repeat for the rest of the x coordinate values so that your list looks like this:
+
+![screenshot of x coord list with data](images/turtle-2-x-data.png)
+
+Be careful to enter the '-' in negative numbers such as '-58'.
+
+--- /task ---
+
+--- task ---
+Use the '+' at the bottom of the `y coords`{:class="block3variables"} list to add the y coordinate data for your turtle. 
 
 Your y coordinate list should look like this:
 
@@ -48,29 +68,8 @@ Your y coordinate list should look like this:
 
 --- /task ---
 
-Now you need to update your code so that it uses the data in the lists for x and y coordinates. 
-
-|x coords | y coords |
-|--------:|---------:|
-| 1       | 1        |
-| 1       | 1        |
-| 1       | 1        |
-| 1       | 1        |
-| 1       | 1        |
-
 --- task ---
-Click on the '+' at the bottom of the **x coords** list. 
-
-This will add an entry to the list. Enter the value '174', the first x coordinate in the table. 
-
-Repeat for the rest of the x coordinate values so that your list looks like this:
-
-![screenshot of x coord list with data](images/turtle-2-x-data.png)
-
---- /task ---
-
---- task ---
-When you have finished entering the data, you can hide the lists from the stage. Uncheck the box next to the lists in the Variables section:
+When you have finished entering the data, you can hide the lists from the stage. Uncheck the box next to the lists in the `Variables`{:class="block3variables"} section:
 
 ![screenshot of unchecked lists](images/uncheck-lists.png)
 
@@ -80,7 +79,7 @@ Next, you need to write code that it uses the x and y coordinate values from the
 
 The code to set up the pen and starting position has been provided for you. It is the same as for Turtle 1 except that it uses a different pen colour and coordinates. 
 
-You will use `item (1) of [x coords v]` to get the first item in the x coords list and `item (1) of [y coords v]` to get the first item in the y coords list. You will find these blocks in the `Variable` section. Together these values give you the first position for the Turtle 2.
+You will use `item (1) of [x coords v]`{:class="block3variables"} to get the first item in the x coords list and `item (1) of [y coords v]`{:class="block3variables"} to get the first item in the y coords list. You will find these blocks in the `Variable`{:class="block3variables"} section. Together these values give you the first position for the Turtle 2.
 
 --- task ---
 Add code to move the Turtle to its first position when it is clicked. 
@@ -91,7 +90,7 @@ pen up
 glide (1) secs to x: (item (1) of [x coords v]) y: (item (1) of [y coords v])
 ```
 
-Make sure you choose the correct list from the drop-down menu to select the `x coords` and `y coords` lists. 
+Make sure you choose the correct list from the drop-down menu to select the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists. 
 
 --- /task ---
 
@@ -103,14 +102,14 @@ Run your code and click on Turtle 2 (the yellow turtle) to see it move to its st
 Now you need to glide and stamp for each of the coordinates. To do this you will need a variable to keep track of the next item in the list. 
 
 --- task ---
-Create a new variable with 'For this sprite only' checked and name it `location`  :
+Create a new variable with 'For this sprite only' checked and name it 'location'  :
 
 ![screenshot of empty lists](images/turtle-location variable.png)
 
 --- /task ---
 
 --- task --- 
-Add a block to set the location to 1 to start at the beginning of the list. Change the `glide to` block so that it uses the `location` variable instead of the number 1. 
+Add a block to set the location to 1 to start at the beginning of the list. Change the `glide to`{:class="block3motion"} block so that it uses the `location`{:class="block3variables"} variable instead of the number 1. 
 
 ```blocks3
 when this sprite clicked
@@ -122,7 +121,7 @@ pen up
 --- /task ---
 
 --- task --- 
-Now add a `repeat` loop to loop over the lists of coordinates. There's a block to find out the length of a list which you can use to give the number of times to repeat: 
+Now add a `repeat`{:class="block3control"} loop to loop over the lists of coordinates. There's a block to find out the length of a list which you can use to give the number of times to repeat: 
 
 ```blocks3
 when this sprite clicked
@@ -133,14 +132,15 @@ glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y
 +change [location v] by (1)
 ```
 
-Make sure you drag your `glide` block inside the `repeat`.
+Make sure you drag your `glide`{:class="block3motion"} inside the `repeat`{:class="block3control"}.
 
-Each time round the loop, location will be increased and the `item` blocks will get the next item from the `x coords` and `y coords` lists. 
+Each time round the loop, location will be increased and the `item`{:class="block3variables"} blocks will get the next item from the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists. 
 
 --- /task ---
 
 --- task ---
-Inside the loop, add blocks to put the pen down and stamp the sprite:
+Inside the loop, add blocks to put the `pen down`{:class="block3extensions"} and `stamp`{:class="block3extensions"} the sprite:
+
 ```blocks3
 when this sprite clicked
 pen up

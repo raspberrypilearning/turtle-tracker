@@ -2,7 +2,6 @@
 
 Scratch allows you to import data from a file. This is really useful when you have lots of data that you want to use and it would take too long to type it. 
 
-
 --- task ---
 Select Turtle A. It has lists that have been created but which don't have any coordinates in them. 
 
@@ -23,7 +22,7 @@ Now go back to Scratch.
 
 ![animation of importing x coords](images/import-x-coords.gif)
 
-Right click (or tap and hold) on the `Turtle A: x coords` list and choose import. 
+Right click (or tap and hold) on the `Turtle A: x coords`{:class="block3variables"} list on the stage and choose import. 
 
 Select the file that you downloaded, it will be something like 'turtle5.csv'. 
 
@@ -36,7 +35,7 @@ Scratch will load the data from the first column in the file into the Turtle A's
 --- task ---
 Now repeat the importing of the data for the y coordinates. 
 
-Right click (or tap and hold) on the `Turtle 4: y coords` list and choose import.
+Right click (or tap and hold) on the `Turtle A: y coords`{:class="block3variables"} list and choose import.
 
 Choose the same file as before. 
 
@@ -62,7 +61,7 @@ Click on your turtle to find out where this turtle went.
 --- /task ---
 
 --- task ---
-If you have time you can download more data and follow the journeys of more turtles. You can duplicate a turtle and change it's costume colour if you need more turtles. 
+If you have time you can download more data and follow the journeys of more turtles. You can duplicate a turtle and change its costume colour if you need more turtles. 
 
 If you need to delete the data a turtle and start again then you can select the turtle and add the following blocks. Just click on the blocks to run them.
 

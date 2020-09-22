@@ -29,7 +29,9 @@ When you have seen the coordinates you can uncheck the boxes to hide them.
 It's hard for humans to understand lists of numbers. Now you will copy your code to Turtle 3 to draw and stamp the coordinates to make it easier to see where this turtle went. 
 
 --- task ---
-Select Turtle 2 and click on the Code tab. Drag the `when this sprite clicked` block and all the blocks underneath will also move, keep dragging until you are over the Turtle 3 sprite under the stage. The Turtle 3 sprite will do a little wiggle to show that it has been selected and you can stop dragging. 
+Select Turtle 2 and click on the Code tab. Drag the `when this sprite clicked`{:class="block3events"} block and all the blocks underneath will also move, keep dragging until you are over the Turtle 3 sprite under the stage. The Turtle 3 sprite will do a little wiggle to show that it has been selected and you can stop dragging. 
+
+![Animation of dragging code from Turtle 2 to Turtle 3](images/drag-code-to-turtle-3.png)
 
 The code will still be available on Turtle 2 but there will also be a copy in Turtle 3's Code tab.
 
