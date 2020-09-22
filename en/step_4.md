@@ -37,16 +37,26 @@ Next you need to add coordinate data to the lists.
 
 This table gives coordinate positions for your turtle:
 
+
+
 --- task ---
 Use the '+' at the bottom of the **y coords** list to add the y coordinate data for your turtle. 
 
 Your y coordinate list should look like this:
 
-![screenshot of empty lists](images/turtle-2-y-data.png)
+![screenshot of y coord list with data](images/turtle-2-y-data.png)
 
 --- /task ---
 
 Now you need to update your code so that it uses the data in the lists for x and y coordinates. 
+
+|x coords | y coords |
+|--------:|---------:|
+| 1       | 1        |
+| 1       | 1        |
+| 1       | 1        |
+| 1       | 1        |
+| 1       | 1        |
 
 --- task ---
 Click on the '+' at the bottom of the **x coords** list. 
@@ -55,7 +65,7 @@ This will add an entry to the list. Enter the value '174', the first x coordinat
 
 Repeat for the rest of the x coordinate values so that your list looks like this:
 
-![screenshot of empty lists](images/turtle-2-x-data.png)
+![screenshot of x coord list with data](images/turtle-2-x-data.png)
 
 --- /task ---
 
@@ -68,12 +78,11 @@ When you have finished entering the data, you can hide the lists from the stage.
 
 Next, you need to write code that it uses the x and y coordinate values from the list to draw the route of Turtle 2. 
 
+The code to set up the pen and starting position has been provided for you. It is the same as for Turtle 1 except that it uses a different pen colour and coordinates. 
+
 You will use `item (1) of [x coords v]` to get the first item in the x coords list and `item (1) of [y coords v]` to get the first item in the y coords list. You will find these blocks in the `Variable` section. Together these values give you the first position for the Turtle 2.
 
 --- task ---
-
-The code to set up the pen has been provided for you. It is the same as for Turtle 1 except that it uses a different pen colour. 
-
 Add code to move the Turtle to its first position when it is clicked. 
 
 ```blocks3
@@ -82,10 +91,9 @@ pen up
 glide (1) secs to x: (item (1) of [x coords v]) y: (item (1) of [y coords v])
 ```
 
-Make sure you choose the correct list from the drop-down menu to select the x coords and y coords lists. 
+Make sure you choose the correct list from the drop-down menu to select the `x coords` and `y coords` lists. 
 
 --- /task ---
-
 
 --- task ---
 Run your code and click on Turtle 2 (the yellow turtle) to see it move to its starting position.
@@ -95,7 +103,7 @@ Run your code and click on Turtle 2 (the yellow turtle) to see it move to its st
 Now you need to glide and stamp for each of the coordinates. To do this you will need a variable to keep track of the next item in the list. 
 
 --- task ---
-Create a new variable with 'For this sprite only' checked and name it location:
+Create a new variable with 'For this sprite only' checked and name it `location`  :
 
 ![screenshot of empty lists](images/turtle-location variable.png)
 
@@ -132,7 +140,7 @@ Each time round the loop, location will be increased and the `item` blocks will 
 --- /task ---
 
 --- task ---
-Inside the loop, add to put the pen down and stamp the sprite:
+Inside the loop, add blocks to put the pen down and stamp the sprite:
 ```blocks3
 when this sprite clicked
 pen up

@@ -27,7 +27,7 @@ glide (1) secs to x: (0) y: (0)
 --- /task ---
 
 --- task ---
-The add code to move the turtle to it's starting position, at the bottom left of the stage, when the green flag is clicked:
+Then add code to move the turtle to it's starting position, at the bottom left of the stage, when the green flag is clicked:
 
 ```blocks3
 when green flag clicked
@@ -62,7 +62,7 @@ The y coordinate goes from -180 at the bottom of the Stage to 180 at the top of 
 Add code to move the turtle to the top and bottom of the Stage:
 
 ```blocks3
-when green flag clicked
+when this sprite clicked
 glide (1) secs to x: (0) y: (0)
 glide (1) secs to x: (-240) y: (0)
 glide (1) secs to x: (240) y: (0)
