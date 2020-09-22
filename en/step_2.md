@@ -14,6 +14,13 @@ When you open the starter project you will see a grid backdrop and turtle sprite
 
 --- /task ---
 
+--- task ---
+If you don't see the grid backdrop you can click on the 'grid/map button' until you see it. 
+
+![Stage showing map with button highlighted](images/grid-backdrop.png)
+
+--- /task ---
+
 Scratch uses x and y coordinate numbers to indicate locations on the Stage. The x coordinate gives the left-right position and the y coordinate gives the up-down position. The coodinate of the centre of the stage is (x=0, y=0). Let's send Turtle 1 to the centre of the Stage. 
 
 --- task ---
