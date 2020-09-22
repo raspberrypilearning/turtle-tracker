@@ -39,7 +39,7 @@ Next you need to add coordinate data to the lists.
 
 This table gives coordinate positions for your turtle:
 
-<div style="width:200;text-align:center;">
+<div style="width:200px;">
 
 |:-------:|:--------:|
 |x coords | y coords |
