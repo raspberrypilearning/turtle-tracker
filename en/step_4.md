@@ -42,7 +42,7 @@ This table gives coordinate positions for your turtle:
 |:-:|:-------:|:--------:|:-:|
 |   |x coords | y coords |   |
 |:-:|--------:|---------:|:-:|
-|   | 189     | 147      |  &nbsp; |
+|  &nbsp;&nbsp;&nbsp;&nbsp; | 189     | 147      |  &nbsp;&nbsp;&nbsp;&nbsp; |
 |   | 154     | 122      |   |
 |   | 57      | 140      |   |
 |   | -58     | 110      |   |
