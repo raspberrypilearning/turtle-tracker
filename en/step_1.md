@@ -12,7 +12,7 @@ Click on the green flag and then click on each turtle to see the locations it vi
 
 --- no-print ---
 <div class="scratch-preview">
-<iframe src="https://scratch.mit.edu/projects/422092630/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/428136635/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 --- /no-print ---
 
