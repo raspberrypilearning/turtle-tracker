@@ -87,7 +87,7 @@ Next, you need to write code that it uses the x and y coordinate values from the
 
 The code to set up the pen and starting position has been provided for you. It is the same as for Turtle 1 except that it uses a different pen colour and coordinates. 
 
-You will use `item (1) of [x coords v]`{:class="block3variables"} to get the first item in the x coords list and `item (1) of [y coords v]`{:class="block3variables"} to get the first item in the y coords list. You will find these blocks in the `Variable`{:class="block3variables"} section. Together these values give you the first position for the Turtle 2.
+You will use `item (1) of [x coords v]`{:class="block3variables"} to get the first item in the x coords list and `item (1) of [y coords v]`{:class="block3variables"} to get the first item in the y coords list. You will find these blocks in the `Variables`{:class="block3variables"} section. Together these values give you the first position for the Turtle 2.
 
 --- task ---
 Add code to move the Turtle to its first position when it is clicked. 
