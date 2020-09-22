@@ -46,7 +46,7 @@ This table gives coordinate positions for your turtle:
 | -58     | 110      |
 | -120    | 17       |
 |--------:|---------:|
-{:.table-striped}  
+{: style=" border: 2px solid black;"}.
 
 <br/>
 
