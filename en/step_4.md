@@ -10,7 +10,9 @@ You are going to create two lists, one for the x coordinates of your turtle and 
 
 ![animation of adding x coords list for this sprite](images/add-x-coords-list.gif)
 
-Select the yellow Turtle 2 sprite, click on the Code tab and then the Variables section. 
+Select the yellow Turtle 2 sprite, click on the Code tab and then the `Variables`{:class="block3variables"} section. 
+
+![image of Turtle 2 sprite](images/turtle-2-sprite.png)
 
 Click on 'Make a List'.
 
@@ -87,6 +89,8 @@ You will use `item (1) of [x coords v]`{:class="block3variables"} to get the fir
 --- task ---
 Add code to move the Turtle to its first position when it is clicked. 
 
+![image of Turtle 2 sprite](images/turtle-2-sprite.png)
+
 ```blocks3
 when this sprite clicked
 pen up
@@ -114,6 +118,8 @@ Create a new variable with 'For this sprite only' checked and name it 'location'
 --- task --- 
 Add a block to set the location to 1 to start at the beginning of the list. Change the `glide to`{:class="block3motion"} block so that it uses the `location`{:class="block3variables"} variable instead of the number 1. 
 
+![image of Turtle 2 sprite](images/turtle-2-sprite.png)
+
 ```blocks3
 when this sprite clicked
 pen up
@@ -125,6 +131,8 @@ pen up
 
 --- task --- 
 Now add a `repeat`{:class="block3control"} loop to loop over the lists of coordinates. There's a block to find out the length of a list which you can use to give the number of times to repeat: 
+
+![image of Turtle 2 sprite](images/turtle-2-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -143,6 +151,8 @@ Each time round the loop, location will be increased and the `item`{:class="bloc
 
 --- task ---
 Inside the loop, add blocks to put the `pen down`{:class="block3extensions"} and `stamp`{:class="block3extensions"} the sprite:
+
+![image of Turtle 2 sprite](images/turtle-2-sprite.png)
 
 ```blocks3
 when this sprite clicked

@@ -26,6 +26,8 @@ Scratch uses x and y coordinate numbers to indicate locations on the Stage. The 
 --- task ---
 Select the Turtle 1 sprite and click on its Code tab. Add code to move the turtle to the centre of the Stage when it is clicked:
 
+![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+
 ```blocks3
 when this sprite clicked
 glide (1) secs to x: (0) y: (0)
@@ -35,6 +37,8 @@ glide (1) secs to x: (0) y: (0)
 
 --- task ---
 Then add code to move the turtle to it's starting position, at the bottom left of the Stage, when the green flag is clicked:
+
+![image of Turtle 1 sprite](images/turtle-1-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -54,6 +58,8 @@ The x coordinate gives a left-to-right position from -240 to 240. Negative x coo
 --- task ---
 Add code to get the turtle to 'swim' to the left and then the right of the Stage:
 
+![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+
 ```blocks3
 when this sprite clicked
 glide (1) secs to x: (0) y: (0)
@@ -67,6 +73,8 @@ The y coordinate goes from -180 at the bottom of the Stage to 180 at the top of 
 
 --- task ---
 Add code to move the turtle to the top and bottom of the Stage:
+
+![image of Turtle 1 sprite](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -85,6 +93,8 @@ Click on your turtle to watch it glide between locations.
 
 --- task ---
 Can you predict the route the turtle will take with this code? Think about where the turtle will go and then change your code to use these coordinates and see if you are correct.
+
+![image of Turtle 1 sprite](images/turtle-1-sprite.png)
 
 ```blocks3
 when green flag clicked

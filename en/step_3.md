@@ -11,6 +11,8 @@ Add the pen extension to your project.
 --- task ---
 Select the Turtle 1 sprite and add code to set up the pen:
 
+![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+
 ```blocks3
 when green flag clicked
 +erase all
@@ -26,6 +28,8 @@ The colour `40` matches the colour of Turtle 1's costume.
 
 --- task ---
 Add code to draw the route taken by the turtle using the pen:
+
+![image of Turtle 1 sprite](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,6 +47,8 @@ glide (1) secs to x: (100) y: (100)
 Now add a stamp of the turtle to show the known positions of the turtle. 
 
 --- task ---
+
+![image of Turtle 1 sprite](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
