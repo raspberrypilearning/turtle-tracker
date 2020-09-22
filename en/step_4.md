@@ -45,8 +45,10 @@ This table gives coordinate positions for your turtle:
 | 57      | 140      |
 | -58     | 110      |
 | -120    | 17       |
-|--------:|---------:|  
+|--------:|---------:|
+{:.table-striped}  
 
+<br/>
 
 --- task ---
 Click on the '+' at the bottom of the `x coords`{:class="block3variables"} list. 
