@@ -1,13 +1,13 @@
 ## Real turtle movements
 
-In this step you will switch to using a map backdrop showing the island of Poilou. Coordinate data for a real turtle that was tracked by the Shuttleworth foundation has already been added to Turtle 3. You will copy your code from Turtle 2 to Turtle 3 to find out the route this turtle took.
+In this step you will switch to using a map backdrop showing the island of Poilão. Coordinate data for a real turtle that was tracked by the Shuttleworth foundation has already been added to Turtle 3. You will copy your code from Turtle 2 to Turtle 3 to find out the route this turtle took.
 
 --- task ---
-Click on the 'grid/map' button to switch to the Poilao Island backdrop. 
+Click on the 'grid/map' button to switch to the Poilão Island backdrop. 
 
 ![Stage showing map with button highlighted](images/map-backdrop.png)
 
-You will see a map of the area around Poilao island off the west coast of Africa. This small island measures less than 1km (1000 metres) across. Poilao is an important environmental location for nesting green sea turtles.
+You will see a map of the area around Poilão Island off the west coast of Africa. This small island measures less than 1km (1000 metres) across. Poilão is an important environmental location for nesting green sea turtles.
 
 The carapace (shell) of an adult green sea turtle is about 1m long. 
 
@@ -22,7 +22,7 @@ Select Turtle 3 and click on the Code tab. Open the `Variables`{:class="block3va
 
 These lists are 'For this sprite only' and contain different data to the lists you created for Turtle 2.
 
-You can see the x and y coordinates on the Stage. These are based on the real movements of a sea turtle and have been turned into Scratch coordinates that work with the Poilao backdrop. 
+You can see the x and y coordinates on the Stage. These are based on the real movements of a sea turtle and have been turned into Scratch coordinates that work with the Poilão Island backdrop. 
 
 When you have seen the coordinates you can uncheck the boxes to hide them. 
 
@@ -49,3 +49,4 @@ GPS readings are not perfectly accurate but they give a very good idea where the
 --- /task ---
 
 --- save ---
+
