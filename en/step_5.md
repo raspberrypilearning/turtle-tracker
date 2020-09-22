@@ -14,7 +14,7 @@ The carapace (shell) of an adult green sea turtle is about 1m long.
 --- /task ---
 
 --- task ---
-Select Turtle 3 and click on the Code tab. Open the `Variables` section and check the boxes next to the x coord and y coords lists. 
+Select Turtle 3 and click on the Code tab. Open the `Variables`{:class="block3variables"} section and check the boxes next to the x coord and y coords lists. 
 
 ![Screenshot of Turtle 3 lists checked](images/turtle-3-lists-checked.png)
 
@@ -41,6 +41,9 @@ Select Turtle 3 and click on its Code tab to see the copied code.
 
 --- task ---
 Click Turtle 3 on the stage to run your code and you will see the route that Turtle 3 took. 
+
+GPS readings are not perfectly accurate but they give a very good idea where the turtles have travelled.
+
 --- /task ---
 
 --- save ---

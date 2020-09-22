@@ -27,7 +27,7 @@ glide (1) secs to x: (0) y: (0)
 --- /task ---
 
 --- task ---
-Then add code to move the turtle to it's starting position, at the bottom left of the stage, when the green flag is clicked:
+Then add code to move the turtle to it's starting position, at the bottom left of the Stage, when the green flag is clicked:
 
 ```blocks3
 when green flag clicked
