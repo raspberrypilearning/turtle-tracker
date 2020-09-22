@@ -37,16 +37,15 @@ Next you need to add coordinate data to the lists.
 
 This table gives coordinate positions for your turtle:
 
-|:-------:|:--------:|
-|x coords | y coords |
-|--------:|---------:|
-| 189     | 147      |
-| 154     | 122      |
-| 57      | 140      |
-| -58     | 110      |
-| -120    | 17       |
-|--------:|---------:|
-{:style="border: 2px solid black;"}.
+| |:-------:|:--------:|  |
+| |x coords | y coords |  |
+| |--------:|---------:|  |
+| | 189     | 147      |  |
+| | 154     | 122      |  |
+| | 57      | 140      |  |
+| | -58     | 110      |  |
+| | -120    | 17       |  |
+| |--------:|---------:|  |
 
 <br/>
 
