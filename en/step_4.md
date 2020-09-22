@@ -39,17 +39,20 @@ Next you need to add coordinate data to the lists.
 
 This table gives coordinate positions for your turtle:
 
-|:-:|:-------:|:--------:|:-:|
-|   |x coords | y coords |   |
-|:-:|--------:|---------:|:-:|
-|  &nbsp;&nbsp;&nbsp;&nbsp; | 189     | 147      |  &nbsp;&nbsp;&nbsp;&nbsp; |
-|   | 154     | 122      |   |
-|   | 57      | 140      |   |
-|   | -58     | 110      |   |
-|   | -120    | 17       |   |
-|---|---------|----------|---|
+<div style="width:200;text-align:center;">
+
+|:-------:|:--------:|
+|x coords | y coords |
+|--------:|---------:|
+| 189     | 147      |
+| 154     | 122      |
+| 57      | 140      |
+| -58     | 110      |
+| -120    | 17       |
+|---------|----------|
 
 <br/>
+</div>
 
 --- task ---
 Click on the '+' at the bottom of the `x coords`{:class="block3variables"} list. 
