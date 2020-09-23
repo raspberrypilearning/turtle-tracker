@@ -13,9 +13,33 @@ We have prepared some more data based on routes that real turtles have taken aro
 
 --- task ---
 
+Right-click (or tap and hold) one of the turtle data links below, your choice, and choose 'Save link as ...' . Save the file on your local computer, a shared network drive or an external drive such as a USB drive. Remember where you saved it and what the file was called. 
+
+--- collapse ---
+---
+title: If you are using an iPad
+---
+
+On an iPad, using the Safari browser, click on your chosen Turtle link to view the data and then click the share icon
+
+--- /collapse ---
+
+
 [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv){:target="_blank"}
 
-Save the file on your local computer, a shared network drive or an external drive such as a USB drive. Remember where you saved it and what the file was called. 
+<a href="https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv" download="turtle-21.csv" title="Turtle 21 Download"/>
+
+<a href="https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv" target="_blank" title="Turtle 21 View"/>
+
+--- collapse ---
+---
+title: If you can't download or import the file
+---
+
+If you are unable to to download a file then you can click or tap on one of the turtle files to open it in your browser. You can then enter the data into the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists for Turtle A as you did for Turtle 2. This is easier if you have a partner to read out the numbers. 
+
+--- /collapse ---
+
 --- /task ---
 
 --- task ---
