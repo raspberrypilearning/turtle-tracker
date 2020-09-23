@@ -12,7 +12,8 @@ Check the boxes to see Turtle A's lists  on the Stage.
 We have prepared some more data based on routes that real turtles have taken around Poiloa. You can download these data files and import them into your project so you can find out where the turtles went. 
 
 --- task ---
-Visit [short link] and choose a data file to download. You can choose any of them. 
+
+[Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv){:target="_blank"}
 
 Save the file on your local computer, a shared network drive or an external drive such as a USB drive. Remember where you saved it and what the file was called. 
 --- /task ---
