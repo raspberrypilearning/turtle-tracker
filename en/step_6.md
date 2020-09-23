@@ -27,9 +27,9 @@ On an iPad, using the Safari browser, click on your chosen Turtle link to view t
 
 [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv){:target="_blank"}
 
-<a href="https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv" download="turtle-21.csv" title="Turtle 21 Download"/>
+<a href="https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv" download="turtle-21.csv" title="Turtle 21 Download">Turtle 21 Download</a>
 
-<a href="https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv" target="_blank" title="Turtle 21 View"/>
+<a href="https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv" target="_blank" title="Turtle 21 View">Turtle 21 View</a>
 
 --- collapse ---
 ---
