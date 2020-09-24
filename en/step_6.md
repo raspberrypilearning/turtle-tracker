@@ -15,9 +15,14 @@ We have prepared some more data based on routes that real turtles have taken aro
 
 --- task ---
 
-Right-click one of the turtle data links below, your choice, and choose 'Save link as ...' . Save the file on your local computer, a shared network drive or an external drive such as a USB drive. Remember where you saved it and what the file was called. 
+Right-click one of the turtle data links below, your choice, and choose 'Save link as ...' . 
 
-[Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"}
+Remember where you save the file and what it is called. 
+
+| [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"}  | [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"} | [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"}|
+| [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"}  | [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"} | [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"}|
+
+<br/>
 
 --- collapse ---
 ---
