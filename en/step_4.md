@@ -122,7 +122,7 @@ Run your code and click on Turtle 2 (the yellow turtle) to see it move to its st
 
 --- /task ---
 
-Now you need to glide and stamp for each of the coordinates. To do this you will need a variable to keep track of the next item in the list. 
+Now you need move the turtle through the positions. To do this you will need a variable to keep track of the next item in the list. 
 
 --- task ---
 Create a new variable with 'For this sprite only' checked and name it 'location':
@@ -134,6 +134,9 @@ Uncheck the `location`{:class="block3variables"} so it is not displayed on the S
 --- /task ---
 
 --- task --- 
+
+![Use the location to look up items in the lists](images/turtle-2-use-location.gif)
+
 Add a block to set the location to 1 to start at the beginning of the list. Change the `glide`{:class="block3motion"} block so that it uses the `location`{:class="block3variables"} variable instead of the number 1. 
 
 ![image of Turtle 2 sprite](images/turtle-2-sprite.png)
@@ -147,6 +150,9 @@ when this sprite clicked
 --- /task ---
 
 --- task --- 
+
+![Use the location to look up items in the lists](images/turtle-2-add-loop.gif)
+
 Now add a `repeat`{:class="block3control"} loop to loop over the lists of coordinates. There's a block to find out the length of a list which you can use to give the number of times to repeat: 
 
 ![image of Turtle 2 sprite](images/turtle-2-sprite.png)
@@ -185,8 +191,6 @@ change [location v] by (1)
 
 --- task ---
 Run your code to see Turtle 2 draw its route using the x and y coordinates from the lists. 
-
-![Animation with data shown for Turtle 2](images/turtle-2-data-on-stage.gif)
 
 You can try unchecking the location variable and the x coord and y coords lists and arranging them on the Stage and then clicking on Turtle 2 to understand how the data is used.
 
