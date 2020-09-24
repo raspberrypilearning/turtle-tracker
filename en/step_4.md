@@ -85,6 +85,8 @@ Your x and y coordinate lists should look like this:
 --- /task ---
 
 --- task ---
+![Animated of hiding lists](images/turtle-2-hide-lists.gif)
+
 When you have finished entering the data, you can hide the lists from the stage. Uncheck the box next to the lists in the `Variables`{:class="block3variables"} section:
 
 ![screenshot of unchecked lists](images/turtle-2-uncheck-lists.png)
