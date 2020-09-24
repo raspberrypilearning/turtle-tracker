@@ -4,7 +4,9 @@ In this step you will add **lists** of x and y coordinates to the Turtle 2 sprit
 
 In previous projects you have used variables to store data. A variable can only store one piece of data at a time. A list also stores data, but it can store lots of pieces in order. 
 
-You are going to create two lists, one for the x coordinates of your turtle and one for the y coordinates. 
+You are going to create two lists, one for the x coordinates of your turtle and one for the y coordinates. The you will write code that moves the turtle using the data in the lists. 
+
+### Create lists of x and y coordinates
 
 --- task ---
 
@@ -65,7 +67,6 @@ This will add an entry to the list. Enter the value '189', the first x coordinat
 
 ![Add data to x coords](images/turtle-2-add-data.png)
 
-
 Repeat for the rest of the x coordinate values so that your list looks like this:
 
 ![screenshot of x coord list with data](images/turtle-2-x-data.png)
@@ -89,6 +90,8 @@ When you have finished entering the data, you can hide the lists from the stage.
 ![screenshot of unchecked lists](images/turtle-2-uncheck-lists.png)
 
 --- /task ---
+
+### Move the turtles using the data in the lists
 
 Next, you need to write code that it uses the x and y coordinate values from the list to draw the route of Turtle 2. 
 
