@@ -10,12 +10,10 @@ If working **offline**, open the project [starter file](http://rpf.io/p/en/proje
 
 When you open the starter project you will see a grid backdrop and turtle sprites. 
 
-![starter project](images/starter_project.png)
-
 --- /task ---
 
 --- task ---
-If you don't see the grid backdrop you can click on the 'grid/map button' until you see it. 
+If you don't see the grid backdrop you can click on the 'grid/map button' in the top left corner until you see it: 
 
 ![Stage showing map with button highlighted](images/grid-backdrop.png)
 

@@ -27,7 +27,7 @@ title: What you will need
 ### Hardware
 
 + A computer or tablet capable of running Scratch 3.
-+ Storage for files that can be imported and exported to Scratch (such as a shared drive on a network or a USB drive)
++ Ideally, ability to download files to local or shared storage (such as a Downloads directory)
 
 ### Software
 
@@ -44,8 +44,9 @@ title: What you will need
 title: What you will learn
 ---
 
+How to:
 + Use x and y coordinates in Scratch
-+ Use lists to store data
++ Use lists to store and import data
 + Use variables 'for this sprite only'
 
 --- /collapse ---
