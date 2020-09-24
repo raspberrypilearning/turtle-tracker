@@ -34,20 +34,8 @@ glide (1) secs to x: (0) y: (0)
 --- /task ---
 
 --- task ---
-Then add code to move the turtle to it's starting position, at the bottom left of the Stage, when the green flag is clicked:
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
-
-```blocks3
-when green flag clicked
-glide (1) secs to x: (-220) y: (-160)
-```
-
---- /task ---
-
---- task ---
-
-Test your code by clicking the green flag and then clicking on your turtle on the Stage. 
+Test your code by clicking on your turtle on the Stage. 
 
 --- /task ---
 
@@ -86,11 +74,31 @@ glide (1) secs to x: (240) y: (0)
 --- /task ---
 
 --- task ---
-Click on your turtle to watch it glide between locations. 
+Click on your turtle to watch it glide between locations. You can still click on the turtle when it is at the edge of the Stage.
+--- /task ---
+
+When the green flag is clicked, the turtles should line up in a row at the bottom of the Stage.
+
+--- task ---
+Add code to move the turtle to it's starting position, at the bottom left of the Stage, when the green flag is clicked:
+
+![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+
+```blocks3
+when green flag clicked
+glide (1) secs to x: (-220) y: (-160)
+```
+
+Use the grid backdrop to check your understanding of the starting position coordinates.
+
 --- /task ---
 
 --- task ---
-Can you predict the route the turtle will take with this code? Think about where the turtle will go and then change your code to use these coordinates and see if you are correct.
+Click the green flag to see the turtle move to its starting position.
+--- /task ---
+
+--- task ---
+Can you predict the route the turtle will take with this code? Use the grid to help you. Think about where the turtle will go and then change the numbers in your `glide`{:class="block3motion"} blocks to use these coordinates and see if you are correct. 
 
 ![image of Turtle 1 sprite](images/turtle-1-sprite.png)
 

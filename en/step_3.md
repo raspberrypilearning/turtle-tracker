@@ -4,9 +4,7 @@ In this step you will stamp a marker to represent known locations of a turtle an
 
 When a tag is placed on a turtle, it uses the Global Positioning System (GPS) to detect its current position from a satellite. This data is stored and can be used to work out the route taken by the turtle. 
 
---- task ---
-Add the pen extension to your project. 
---- /task ---
+The pen extension has already been added to the starter project. 
 
 --- task ---
 Select the Turtle 1 sprite and add code to set up the pen:
@@ -43,6 +41,15 @@ glide (1) secs to x: (-100) y: (100)
 glide (1) secs to x: (100) y: (100)
 ```
 
+--- task ---
+Click the green flag to run the setup code and then click on Turtle 1 on the Stage to see it draw it's path.
+
+![Path of Turtle 1 sprite](images/turtle-1-path.png)
+
+If your turtle doesn't draw a square then carefully check the coordinates you entered in the previous step. 
+
+--- /task ---
+
 --- /task ---
 
 Now add a stamp of the turtle to show the known positions of the turtle. 
@@ -69,7 +76,10 @@ glide (1) secs to x: (100) y: (100)
 --- /task ---
 
 --- task ---
-Click the green flag and then click on Turtle 1 to see the turtle draw its route and stamp a marker at each known position. 
+Click the green flag and then click on Turtle 1 to see the turtle draw its route and stamp a marker at each known position.
+
+![Path of Turtle 1 sprite with stamps](images/turtle-1-stamps.png)
+
 --- /task ---
 
 --- task ---

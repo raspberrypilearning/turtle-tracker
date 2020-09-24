@@ -10,13 +10,13 @@ You are going to create two lists, one for the x coordinates of your turtle and 
 
 ![animation of adding x coords list for this sprite](images/add-x-coords-list.gif)
 
-Select the yellow Turtle 2 sprite, click on the Code tab and then the `Variables`{:class="block3variables"} section. 
+Select the yellow Turtle 2 sprite and click on the Code tab. This turtle already has set up code for the pen and to move to a starting position. 
 
 ![image of Turtle 2 sprite](images/turtle-2-sprite.png)
 
-Click on 'Make a List'.
+ Click on the `Variables`{:class="block3variables"} section and then click on 'Make a List'.
 
-![image highlighting Make a List button](images/make-a-list.png)
+![image highlighting Make a List button](images/turtle-2-make-a-list.png)
 
 Name the list 'x coords'.
 
@@ -27,13 +27,15 @@ Click 'OK' and the list will appear on the stage.
 --- /task ---
 
 --- task ---
-Now make a second list called 'y coords'. You must select 'For this sprite only'. 
+![animation of adding y coords list for this sprite](images/add-y-coords-list.gif)
 
---- /task ---
+Now make a second list called 'y coords'. You must select 'For this sprite only'. 
 
 You will now have two empty lists on the Stage:
 
 ![screenshot of empty lists](images/empty-lists.png)
+
+--- /task ---
 
 Next you need to add coordinate data to the lists. 
 
@@ -70,7 +72,7 @@ Be careful to enter the '-' in negative numbers such as '-58'.
 --- task ---
 Use the '+' at the bottom of the `y coords`{:class="block3variables"} list to add the y coordinate data for your turtle. 
 
-Your y coordinate list should look like this:
+Your x and y coordinate lists should look like this:
 
 ![screenshot of y coord list with data](images/turtle-2-y-data.png)
 
@@ -79,7 +81,7 @@ Your y coordinate list should look like this:
 --- task ---
 When you have finished entering the data, you can hide the lists from the stage. Uncheck the box next to the lists in the `Variables`{:class="block3variables"} section:
 
-![screenshot of unchecked lists](images/uncheck-lists.png)
+![screenshot of unchecked lists](images/turtle-2-uncheck-lists.png)
 
 --- /task ---
 
@@ -112,9 +114,11 @@ Run your code and click on Turtle 2 (the yellow turtle) to see it move to its st
 Now you need to glide and stamp for each of the coordinates. To do this you will need a variable to keep track of the next item in the list. 
 
 --- task ---
-Create a new variable with 'For this sprite only' checked and name it 'location'  :
+Create a new variable with 'For this sprite only' checked and name it 'location':
 
-![screenshot of empty lists](images/turtle-location variable.png)
+![screenshot of list variable](images/turtle-2-location-variable.png)
+
+Uncheck the `location`{:class="block3variables"} so it is not displayed on the Stage.
 
 --- /task ---
 
@@ -163,16 +167,21 @@ pen up
 set [location v] to (1) 
 repeat (length of [x coords v])
 glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
-change [location v] by (1)
 +pen down
 +stamp
-
+change [location v] by (1)
 ```
 
 --- /task ---
 
 --- task ---
 Run your code to see Turtle 2 draw its route using the x and y coordinates from the lists. 
+
+![Animation with data shown for Turtle 2](images/turtle-2-data-on-stage.gif)
+
+You can try unchecking the location variable and the x coord and y coords lists and arranging them on the Stage and then clicking on Turtle 2 to understand how the data is used.
+
+![Stage with data shown for Turtle 2](images/turtle-2-data-on-stage.png)
 
 --- /task ---
 
