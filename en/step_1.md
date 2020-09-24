@@ -56,6 +56,10 @@ How to:
 title: Additional information for educators
 ---
 
+The later steps of this project ask learners to download files that are them imported into Scratch. We recommend that you try this out first using the devices and network that learners will be doing so that you can tell them exactly what to do. Downloading and importing files to Scratch works on desktop and mobile devices and is straightforward but the exact details vary depending on the device, browser and operating system version. 
+
+If you are using iPads then iOS 13 supports local file storage to a Downloads directory. If you are using an older version of iOS then you will need a suitable storage location such as a cloud drive. 
+
 You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
