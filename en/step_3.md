@@ -52,8 +52,6 @@ If your turtle doesn't draw a square then carefully check the coordinates you en
 
 --- /task ---
 
---- /task ---
-
 Now add a stamp of the turtle to show the known positions of the turtle. 
 
 --- task ---
