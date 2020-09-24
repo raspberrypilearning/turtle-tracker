@@ -41,8 +41,10 @@ glide (1) secs to x: (-100) y: (100)
 glide (1) secs to x: (100) y: (100)
 ```
 
+--- /task ---
+
 --- task ---
-Click the green flag to run the setup code and then click on Turtle 1 on the Stage to see it draw it's path.
+Click the green flag to run the setup code and then click on Turtle 1 on the Stage to see it draw its path.
 
 ![Path of Turtle 1 sprite](images/turtle-1-path.png)
 
