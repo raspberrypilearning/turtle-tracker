@@ -18,9 +18,9 @@ Select the yellow Turtle 2 sprite and click on the Code tab. This turtle already
 
 ![image highlighting Make a List button](images/turtle-2-make-a-list.png)
 
-Name the list 'x coords'.
+Name the list 'x coords'. Choose 'For this sprite only' - this will allow each Turtle sprite to have its own coordinates.
 
-Choose 'For this sprite only' - this will allow each Turtle sprite to have its own coordinates. 
+![List creation dialogue for x coords](images/turtle-2-x-list.png)
 
 Click 'OK' and the list will appear on the stage.
 
@@ -29,7 +29,9 @@ Click 'OK' and the list will appear on the stage.
 --- task ---
 ![animation of adding y coords list for this sprite](images/add-y-coords-list.gif)
 
-Now make a second list called 'y coords'. You must select 'For this sprite only'. 
+Now click 'Make a List' again to make a second list called 'y coords'. You must select 'For this sprite only'. 
+
+![List creation dialogue for y coords](images/turtle-2-y-list.png)
 
 You will now have two empty lists on the Stage:
 
