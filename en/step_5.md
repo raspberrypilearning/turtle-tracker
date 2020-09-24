@@ -40,13 +40,13 @@ Select Turtle 2 and click on the Code tab. Drag the `when this sprite clicked`{:
 
 ![Drag code from Turtle 2 to Turtle 3](images/turtle-3-drag-code.png)
 
-Tip: To drag with a mouse or trackpad, hold down the left mouse button while you move. 
+**Tip:** To drag with a mouse or trackpad, hold down the left mouse button while you move. 
 
 The code will still be available on Turtle 2 but there will also be a copy in Turtle 3's Code tab.
 
 Select Turtle 3 and click on its Code tab to see the copied code. 
 
-Tip: You can right-click in the Code area and choose 'Clean up Blocks' to tidy up your code.
+**Tip:** You can right-click in the Code area and choose 'Clean up Blocks' to tidy up your code.
 
 --- /task ---
 
