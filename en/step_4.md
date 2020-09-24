@@ -59,6 +59,8 @@ This table gives coordinate positions for your turtle:
 </div>
 
 --- task ---
+![Animated gif showing adding first x value](images/turtle-2-add-x-data.gif)
+
 Click on the '+' at the bottom of the `x coords`{:class="block3variables"} list. 
 
 This will add an entry to the list. Enter the value '189', the first x coordinate in the table. 
