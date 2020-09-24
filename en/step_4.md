@@ -103,7 +103,6 @@ Add code to move the Turtle to its first position when it is clicked.
 
 ```blocks3
 when this sprite clicked
-pen up
 glide (1) secs to x: (item (1) of [x coords v]) y: (item (1) of [y coords v])
 ```
 
@@ -128,13 +127,12 @@ Uncheck the `location`{:class="block3variables"} so it is not displayed on the S
 --- /task ---
 
 --- task --- 
-Add a block to set the location to 1 to start at the beginning of the list. Change the `glide to`{:class="block3motion"} block so that it uses the `location`{:class="block3variables"} variable instead of the number 1. 
+Add a block to set the location to 1 to start at the beginning of the list. Change the `glide`{:class="block3motion"} block so that it uses the `location`{:class="block3variables"} variable instead of the number 1. 
 
 ![image of Turtle 2 sprite](images/turtle-2-sprite.png)
 
 ```blocks3
 when this sprite clicked
-pen up
 +set [location v] to (1)
 +glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
 ```
@@ -148,27 +146,26 @@ Now add a `repeat`{:class="block3control"} loop to loop over the lists of coordi
 
 ```blocks3
 when this sprite clicked
-pen up
 set [location v] to (1) 
 +repeat (length of [x coords v])
 glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
 +change [location v] by (1)
 ```
 
-Make sure you drag your `glide`{:class="block3motion"} inside the `repeat`{:class="block3control"}.
+Make sure your `glide`{:class="block3motion"} is inside the `repeat`{:class="block3control"}.
 
 Each time round the loop, location will be increased and the `item`{:class="block3variables"} blocks will get the next item from the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists. 
 
 --- /task ---
 
 --- task ---
-Inside the loop, add blocks to put the `pen down`{:class="block3extensions"} and `stamp`{:class="block3extensions"} the sprite:
+Inside the loop, add blocks to put the `pen up`{:class="block3extensions"} and `pen down`{:class="block3extensions"} and `stamp`{:class="block3extensions"} the sprite:
 
 ![image of Turtle 2 sprite](images/turtle-2-sprite.png)
 
 ```blocks3
 when this sprite clicked
-pen up
++pen up
 set [location v] to (1) 
 repeat (length of [x coords v])
 glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
