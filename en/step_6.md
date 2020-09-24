@@ -13,30 +13,27 @@ We have prepared some more data based on routes that real turtles have taken aro
 
 --- task ---
 
-Right-click (or tap and hold) one of the turtle data links below, your choice, and choose 'Save link as ...' . Save the file on your local computer, a shared network drive or an external drive such as a USB drive. Remember where you saved it and what the file was called. 
+Right-click one of the turtle data links below, your choice, and choose 'Save link as ...' . Save the file on your local computer, a shared network drive or an external drive such as a USB drive. Remember where you saved it and what the file was called. 
+
+[Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv){:target="_blank"}
 
 --- collapse ---
 ---
 title: If you are using an iPad
 ---
 
-On an iPad, using the Safari browser, click on your chosen Turtle link to view the data and then click the share icon
+If your iPad is fully up to date then when you click on a link you will be asked whether you want to View or Download. Choose Download. 
+
+Otherwise, using the Safari browser, click on your chosen Turtle link to view the data and then click the share icon and you will see locations where you can save the file. 
 
 --- /collapse ---
-
-
-[Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv){:target="_blank"}
-
-<a href="https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv" download="turtle-21.csv" title="Turtle 21 Download">Turtle 21 Download</a>
-
-<a href="https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv" target="_blank" title="Turtle 21 View">Turtle 21 View</a>
 
 --- collapse ---
 ---
 title: If you can't download or import the file
 ---
 
-If you are unable to to download a file then you can click or tap on one of the turtle files to open it in your browser. You can then enter the data into the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists for Turtle A as you did for Turtle 2. This is easier if you have a partner to read out the numbers. 
+If you are unable to to download a file then you can click or tap on one of the turtle files to open it in your browser (choose View on a recent iPad). You can then enter the data into the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists for Turtle A as you did for Turtle 2. This is easier if you have a partner to read out the numbers. 
 
 --- /collapse ---
 
@@ -47,9 +44,20 @@ Now go back to Scratch.
 
 ![animation of importing x coords](images/import-x-coords.gif)
 
-Right click (or tap and hold) on the `Turtle A: x coords`{:class="block3variables"} list on the stage and choose import. 
+Right click (or tap and hold) on the `Turtle A: x coords`{:class="block3variables"} list on the stage and choose 'import'. 
 
 Select the file that you downloaded, it will be something like 'turtle5.csv'. 
+
+--- collapse ---
+---
+title: If you are using an iPad
+---
+
+If your iPad is fully up to date then choose the '.csv' file that you downloaded.. 
+
+Otherwise, you will be able to navigate to the location where you saved the file. 
+
+--- /collapse ---
 
 When you are asked 'which column should be used?', enter the number 1. The x coordinate data is in the first column of the file.
 
