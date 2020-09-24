@@ -29,8 +29,6 @@ Click 'OK' and the list will appear on the stage.
 --- /task ---
 
 --- task ---
-![animation of adding y coords list for this sprite](images/add-y-coords-list.gif)
-
 Now click 'Make a List' again to make a second list called 'y coords'. You must select 'For this sprite only'. 
 
 ![List creation dialogue for y coords](images/turtle-2-y-list.png)
