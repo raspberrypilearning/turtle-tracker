@@ -47,7 +47,7 @@ title: What you will learn
 How to:
 + Use x and y coordinates in Scratch
 + Use lists to store and import data
-+ Use variables 'for this sprite only'
++ Use Scratch to understand a real world environmental topic
 
 --- /collapse ---
 
