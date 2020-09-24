@@ -93,7 +93,7 @@ When you have finished entering the data, you can hide the lists from the stage.
 
 ### Move the turtles using the data in the lists
 
-Next, you need to write code that it uses the x and y coordinate values from the list to draw the route of Turtle 2. 
+Next, you need to write code that it uses the x and y coordinate values from the lists to draw the route of Turtle 2. 
 
 The code to set up the pen and starting position has been provided for you. It is the same as for Turtle 1 except that it uses a different pen colour and coordinates. 
 
