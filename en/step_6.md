@@ -7,6 +7,8 @@ Select Turtle A. It has lists that have been created but which don't have any co
 
 Check the boxes to see Turtle A's lists  on the Stage. 
 
+![Turtle A lists on stage](images/turtle-a-lists-on-stage.png)
+
 --- /task ---
 
 We have prepared some more data based on routes that real turtles have taken around Poiloa. You can download these data files and import them into your project so you can find out where the turtles went. 
