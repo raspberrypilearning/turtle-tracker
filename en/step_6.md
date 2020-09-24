@@ -11,13 +11,13 @@ Check the boxes to see Turtle A's lists  on the Stage.
 
 --- /task ---
 
-We have prepared some more data based on routes that real turtles have taken around Poiloa. You can download these data files and import them into your project so you can find out where the turtles went. 
+We have prepared some more data based on routes that real turtles have taken around Poilão. You can download these data files and import them into your project so you can find out where the turtles went. 
 
 --- task ---
 
 Right-click one of the turtle data links below, your choice, and choose 'Save link as ...' . Save the file on your local computer, a shared network drive or an external drive such as a USB drive. Remember where you saved it and what the file was called. 
 
-[Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/poilao%20turtle%2021.csv){:target="_blank"}
+[Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"}
 
 --- collapse ---
 ---
@@ -48,7 +48,9 @@ Now go back to Scratch.
 
 Right click (or tap and hold) on the `Turtle A: x coords`{:class="block3variables"} list on the stage and choose 'import'. 
 
-Select the file that you downloaded, it will be something like 'turtle5.csv'. 
+![Turtle A lists on stage](images/turtle-a-x-import.png)
+
+Select the file that you downloaded, it will be something like 'turtle-5.csv'. 
 
 --- collapse ---
 ---
