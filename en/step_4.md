@@ -63,6 +63,9 @@ Click on the '+' at the bottom of the `x coords`{:class="block3variables"} list.
 
 This will add an entry to the list. Enter the value '189', the first x coordinate in the table. 
 
+![Add data to x coords](images/turtle-2-add-data.png)
+
+
 Repeat for the rest of the x coordinate values so that your list looks like this:
 
 ![screenshot of x coord list with data](images/turtle-2-x-data.png)
