@@ -63,7 +63,7 @@ Otherwise, you will be able to navigate to the location where you saved the file
 
 --- /collapse ---
 
-When you are asked 'which column should be used?', enter the number 1. The x coordinate data is in the first column of the file.
+When you are asked 'which column should be used?', enter the number **1**. The x coordinate data is in the first column of the file.
 
 ![Enter 1 for the column](images/turtle-a-import-x.png)
 
@@ -100,7 +100,7 @@ Select Turtle A under the stage and change its name to match the number of the t
 --- task ---
 Copy the code from Turtle 3 to your new turtle by dragging it. 
 
-Check that the copied code has appeared it the Code are for your new turtle. If not, try again.
+Check that the copied code has appeared in the Code are for your new turtle. If not, try again.
 --- /task ---
 
 --- task ---
@@ -111,7 +111,7 @@ The path will be different depending on the data that you chose.
 --- /task ---
 
 --- task ---
-If you have time you can download more data and follow the journeys of more turtles. You can use Turtle B, the red turtle. If you need more turtles then you can duplicate a turtle and change its costume and pen colour. You can delete the data in the copy using these blocks:
+If you have time you can download more data and follow the journeys of more turtles. You can use Turtle B, the red turtle. If you need more turtles then you can duplicate a turtle and change its costume and pen colour. Before you import new data, delete the data in the copy using these blocks:
 
 ```blocks3
 delete all of [x coords v]
@@ -119,7 +119,6 @@ delete all of [y coords v]
 
 ```
 
-Then you can load new data. 
 --- /task ---
 
 --- task ---
