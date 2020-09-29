@@ -7,7 +7,7 @@ When a tag is placed on a turtle, it uses the Global Positioning System (GPS) to
 The pen extension has already been added to the starter project. 
 
 --- task ---
-Select the Turtle 1 sprite and add code to set up the pen:
+Select the **Turtle 1** sprite and add code to set up the pen:
 
 ![image of Turtle 1 sprite](images/turtle-1-sprite.png)
 
@@ -21,7 +21,7 @@ when green flag clicked
 glide (1) secs to x: (-220) y: (-160)
 ```
 
-The colour `40` matches the colour of Turtle 1's costume.
+The colour `40` matches the colour of **Turtle 1**'s costume.
 
 --- /task ---
 
@@ -44,7 +44,7 @@ glide (1) secs to x: (100) y: (100)
 --- /task ---
 
 --- task ---
-Click the green flag to run the setup code and then click on Turtle 1 on the Stage to see it draw its path.
+Click the green flag to run the setup code and then click on **Turtle 1** on the Stage to see it draw its path.
 
 ![Path of Turtle 1 sprite](images/turtle-1-path.png)
 
@@ -76,7 +76,7 @@ glide (1) secs to x: (100) y: (100)
 --- /task ---
 
 --- task ---
-Click the green flag and then click on Turtle 1 to see the turtle draw its route and stamp a marker at each known position.
+Click the green flag and then click on **Turtle 1** to see the turtle draw its route and stamp a marker at each known position.
 
 ![Path of Turtle 1 sprite with stamps](images/turtle-1-stamps.png)
 

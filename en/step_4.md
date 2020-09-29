@@ -1,6 +1,6 @@
 ## Lists of coordinates
 
-In this step you will add **lists** of x and y coordinates to the Turtle 2 sprite. This will allow you to draw a longer route without having to write code for each location. 
+In this step you will add **lists** of x and y coordinates to the **Turtle 2** sprite. This will allow you to draw a longer route without having to write code for each location. 
 
 In previous projects you have used variables to store data. A variable can only store one piece of data at a time. A list also stores data, but it can store lots of pieces in order. 
 
@@ -12,7 +12,7 @@ You are going to create two lists, one for the x coordinates of your turtle and 
 
 ![animation of adding x coords list for this sprite](images/add-x-coords-list.gif)
 
-Select the yellow Turtle 2 sprite and click on the Code tab. This turtle already has set up code for the pen and to move to a starting position. 
+Select the yellow **Turtle 2** sprite and click on the Code tab. This turtle already has set up code for the pen and to move to a starting position. 
 
 ![image of Turtle 2 sprite](images/turtle-2-sprite.png)
 
@@ -20,7 +20,7 @@ Select the yellow Turtle 2 sprite and click on the Code tab. This turtle already
 
 ![image highlighting Make a List button](images/turtle-2-make-a-list.png)
 
-Name the list 'x coords'. Choose 'For this sprite only' - this will allow each Turtle sprite to have its own coordinates.
+Name the list 'x coords'. Choose 'For this sprite only' - this will allow each turtle sprite to have its own coordinates.
 
 ![List creation dialogue for x coords](images/turtle-2-x-list.png)
 
@@ -95,16 +95,16 @@ When you have finished entering the data, you can hide the lists from the stage.
 
 ### Move the turtles using the data in the lists
 
-Next, you need to write code that it uses the x and y coordinate values from the lists to draw the route of Turtle 2. 
+Next, you need to write code that it uses the x and y coordinate values from the lists to draw the route of **Turtle 2**. 
 
-The code to set up the pen and starting position has been provided for you. It is the same as for Turtle 1 except that it uses a different pen colour and coordinates. 
+The code to set up the pen and starting position has been provided for you. It is the same as for **Turtle 1** except that it uses a different pen colour and coordinates. 
 
-You will use `item (1) of [x coords v]`{:class="block3variables"} to get the first item in the x coords list and `item (1) of [y coords v]`{:class="block3variables"} to get the first item in the y coords list. You will find these blocks in the `Variables`{:class="block3variables"} section. Together these values give you the first position for the Turtle 2.
+You will use `item 1 of x coords`{:class="block3variables"} to get the first item in the x coords list and `item 1 of y coords`{:class="block3variables"} to get the first item in the y coords list. You will find these blocks in the `Variables`{:class="block3variables"} section. Together these values give you the first position for **Turtle 2**.
 
 --- task ---
 ![Add code to move to first position](images/turtle-2-first-position.gif)
 
-Add code to move the Turtle to its first position when it is clicked. 
+Add code to move the turtle to its first position when it is clicked. 
 
 ![image of Turtle 2 sprite](images/turtle-2-sprite.png)
 
@@ -118,7 +118,7 @@ Make sure you choose the correct list from the drop-down menu to select the `x c
 --- /task ---
 
 --- task ---
-Run your code and click on Turtle 2 (the yellow turtle) to see it move to its starting position.
+Run your code and click on **Turtle 2** (the yellow turtle) to see it move to its starting position.
 
 --- /task ---
 
@@ -190,9 +190,9 @@ change [location v] by (1)
 --- /task ---
 
 --- task ---
-Run your code to see Turtle 2 draw its route using the x and y coordinates from the lists. 
+Run your code to see **Turtle 2** draw its route using the x and y coordinates from the lists. 
 
-You can try unchecking the location variable and the x coord and y coords lists and arranging them on the Stage and then clicking on Turtle 2 to understand how the data is used.
+You can try unchecking the location variable and the x coord and y coords lists and arranging them on the Stage and then clicking on **Turtle 2** to understand how the data is used.
 
 ![Stage with data shown for Turtle 2](images/turtle-2-data-on-stage.png)
 

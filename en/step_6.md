@@ -3,9 +3,9 @@
 Scratch allows you to import data from a file. This is really useful when you have lots of data that you want to use and it would take too long to type it. 
 
 --- task ---
-Select Turtle A, the purple turtle. It has lists that have been created but which don't have any coordinates in them. 
+Select **Turtle A**, the purple turtle. It has lists that have been created but which don't have any coordinates in them. 
 
-Check the boxes next to Turtle A's `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists to see them on the Stage. 
+Check the boxes next to **Turtle A**'s `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists to see them on the Stage. 
 
 ![Turtle A lists on stage](images/turtle-a-lists-on-stage.png)
 
@@ -45,7 +45,7 @@ Otherwise, using the Safari browser, click on your chosen Turtle link to view th
 title: If you can't download or import the file
 ---
 
-If you are unable to to download a file then you can click or tap on one of the turtle files to open it in your browser (choose View on a recent iPad). You can then enter the data into the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists for Turtle A as you did for Turtle 2. This is easier if you have a partner to read out the numbers. 
+If you are unable to to download a file then you can click or tap on one of the turtle files to open it in your browser (choose View on a recent iPad). You can then enter the data into the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists for **Turtle A** as you did for Turtle 2. This is easier if you have a partner to read out the numbers. 
 
 --- /collapse ---
 
@@ -101,14 +101,14 @@ This time, choose column **2** which contains the y coordinate data for the same
 --- /task ---
 
 --- task ---
-Select Turtle A under the stage and change its name to match the number of the turtle you imported, such as Turtle 21. This will help you remember which turtle data you have used.
+Select **Turtle A** under the stage and change its name to match the number of the turtle you imported, such as **Turtle 21**. This will help you remember which turtle data you have used.
 
 ![Screenshot highlighting name of Turtle A](images/rename-turtle-a.png)
 
 --- /task ---
 
 --- task ---
-Copy the code from Turtle 3 to your new turtle by dragging it. 
+Copy the code from **Turtle 3** to your new turtle by dragging it. 
 
 Check that the copied code has appeared in the Code are for your new turtle. If not, try again.
 --- /task ---
@@ -121,7 +121,7 @@ The path will be different depending on the data that you chose.
 --- /task ---
 
 --- task ---
-If you have time you can download more data and follow the journeys of more turtles. You can use Turtle B, the red turtle. If you need more turtles then you can duplicate a turtle and change its costume and pen colour. Before you import new data, delete the data in the copy using these blocks:
+If you have time you can download more data and follow the journeys of more turtles. You can use **Turtle B**, the red turtle. If you need more turtles then you can duplicate a turtle and change its costume and pen colour. Before you import new data, delete the data in the copy using these blocks:
 
 ```blocks3
 delete all of [x coords v]
