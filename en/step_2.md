@@ -77,10 +77,10 @@ glide (1) secs to x: (240) y: (0)
 Click on your turtle to watch it glide between locations. You can still click on the turtle when it is at the edge of the Stage.
 --- /task ---
 
-When the green flag is clicked, the turtles should line up in a row at the bottom of the Stage.
+When the green flag is clicked, the turtles should line up in a row at the bottom of the Stage. You will need to add code to make the green turtle return to its starting position.
 
 --- task ---
-Add code to move the turtle to it's starting position, at the bottom left of the Stage, when the green flag is clicked:
+Add a green flag `event`{:class="block3events"} block and a `glide`{:class="block3motion"} block to place the turtle at the bottom left of the Stage, when the green flag is clicked:
 
 ![image of Turtle 1 sprite](images/turtle-1-sprite.png)
 
