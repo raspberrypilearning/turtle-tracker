@@ -45,7 +45,7 @@ Otherwise, using the Safari browser, click on your chosen Turtle link to view th
 title: If you can't download or import the file
 ---
 
-If you are unable to to download a file then you can click or tap on one of the turtle files to open it in your browser (choose View on a recent iPad). You can then enter the data into the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists for **Turtle A** as you did for Turtle 2. This is easier if you have a partner to read out the numbers. 
+If you are unable to to download a file then you can click or tap on one of the turtle files to open it in your browser (choose View on a recent iPad). You can then enter the data into the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists for **Turtle A** as you did for **Turtle 2**. This is easier if you have a partner to read out the numbers. 
 
 --- /collapse ---
 
