@@ -19,12 +19,14 @@ Right-click one of the turtle data links below, your choice, and choose 'Save li
 
 Remember where you save the file and what it is called. 
 
-+ [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"}
-+ [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"}
-+ [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"}
-+ [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"}
-+ [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"} 
-+ [Turtle 21 Data](https://raw.githubusercontent.com/raspberrypilearning/turtle-tracker/draft/en/resources/turtle-21.csv){:target="_blank"}
++ [Turtle 6 Data](http://rpf.io/turtle-6){:target="_blank"}
++ [Turtle 10 Data](http://rpf.io/turtle-10){:target="_blank"}
++ [Turtle 11 Data](http://rpf.io/turtle-11){:target="_blank"}
++ [Turtle 16 Data](http://rpf.io/turtle-16){:target="_blank"}
++ [Turtle 19 Data](http://rpf.io/turtle-19){:target="_blank"} 
++ [Turtle 20 Data](http://rpf.io/turtle-20){:target="_blank"}
++ [Turtle 21 Data](http://rpf.io/turtle-21){:target="_blank"}
++ [Turtle 22 Data](http://rpf.io/turtle-22){:target="_blank"}
 
 
 --- collapse ---
