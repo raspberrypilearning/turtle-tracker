@@ -8,7 +8,7 @@ Turtle tags provide coordinate numbers that show where a turtle has been. It's m
 
 ### What you will make
 
-Click on the green flag and then click on each turtle to see the locations it visited over a few days. You can also click on the button to switch between a Scratch coordinates grid and a map of Poilão island. 
+Click on the green flag and then click on each turtle to see the locations it visited over a few days. You can also click on the 'grid/map button' in the top left corner to switch between a Scratch coordinates grid and a map of Poilão island. 
 
 --- no-print ---
 <div class="scratch-preview">
@@ -35,7 +35,7 @@ title: What you will need
 
 ### Downloads
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
++ Download the starter project and data files [starter file and data](http://rpf.io/p/en/turtle-tracker-go){:target="_blank"} if working offline
 
 --- /collapse ---
 
@@ -60,8 +60,8 @@ The later steps of this project ask learners to download files that are then imp
 
 If you are using iPads then iOS 13 supports local file storage to a Downloads directory. If you are using an older version of iOS then you will need a suitable storage location such as a cloud drive. 
 
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
+You can download the completed project [here](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-tracker/print){:target="_blank"}.
 
 --- /collapse ---

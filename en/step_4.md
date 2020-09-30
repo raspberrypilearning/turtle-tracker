@@ -201,7 +201,7 @@ change [location v] by (1)
 --- task ---
 Run your code to see **Turtle 2** draw its route using the x and y coordinates from the lists. 
 
-You can try unchecking the location variable and the x coord and y coords lists and arranging them on the Stage and then clicking on **Turtle 2** to understand how the data is used.
+You can try checking the boxes next to the location variable and the x coord and y coords lists and arranging them on the Stage and then clicking on **Turtle 2** to understand how the data is used.
 
 ![Stage with data shown for Turtle 2](images/turtle-2-data-on-stage.png)
 
