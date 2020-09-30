@@ -14,8 +14,13 @@ Check the boxes next to **Turtle A**'s `x coords`{:class="block3variables"} and 
 We have prepared some more data based on routes that real turtles have taken around Poilão. You can download these data files and import them into your project so you can find out where the turtles went. 
 
 --- task ---
+--- no-print ---
+Right-click one of the turtle data links below, your choice, and choose 'Save link as ...' or 'Download Linked File As ...'. 
+--- /no-print ---
 
-Right-click one of the turtle data links below, your choice, and choose 'Save link as ...' . 
+--- print-only ---
+Open an new tab in your web browser and type in one of the links below. Most browsers will view the file, you can right-click and choose 'Save as ...' to download the file. 
+--- /print-only ---
 
 Remember where you save the file and what it is called. 
 
