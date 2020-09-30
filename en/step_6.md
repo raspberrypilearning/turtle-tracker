@@ -54,8 +54,6 @@ If you are unable to to download a file then you can click or tap on one of the 
 --- task ---
 Now go back to Scratch. 
 
-![animation of importing x coords](images/import-x-coords.gif)
-
 Right click (or tap and hold) on the `Turtle A: x coords`{:class="block3variables"} list on the stage and choose 'import'. 
 
 ![Turtle A lists on stage](images/turtle-a-x-import.png)
@@ -80,6 +78,10 @@ When you are asked 'which column should be used?', enter the number **1**. The x
 Scratch will load the data from the first column in the file into the Turtle A's x coords list.
 
 ![Turtle A x data on stage](images/turtle-a-x-coords.png)
+
+--- no-print ---
+![animation of importing x coords](images/import-x-coords.gif)
+--- /no-print ---
 
 Your data will have different numbers if you chose a different turtle. 
 

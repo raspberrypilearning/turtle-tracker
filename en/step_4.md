@@ -10,9 +10,7 @@ You are going to create two lists, one for the x coordinates of your turtle and 
 
 --- task ---
 
-![animation of adding x coords list for this sprite](images/add-x-coords-list.gif)
-
-Select the yellow **Turtle 2** sprite and click on the Code tab. This turtle already has set up code for the pen and to move to a starting position. 
+Select the yellow **Turtle 2** sprite and click on the Code tab. This turtle already has set up code for the pen and to move to a starting position 
 
 ![image of Turtle 2 sprite](images/turtle-2-sprite.png)
 
@@ -25,6 +23,10 @@ Name the list 'x coords'. Choose 'For this sprite only' - this will allow each t
 ![List creation dialogue for x coords](images/turtle-2-x-list.png)
 
 Click 'OK' and the list will appear on the stage.
+
+--- no-print ---
+![animation of adding x coords list for this sprite](images/add-x-coords-list.gif)
+--- /no-print ---
 
 --- /task ---
 
@@ -59,8 +61,6 @@ This table gives coordinate positions for your turtle:
 </div>
 
 --- task ---
-![Animated gif showing adding first x value](images/turtle-2-add-x-data.gif)
-
 Click on the '+' at the bottom of the `x coords`{:class="block3variables"} list. 
 
 This will add an entry to the list. Enter the value '189', the first x coordinate in the table. 
@@ -72,6 +72,10 @@ Repeat for the rest of the x coordinate values so that your list looks like this
 ![screenshot of x coord list with data](images/turtle-2-x-data.png)
 
 Be careful to enter the '-' in negative numbers such as '-58'.
+
+--- no-print ---
+![Animated gif showing adding first x value](images/turtle-2-add-x-data.gif)
+--- /no-print ---
 
 --- /task ---
 
@@ -85,11 +89,13 @@ Your x and y coordinate lists should look like this:
 --- /task ---
 
 --- task ---
-![Animated of hiding lists](images/turtle-2-hide-lists.gif)
-
 When you have finished entering the data, you can hide the lists from the stage. Uncheck the box next to the lists in the `Variables`{:class="block3variables"} section:
 
 ![screenshot of unchecked lists](images/turtle-2-uncheck-lists.png)
+
+--- no-print ---
+![Animated of hiding lists](images/turtle-2-hide-lists.gif)
+--- /no-print ---
 
 --- /task ---
 
@@ -102,8 +108,6 @@ The code to set up the pen and starting position has been provided for you. It i
 You will use `item 1 of x coords`{:class="block3variables"} to get the first item in the x coords list and `item 1 of y coords`{:class="block3variables"} to get the first item in the y coords list. You will find these blocks in the `Variables`{:class="block3variables"} section. Together these values give you the first position for **Turtle 2**.
 
 --- task ---
-![Add code to move to first position](images/turtle-2-first-position.gif)
-
 Add code to move the turtle to its first position when it is clicked. 
 
 ![image of Turtle 2 sprite](images/turtle-2-sprite.png)
@@ -114,6 +118,10 @@ glide (1) secs to x: (item (1) of [x coords v]) y: (item (1) of [y coords v])
 ```
 
 Make sure you choose the correct list from the drop-down menu to select the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists. 
+
+--- no-print ---
+![Add code to move to first position](images/turtle-2-first-position.gif)
+--- /no-print ---
 
 --- /task ---
 
@@ -134,9 +142,6 @@ Uncheck the `location`{:class="block3variables"} so it is not displayed on the S
 --- /task ---
 
 --- task --- 
-
-![Use the location to look up items in the lists](images/turtle-2-use-location.gif)
-
 Add a block to set the location to 1 to start at the beginning of the list. Change the `glide`{:class="block3motion"} block so that it uses the `location`{:class="block3variables"} variable instead of the number 1. 
 
 ![image of Turtle 2 sprite](images/turtle-2-sprite.png)
@@ -146,13 +151,13 @@ when this sprite clicked
 +set [location v] to (1)
 +glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y coords v])
 ```
+--- no-print ---
+![Use the location to look up items in the lists](images/turtle-2-use-location.gif)
+--- /no-print ---
 
 --- /task ---
 
 --- task --- 
-
-![Use the location to look up items in the lists](images/turtle-2-add-loop.gif)
-
 Now add a `repeat`{:class="block3control"} loop to loop over the lists of coordinates. There's a block to find out the length of a list which you can use to give the number of times to repeat: 
 
 ![image of Turtle 2 sprite](images/turtle-2-sprite.png)
@@ -166,6 +171,10 @@ glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y
 ```
 
 Make sure your `glide`{:class="block3motion"} is inside the `repeat`{:class="block3control"}.
+
+--- no-print ---
+![Use the location to look up items in the lists](images/turtle-2-add-loop.gif)
+--- /no-print ---
 
 Each time round the loop, location will be increased and the `item`{:class="block3variables"} blocks will get the next item from the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists. 
 
