@@ -1,6 +1,6 @@
 # turtle-tracker
 
-This project is inspired by the work of [The Shuttleworth Foundation](https://shuttleworthfoundation.org)
+This project was created with the kind support and inspiration of the [The Shuttleworth Foundation](https://shuttleworthfoundation.org).
 
 ![turtle-tracker](banner.png)
 
