@@ -26,8 +26,8 @@ title: What you will need
 ---
 ### Hardware
 
-+ A computer or tablet capable of running Scratch 3.
-+ Ideally, ability to download files to local or shared storage (such as a Downloads directory)
++ A computer or tablet capable of running Scratch 3
++ Ideally, the ability to download files to local or shared storage (such as a Downloads directory)
 
 ### Software
 
@@ -46,7 +46,7 @@ title: What you will learn
 
 + Use x and y coordinates in Scratch
 + Use lists to store and import data
-+ Use Scratch to understand a real world environmental topic
++ Use Scratch to understand a real-world environmental topic
 
 --- /collapse ---
 
@@ -55,11 +55,11 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-The later steps of this project ask learners to download files that are then imported into Scratch. We recommend that you try this out first using the devices and network that learners will be doing so that you can tell them exactly what to do. Downloading and importing files to Scratch works on desktop and mobile devices and is straightforward but the exact details vary depending on the device, browser and operating system version. 
+The later steps of this project ask learners to download files that are then imported into Scratch. We recommend that you try this out first, and use the same devices and network as the learners, so that you can tell them exactly what to do. You can download and import files to Scratch on a desktop or mobile device. It is straightforward, but the exact details vary depending on the device, browser, and operating system version. 
 
-If you are using iPads then iOS 13 supports local file storage to a Downloads directory. If you are using an older version of iOS then you will need a suitable storage location such as a cloud drive. 
+If you are using iPads, then iOS 13 supports local file storage to a Downloads directory. If you are using an older version of iOS, then you will need a suitable storage location, such as a cloud drive. 
 
-You can download the completed project [here](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"}.
+You can [download the completed project here](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-tracker/print){:target="_blank"}.
 
