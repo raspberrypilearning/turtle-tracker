@@ -105,7 +105,7 @@ Next, you need to write code that uses the x and y coordinate values from the li
 
 The code to set up the pen and starting position has been provided for you. It is the same as for the **Turtle 1** sprite, except that it uses a different pen colour and coordinates. 
 
-Use `item 1 of x coords`{:class="block3variables"} to get the first item in the x coords list and `item 1 of y coords`{:class="block3variables"} to get the first item in the y coords list. You can find these blocks in the `Variables`{:class="block3variables"} section. Together these values give you the first position for the **Turtle 2** sprite.
+Use `item 1 of x coords`{:class="block3variables"} to get the first item in the `x coords list`{:class="block3variables"}, and `item 1 of y coords`{:class="block3variables"} to get the first item in the `y coords list`{:class="block3variables"}. You can find these blocks in the `Variables`{:class="block3variables"} section. Together these values give you the first position for the **Turtle 2** sprite.
 
 --- task ---
 Add code to move the turtle to its first position when it is clicked. 
