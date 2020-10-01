@@ -133,7 +133,7 @@ Run your code and click on the **Turtle 2** sprite (the yellow turtle) to see it
 Now you need move the turtle through the positions. To do this, you need a variable to keep track of the next item in the list. 
 
 --- task ---
-Create a new variable with **For this sprite only** checked and name it `location`:
+Create a new variable with **For this sprite only** checked and name it `location`.
 
 ![screenshot of list variable](images/turtle-2-location-variable.png)
 
@@ -170,7 +170,7 @@ glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y
 +change [location v] by (1)
 ```
 
-Make sure your `glide`{:class="block3motion"} is inside the `repeat`{:class="block3control"}.
+Make sure your `glide`{:class="block3motion"} block is inside the `repeat`{:class="block3control"} loop.
 
 --- no-print ---
 ![Use the location to look up items in the lists](images/turtle-2-add-loop.gif)
