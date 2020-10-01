@@ -82,14 +82,14 @@ Be careful to enter the `-` in negative numbers such as `-58`.
 --- task ---
 Use the **+** at the bottom of the `y coords`{:class="block3variables"} list to add the y coordinate data for your turtle. 
 
-Your x and y coordinate lists should look like this:
+Your lists should look like this:
 
 ![screenshot of y coord list with data](images/turtle-2-y-data.png)
 
 --- /task ---
 
 --- task ---
-When you have finished entering the data, you can hide the lists from the stage. Uncheck the box next to the lists in the `Variables`{:class="block3variables"} section:
+When you have finished entering the data, you can hide the lists from the stage. Uncheck the box next to the lists in the `Variables`{:class="block3variables"} blocks menu:
 
 ![screenshot of unchecked lists](images/turtle-2-uncheck-lists.png)
 
