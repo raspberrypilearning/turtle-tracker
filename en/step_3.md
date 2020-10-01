@@ -1,6 +1,6 @@
 ## Draw the route
 
-In this step, you will stamp a marker to represent known locations of a turtle and then use the `Pen`{:class="block3extensions"} extension to draw a path to show its movement. 
+In this step, you will stamp a marker to represent known locations of a turtle, and then use the `Pen`{:class="block3extensions"} extension to draw a path to show its movement. 
 
 When a tag is placed on a turtle, it uses the Global Positioning System (GPS) to detect its current position from a satellite. This data is stored and can be used to work out the route taken by the turtle. 
 
