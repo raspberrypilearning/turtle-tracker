@@ -99,7 +99,7 @@ Right-click (or tap and hold) on the `Turtle A: y coords`{:class="block3variable
 
 Choose the same file as before. 
 
-This time, choose column `2` which contains the y coordinate data for the same turtle. 
+This time, choose column `2` as it contains the y coordinate data for the same turtle. 
 
 ![Enter 2 for the column](images/turtle-a-import-y.png)
 
@@ -108,7 +108,7 @@ This time, choose column `2` which contains the y coordinate data for the same t
 --- /task ---
 
 --- task ---
-Select **Turtle A** under the Stage and change its name to match the number of the turtle you imported, such as **Turtle 21**. This will help you remember which turtle data you have used.
+Select **Turtle A** under the Stage and change its name to match the number of the turtle you imported, for example **Turtle 21**. This will help you remember which turtle data you have used.
 
 ![Screenshot highlighting name of Turtle A](images/rename-turtle-a.png)
 
