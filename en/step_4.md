@@ -201,7 +201,7 @@ change [location v] by (1)
 --- task ---
 Run your code to see the **Turtle 2** sprite draw its route using the x and y coordinates from the lists. 
 
-You can try checking the boxes next to the location variable and the x coord and y coords lists, arranging them on the Stage, and then clicking on the **Turtle 2** sprite to understand how the data is used.
+You can try checking the boxes next to the location variable and the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists, arranging them on the Stage, and then clicking on the **Turtle 2** sprite to understand how the data is used.
 
 ![Stage with data shown for the Turtle 2 sprite](images/turtle-2-data-on-stage.png)
 
