@@ -98,7 +98,7 @@ Click the green flag to see the turtle move to its starting position.
 --- /task ---
 
 --- task ---
-Can you predict the route the turtle will take with this code? Use the grid to help you. Think about where the turtle will go, then change the numbers in your `glide`{:class="block3motion"} blocks to use these coordinates and see if you are correct. 
+Can you predict the route the turtle will take with this code? Use the grid to help you. Think about where the turtle will go, then change the numbers in your `glide`{:class="block3motion"} blocks to use these coordinates to see if you are correct. 
 
 ![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
 
