@@ -21,7 +21,7 @@ when green flag clicked
 glide (1) secs to x: (-220) y: (-160)
 ```
 
-The colour `40` matches the colour of the **Turtle 1**'s costume.
+The colour `40` matches the colour of the sprite's costume.
 
 --- /task ---
 
