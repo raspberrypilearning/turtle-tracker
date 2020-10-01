@@ -1,10 +1,10 @@
-## Drawing the route
+## Draw the route
 
-In this step you will stamp a marker to represent known locations of a turtle and then use the pen draw a path showing its movement. 
+In this step, you will stamp a marker to represent known locations of a turtle and then use the `Pen`{:class="block3extensions"} extension to draw a path to show its movement. 
 
 When a tag is placed on a turtle, it uses the Global Positioning System (GPS) to detect its current position from a satellite. This data is stored and can be used to work out the route taken by the turtle. 
 
-The pen extension has already been added to the starter project. 
+The `Pen`{:class="block3extensions"} extension has already been added to the starter project. 
 
 --- task ---
 Select the **Turtle 1** sprite and add code to set up the pen:
@@ -21,14 +21,14 @@ when green flag clicked
 glide (1) secs to x: (-220) y: (-160)
 ```
 
-The colour `40` matches the colour of **Turtle 1**'s costume.
+The colour `40` matches the colour of the **Turtle 1**'s costume.
 
 --- /task ---
 
 --- task ---
 Add code to draw the route taken by the turtle using the pen:
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -44,11 +44,11 @@ glide (1) secs to x: (100) y: (100)
 --- /task ---
 
 --- task ---
-Click the green flag to run the setup code and then click on **Turtle 1** on the Stage to see it draw its path.
+Click the green flag to run the setup code, and then click on the **Turtle 1** on the Stage to see it draw its path.
 
-![Path of Turtle 1 sprite](images/turtle-1-path.png)
+![Path of the Turtle 1 sprite](images/turtle-1-path.png)
 
-If your turtle doesn't draw a square then carefully check the coordinates you entered in the previous step. 
+If your turtle doesn't draw a square, then carefully check the coordinates you entered in the previous step. 
 
 --- /task ---
 
@@ -56,7 +56,7 @@ Now add a stamp of the turtle to show the known positions of the turtle.
 
 --- task ---
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -76,14 +76,14 @@ glide (1) secs to x: (100) y: (100)
 --- /task ---
 
 --- task ---
-Click the green flag and then click on **Turtle 1** to see the turtle draw its route and stamp a marker at each known position.
+Click the green flag and then click on the **Turtle 1** sprite to see the turtle draw its route and stamp a marker at each known position.
 
-![Path of Turtle 1 sprite with stamps](images/turtle-1-stamps.png)
+![Path of the Turtle 1 sprite with stamps](images/turtle-1-stamps.png)
 
 --- /task ---
 
 --- task ---
-Of course turtles don't swim in perfect squares! Try changing the coordinate numbers to get your turtle to swim in a different route.   
+Of course, turtles don't swim in perfect squares! Try change the coordinate numbers to get your turtle to swim in a different route.   
 
 --- /task ---
 
