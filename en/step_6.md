@@ -72,7 +72,7 @@ title: If you are using an iPad
 
 If your iPad is fully up to date, then you will be able to choose the `.csv` file from your Downloads folder.
 
-Otherwise, you will be able to navigate to the location where you saved the file such as a cloud drive. 
+Otherwise, you will be able to navigate to the location where you saved the file, such as a cloud drive. 
 
 --- /collapse ---
 
