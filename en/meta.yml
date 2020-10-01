@@ -8,9 +8,9 @@ last_tested: "2020-09-10"
 steps:
   - title: Introduction
   - title: Using coordinates
-  - title: Drawing the route
+  - title: Draw the route
   - title: Lists of coordinates
   - title: Real turtle movements
-  - title: Importing turtle data
+  - title: Import turtle data
   - title: What next?
 
