@@ -1,6 +1,6 @@
 ## Draw the route
 
-In this step, you will use the Pen{:class="block3extensions"} extension to draw a path to show the turtle’s movement, and will then add stamps to represent its known locations. 
+In this step, you will use the Pen{:class="block3extensions"} extension to draw a path to show the turtle’s movement, and will then add a stamp to represent its known locations. 
 
 When a tag is placed on a turtle, it uses the Global Positioning System (GPS) to detect its current position from a satellite. This data is stored and can be used to work out the route taken by the turtle. 
 
@@ -48,11 +48,11 @@ Click the green flag to run the setup code, and then click on the **Turtle 1** o
 
 ![Path of the Turtle 1 sprite](images/turtle-1-path.png)
 
-If your turtle doesn't draw a square, then carefully check the coordinates you entered in the previous step. 
+If your turtle doesn't draw a square, then carefully check your coordinates from the previous step. 
 
 --- /task ---
 
-Now add a stamp of the turtle to show the known positions of the turtle. 
+Now add a stamp of the turtle to show its known positions. 
 
 --- task ---
 
