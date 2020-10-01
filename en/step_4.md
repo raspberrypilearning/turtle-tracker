@@ -2,7 +2,7 @@
 
 In this step, you will add **lists** of x and y coordinates to the **Turtle 2** sprite. This allows you to draw a longer route without having to write code for each location. 
 
-In previous projects you have used variables to store data. A variable can only store one piece of data at a time. A list also stores data, but it can store lots of pieces in order. 
+In previous projects you have used variables to store data. A variable can only store one piece of data at a time. A list also stores data, but it can store lots of information in order. 
 
 You are going to create two lists, one for the x coordinates of your turtle and one for the y coordinates. Then, you will write code that moves the turtle using the data in the lists. 
 
@@ -10,7 +10,7 @@ You are going to create two lists, one for the x coordinates of your turtle and 
 
 --- task ---
 
-Select the yellow **Turtle 2** sprite and click on the **Code** tab. This turtle already has code setup for the pen, and to move to a starting position. 
+Select the yellow **Turtle 2** sprite and click on the **Code** tab. This turtle already has code set up for the pen and to move to a starting position. 
 
 ![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
 
