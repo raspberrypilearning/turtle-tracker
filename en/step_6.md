@@ -19,7 +19,7 @@ Right-click one of the turtle data links below, your choice, and choose **Save l
 --- /no-print ---
 
 --- print-only ---
-Open an new tab in your web browser and type in one of the links below. Most browsers can view the file, you can right-click and choose **Save as ...** to download the file. 
+Open a new tab in your web browser and type in one of the links below. Most browsers can view the file, you can right-click and choose **Save as ...** to download the file. 
 --- /print-only ---
 
 Remember where you save the file and what it is called. 
