@@ -19,7 +19,7 @@ If you don't see the grid backdrop, you can click on the 'grid/map button' in th
 
 --- /task ---
 
-Scratch uses x and y coordinate numbers to indicate locations on the Stage. The x coordinate gives the left–right position, and the y coordinate gives the up–down position. The coodinate of the centre of the stage is (x=0, y=0). Let's send the **Turtle 1** sprite to the centre of the Stage. 
+Scratch uses x and y coordinate numbers to indicate locations on the Stage. The x coordinate gives the left–right position, and the y coordinate gives the up–down position. The coodinate of the centre of the Stage is (x=0, y=0). Let's send the **Turtle 1** sprite to the centre of the Stage. 
 
 --- task ---
 Select the **Turtle 1** sprite and click on its **Code** tab. Add code to move the turtle to the centre of the Stage when it is clicked:
