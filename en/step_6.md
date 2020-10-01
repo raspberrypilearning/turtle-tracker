@@ -76,11 +76,11 @@ Otherwise, you will be able to navigate to the location where you saved the file
 
 --- /collapse ---
 
-When you are asked **which column should be used?**, enter the number **1**. The x coordinate data is in the first column of the file.
+When you are asked **Which column should be used?**, enter the number **1**. The x coordinate data is in the first column of the file.
 
 ![Enter 1 for the column](images/turtle-a-import-x.png)
 
-Scratch will load the data from the first column in the file into the Turtle A's `x coords`{:class="block3variables"} list.
+Scratch will load the data from the first column in the file into the `Turtle A: x coords`{:class="block3variables"} list.
 
 ![Turtle A x data on stage](images/turtle-a-x-coords.png)
 
@@ -95,7 +95,7 @@ Your data will have different numbers if you chose a different turtle.
 --- task ---
 Now repeat the importing of the data for the y coordinates. 
 
-Right-click (or tap and hold) on the `Turtle A: y coords`{:class="block3variables"} list and choose import.
+Right-click (or tap and hold) on the `Turtle A: y coords`{:class="block3variables"} list and choose **import**.
 
 Choose the same file as before. 
 
