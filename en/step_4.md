@@ -18,7 +18,7 @@ Select the yellow **Turtle 2** sprite and click on the **Code** tab. This turtle
 
 ![image highlighting Make a List button](images/turtle-2-make-a-list.png)
 
-Name the list `x coords`. Choose '**For this sprite only** — this will allow each turtle sprite to have its own coordinates.
+Name the list `x coords`. Choose **For this sprite only** — this will allow each turtle sprite to have its own coordinates.
 
 ![List creation dialogue for x coords](images/turtle-2-x-list.png)
 
