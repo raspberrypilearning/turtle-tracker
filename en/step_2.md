@@ -22,7 +22,7 @@ If you don't see the grid backdrop you can click on the 'grid/map button' in the
 Scratch uses x and y coordinate numbers to indicate locations on the Stage. The x coordinate gives the left-right position and the y coordinate gives the up-down position. The coodinate of the centre of the stage is (x=0, y=0). Let's send **Turtle 1** to the centre of the Stage. 
 
 --- task ---
-Select the **Turtle 1** sprite and click on its Code tab. Add code to move the turtle to the centre of the Stage when it is clicked:
+Select the **Turtle 1** sprite and click on its **Code** tab. Add code to move the turtle to the centre of the Stage when it is clicked:
 
 ![image of Turtle 1 sprite](images/turtle-1-sprite.png)
 
@@ -98,7 +98,7 @@ Click the green flag to see the turtle move to its starting position.
 --- /task ---
 
 --- task ---
-Can you predict the route the turtle will take with this code? Use the grid to help you. Think about where the turtle will go and then change the numbers in your `glide`{:class="block3motion"} blocks to use these coordinates and see if you are correct. 
+Can you predict the route the turtle will take with this code? Use the grid to help you. Think about where the turtle will go, then change the numbers in your `glide`{:class="block3motion"} blocks to use these coordinates and see if you are correct. 
 
 ![image of Turtle 1 sprite](images/turtle-1-sprite.png)
 
