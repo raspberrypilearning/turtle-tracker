@@ -56,7 +56,7 @@ Click the **Turtle 3** sprite, the orange turtle, on the Stage to run your code 
 
 GPS readings are not perfectly accurate, and the turtles can't be tracked when they spend time underwater, but they give a very good idea where the turtles have travelled.
 
-**Remember:** You have one location for the turtle each day so the lines join up the locations, they don't show how the turtle moved between positions (you would need more data for that).
+**Remember:** You have one location for the turtle each day, so the lines join up the locations, they don't show how the turtle moved between positions (you would need more data for that).
 
 --- /task ---
 
