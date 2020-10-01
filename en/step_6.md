@@ -1,6 +1,6 @@
 ## Import data from a file
 
-Scratch allows you to import data from a file. This is really useful when you have lots of data that you want to use and would take too long to type in. 
+Scratch allows you to import data from a file. This is really useful when you have lots of data you want to use that would take too long to type in. 
 
 --- task ---
 Select the **Turtle A** sprite, the purple turtle. It has lists that have been created, but don't have any coordinates in them. 
