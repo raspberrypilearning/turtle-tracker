@@ -142,7 +142,7 @@ Uncheck `location`{:class="block3variables"}, so it is not displayed on the Stag
 --- /task ---
 
 --- task --- 
-Add a block to set the location to 1 to start at the beginning of the list. Change the `glide`{:class="block3motion"} block so that it uses the `location`{:class="block3variables"} variable instead of the number 1. 
+Add a block to set the `location`{:class="block3variables"} to `1` to start at the beginning of the list. Change the `glide`{:class="block3motion"} block so that it uses the `location`{:class="block3variables"} variable instead of the number 1. 
 
 ![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
 
