@@ -35,7 +35,7 @@ Now click **Make a List** again to make a second list called `y coords`. You mus
 
 ![List creation dialogue for y coords](images/turtle-2-y-list.png)
 
-You now have two empty lists on the Stage:
+You now have two empty lists on the Stage.
 
 ![screenshot of empty lists](images/empty-lists.png)
 
@@ -89,7 +89,7 @@ Your lists should look like this:
 --- /task ---
 
 --- task ---
-When you have finished entering the data, you can hide the lists from the stage. Uncheck the box next to the lists in the `Variables`{:class="block3variables"} blocks menu:
+When you have finished entering the data, you can hide the lists from the Stage. Uncheck the box next to the lists in the `Variables`{:class="block3variables"} blocks menu.
 
 ![screenshot of unchecked lists](images/turtle-2-uncheck-lists.png)
 
@@ -181,7 +181,7 @@ Each time round the loop, location increases and the `item`{:class="block3variab
 --- /task ---
 
 --- task ---
-Inside the loop, add blocks to put the `pen up`{:class="block3extensions"}, `pen down`{:class="block3extensions"}, and `stamp`{:class="block3extensions"} the sprite:
+Inside the loop, add blocks to put the `pen up`{:class="block3extensions"}, `pen down`{:class="block3extensions"}, and `stamp`{:class="block3extensions"} the sprite.
 
 ![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
 
