@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project you will use the pen tool and Scratch x and y coordinates to draw the locations visited by green sea turtles over a few days during their nesting time. It's important to understand the movements of these endangered creatures so that they can be protected.
+In this project you will use the `Pen`{:class="block3extensions"} extension and Scratch x and y coordinates to draw the locations visited by green sea turtles over a few days during their nesting time. It's important to understand the movements of these endangered creatures so that they can be protected.
 
 This project is inspired by the work of The Shuttleworth Foundation, which has tracked the movement of turtles based at the islands of Príncipe and Poilão off the west coast of Africa. Each year turtles return to their nesting grounds and spend time mating and laying eggs. But where exactly do they go while they are there? The Shuttleworth Foundation has developed inexpensive electronic tags that can be safely attached to real sea turtles to track their movement. 
 
