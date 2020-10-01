@@ -76,7 +76,7 @@ Otherwise, you will be able to navigate to the location where you saved the file
 
 --- /collapse ---
 
-When you are asked **Which column should be used?**, enter the number **1**. The x coordinate data is in the first column of the file.
+When you are asked **Which column should be used?**, enter the number `1`. The x coordinate data is in the first column of the file.
 
 ![Enter 1 for the column](images/turtle-a-import-x.png)
 
@@ -99,7 +99,7 @@ Right-click (or tap and hold) on the `Turtle A: y coords`{:class="block3variable
 
 Choose the same file as before. 
 
-This time, choose column **2** which contains the y coordinate data for the same turtle. 
+This time, choose column `2` which contains the y coordinate data for the same turtle. 
 
 ![Enter 2 for the column](images/turtle-a-import-y.png)
 
