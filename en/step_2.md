@@ -13,7 +13,7 @@ When you open the starter project you will see a grid backdrop and turtle sprite
 --- /task ---
 
 --- task ---
-If you don't see the grid backdrop, you can click on the 'grid/map button' in the top left corner until you see it: 
+If you don't see the grid backdrop, you can click on the 'grid/map button' in the top left corner of the Stage until you see it: 
 
 ![Stage showing map with button highlighted](images/grid-backdrop.png)
 
