@@ -39,7 +39,7 @@ Remember where you save the file and what it is called.
 title: If you are using an iPad
 ---
 
-If your iPad is fully up to date, then when you click on a link you will be asked whether you want to **View** or **Download**. Choose Download. 
+If your iPad is fully up to date, then when you click on a link you will be asked whether you want to **View** or **Download**. Choose **Download**. 
 
 Otherwise, using the Safari browser, click on your chosen turtle link to view the data, and then click the share icon. You will see the locations where you can save the file. 
 
