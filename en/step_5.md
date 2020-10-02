@@ -23,9 +23,9 @@ Open the `Variables`{:class="block3variables"} blocks menu, and check the boxes 
 
 ![Screenshot of the Turtle 3 lists on stage](images/turtle-3-lists-on-stage.png)
 
-These lists are **For this sprite only** and contain different data to the lists you created for the **Turtle 2** sprite.
+These lists are **For this sprite only**, they contain different data to the lists you created for the **Turtle 2** sprite.
 
-You can see the x and y coordinates on the Stage. These are based on the real movements of a sea turtle and have been turned into Scratch coordinates that work with the Poilão Island backdrop. 
+You can see the x and y coordinates on the Stage. These are based on the real movements of a sea turtle and have been turned into Scratch coordinates that work with the **Poilão Island** backdrop. 
 
 When you have seen the coordinates, you can uncheck the boxes to hide them. 
 
