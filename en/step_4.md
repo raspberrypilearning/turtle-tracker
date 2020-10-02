@@ -61,7 +61,7 @@ This table gives coordinate positions for your turtle:
 </div>
 
 --- task ---
-Click on the + at the bottom of the `x coords`{:class="block3variables"} list. 
+Click on the **+** at the bottom of the `x coords`{:class="block3variables"} list. 
 
 This adds an entry to the list. Enter the value `189`, the first x coordinate in the table. 
 
@@ -80,7 +80,7 @@ Be careful to enter the `-` in negative numbers such as `-58`.
 --- /task ---
 
 --- task ---
-Use the + at the bottom of the `y coords`{:class="block3variables"} list to add the y coordinate data for your turtle. 
+Use the **+** at the bottom of the `y coords`{:class="block3variables"} list to add the y coordinate data for your turtle. 
 
 Your lists should look like this:
 
