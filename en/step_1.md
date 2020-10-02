@@ -8,7 +8,7 @@ Turtle tags provide coordinate numbers that show where a turtle has been. It's m
 
 ### What you will make
 
-Click on the green flag and then click on each turtle to see the locations it visited over a few days. You can also click on the **Grid/map** button in the top left-hand corner to switch between a Scratch coordinates grid and a map of Poilão island. 
+Click on the green flag and then click on each turtle to see the locations it visited over a few days. You can also click on the **grid/map** button in the top left-hand corner to switch between a Scratch coordinates grid and a map of Poilão island. 
 
 --- no-print ---
 <div class="scratch-preview">
