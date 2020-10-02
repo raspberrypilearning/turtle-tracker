@@ -63,7 +63,7 @@ Right-click (or tap and hold) on the `Turtle A: x coords`{:class="block3variable
 
 ![Turtle A lists on stage](images/turtle-a-x-import.png)
 
-Select the file that you downloaded, it will be something like `turtle-5.csv`. 
+Select the file that you have downloaded, it will be something like `turtle-5.csv`. 
 
 --- collapse ---
 ---
