@@ -15,7 +15,7 @@ We have prepared some more data based on routes that real turtles have taken aro
 
 --- task ---
 --- no-print ---
-Right-click one of the turtle data links below, your choice, and choose **Save link as ...** or **Download linked file as ...** 
+Right-click one of the turtle data links below, and choose **Save link as ...** or **Download linked file as ...** 
 --- /no-print ---
 
 --- print-only ---
