@@ -8,12 +8,12 @@ If working **online**, open the [starter project](http://rpf.io/p/en/projectName
  
 If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
 
-When you open the starter project, you will see a grid backdrop and turtle sprites. 
+When you open the starter project, you will see a grid and turtles. 
 
 --- /task ---
 
 --- task ---
-If you don't see the grid backdrop, you can click on the **grid/map** button in the top left-hand corner of the Stage until you see it: 
+If you don't see a grid, you can click on the **Grid/Map Button** in the top left-hand corner of the Stage until you see it: 
 
 ![Stage showing map with button highlighted](images/grid-backdrop.png)
 
