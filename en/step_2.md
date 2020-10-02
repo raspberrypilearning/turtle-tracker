@@ -42,7 +42,7 @@ Test your code by clicking on your turtle on the Stage.
 The x coordinate gives a left-to-right position from -240 to 240. Negative x coordinates are to the left of the centre of the Stage, and positive coordinates are to the right. 
 
 --- task ---
-Add code to get the turtle to 'swim' to the left and then the right of the Stage:
+Add code to get the turtle to swim to the left and then the right of the Stage:
 
 ![image of Turtle 1 sprite](images/turtle-1-sprite.png)
 
