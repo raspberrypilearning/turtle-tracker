@@ -4,7 +4,7 @@ In this step, you will switch to to the map backdrop **Poilão Island**. Coordin
 
 --- task ---
 
-Click on the **Grid/Map Button** and you will see a map of the area around Poilão island, off the west coast of Africa.  
+Click on the **Grid/Map Button** and you will see a map of the area around Poilão, an island off the west coast of Africa.  
 
 ![Stage showing map with button highlighted](images/map-backdrop.png)
 
