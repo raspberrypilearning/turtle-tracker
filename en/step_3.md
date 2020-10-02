@@ -2,6 +2,8 @@
 
 In this step, you will use the `Pen`{:class="block3extensions"} extension to draw a path to show the turtle’s movement, and will then add a stamp to represent its known locations. 
 
+A stamp is a copy of the sprite, which you cannot move or delete once you have stamped it.
+
 When a tag is placed on a turtle, it uses the Global Positioning System (GPS) to detect its current position from a satellite. This data is stored and can be used to work out the route taken by the turtle. 
 
 The `Pen`{:class="block3extensions"} extension has already been added to the starter project. 
