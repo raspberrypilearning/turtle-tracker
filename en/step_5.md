@@ -31,7 +31,7 @@ When you have seen the coordinates, you can uncheck the boxes to hide them.
 
 --- /task ---
 
-It's hard for humans to understand lists of numbers. Now, you'll copy your code to the **Turtle 3** sprite to draw and stamp the coordinates to make it easier to see where this turtle went. 
+It's hard for humans to understand lists of numbers. Your task is to copy your code to the **Turtle 3** sprite to draw and stamp the coordinates to make it easier to see where this turtle went. 
 
 --- task ---
 Select the **Turtle 2** sprite and click on the **Code** tab. Drag the `when this sprite clicked`{:class="block3events"} block (all the blocks underneath will also move). Keep dragging until you are over the **Turtle 3** sprite in the Sprite pane under the Stage. The **Turtle 3** sprite will do a little wiggle to show that it has been selected and you can stop dragging. 
