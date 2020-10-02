@@ -3,7 +3,8 @@
 In this step, you will switch to using a map backdrop that shows the island of Poilão. Coordinate data for a real turtle that was tracked by the Shuttleworth Foundation has already been added to the **Turtle 3** sprite. Copy your code from the **Turtle 2** sprite to **Turtle 3** to see the route that this turtle took.
 
 --- task ---
-Click on the 'grid/map' button to switch to the Poilão Island backdrop. 
+
+Click on the **grid/map** button to switch to the map backdrop **Poilão Island**.
 
 ![Stage showing map with button highlighted](images/map-backdrop.png)
 
