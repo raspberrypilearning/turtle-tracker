@@ -89,7 +89,7 @@ when green flag clicked
 glide (1) secs to x: (-220) y: (-160)
 ```
 
-Use the grid backdrop to check your understanding of the starting position coordinates.
+Use the grid to check your understanding of the starting position coordinates.
 
 --- /task ---
 
