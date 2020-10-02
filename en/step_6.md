@@ -108,14 +108,14 @@ This time, choose column `2` as it contains the y coordinate data for the same t
 --- /task ---
 
 --- task ---
-Select **Turtle A** under the Stage and change its name to match the number of the turtle you imported, for example **Turtle 21**. This will help you remember which turtle data you have used.
+Select the **Turtle A** sprite under the Stage and change its name to match the number of the turtle you imported, for example **Turtle 21**. This will help you remember which turtle data you have used.
 
 ![Screenshot highlighting name of Turtle A](images/rename-turtle-a.png)
 
 --- /task ---
 
 --- task ---
-Copy the code from **Turtle 3** to your new turtle by dragging it. 
+Copy the code from the **Turtle 3** sprite to your new turtle by dragging it. 
 
 Check that the copied code has appeared in the Code area for your new turtle. If not, try again.
 --- /task ---
