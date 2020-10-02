@@ -54,7 +54,7 @@ If your turtle doesn't draw a square, then carefully check your coordinates from
 
 --- /task ---
 
-Now add a stamp of the turtle to show its known positions. 
+Now add a `stamp`{:class="block3extensions"} of the turtle to show its known positions. 
 
 --- task ---
 
