@@ -46,7 +46,7 @@ glide (1) secs to x: (100) y: (100)
 --- /task ---
 
 --- task ---
-Click the green flag to run the setup code, and then click on the **Turtle 1** on the Stage to see it draw its path.
+Click the green flag to run the setup code, and then click on the **Turtle 1** sprite on the Stage to see it draw its path.
 
 ![Path of the Turtle 1 sprite](images/turtle-1-path.png)
 
@@ -78,7 +78,7 @@ glide (1) secs to x: (100) y: (100)
 --- /task ---
 
 --- task ---
-Click the green flag and then click on the **Turtle 1** sprite to see the turtle draw its route and stamp a marker at each known position.
+Click the green flag, and then click on the **Turtle 1** sprite to see the turtle draw its route and stamp a marker at each known position.
 
 ![Path of the Turtle 1 sprite with stamps](images/turtle-1-stamps.png)
 
