@@ -35,7 +35,7 @@ title: What you will need
 
 ### Downloads
 
-+ If you are working offline, download the starter project and data files [starter file and data](http://rpf.io/p/en/turtle-tracker-go){:target="_blank"} 
++ If you are working offline, download the [starter project and data files](http://rpf.io/p/en/turtle-tracker-go){:target="_blank"} 
 --- /collapse ---
 
 --- collapse ---
