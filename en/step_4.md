@@ -61,7 +61,7 @@ This table gives coordinate positions for your turtle:
 </div>
 
 --- task ---
-Click on the `+` at the bottom of the `x coords`{:class="block3variables"} list. 
+Click on the + at the bottom of the `x coords`{:class="block3variables"} list. 
 
 This adds an entry to the list. Enter the value `189`, the first x coordinate in the table. 
 
@@ -80,7 +80,7 @@ Be careful to enter the `-` in negative numbers such as `-58`.
 --- /task ---
 
 --- task ---
-Use the `+` at the bottom of the `y coords`{:class="block3variables"} list to add the y coordinate data for your turtle. 
+Use the + at the bottom of the `y coords`{:class="block3variables"} list to add the y coordinate data for your turtle. 
 
 Your lists should look like this:
 
@@ -105,7 +105,7 @@ Next, you need to write code that uses the x and y coordinate values from the li
 
 The code to set up the pen and starting position has been provided for you. It is the same as for the **Turtle 1** sprite, except that it uses a different pen colour and coordinates. 
 
-Use `item 1 of x coords`{:class="block3variables"} block to get the first item in the `x coords list`{:class="block3variables"}, and `item 1 of y coords`{:class="block3variables"} block to get the first item in the `y coords list`{:class="block3variables"}. You can find these blocks in the `Variables`{:class="block3variables"} blocks menu. Together these values give you the first position for the **Turtle 2** sprite.
+Use `item 1 of x coords`{:class="block3variables"} block to get the first item in the `x coords`{:class="block3variables"} list, and `item 1 of y coords`{:class="block3variables"} block to get the first item in the `y coords`{:class="block3variables"} list. You can find these blocks in the `Variables`{:class="block3variables"} blocks menu. Together these values give you the first position for the **Turtle 2** sprite.
 
 --- task ---
 Add code to move the turtle to its first position when it is clicked. 
