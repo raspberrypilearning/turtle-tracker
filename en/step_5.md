@@ -4,11 +4,11 @@ In this step, you will switch to to the map backdrop **Poilão Island**. Coordin
 
 --- task ---
 
-Click on the **grid/map** button to see the map of Poilão Island. 
+Click on the **grid/map** button and you will see a map of the area around Poilão Island, off the west coast of Africa.  
 
 ![Stage showing map with button highlighted](images/map-backdrop.png)
 
-You will see a map of the area around Poilão Island off the west coast of Africa. This small island measures less than 1km (1000 metres) across. Poilão is an important environmental location for nesting green sea turtles.
+This small island measures less than 1km (1000 metres) across. Poilão is an important environmental location for nesting green sea turtles.
 
 The carapace (shell) of an adult green sea turtle is about 1m long. 
 
