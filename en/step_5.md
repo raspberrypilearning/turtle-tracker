@@ -4,7 +4,7 @@ In this step, you will switch to to the map backdrop **Poilão Island**. Coordin
 
 --- task ---
 
-Click on the **grid/map** button to switch to the map backdrop **Poilão Island**.
+Click on the **grid/map** button to see the map of Poilão Island. 
 
 ![Stage showing map with button highlighted](images/map-backdrop.png)
 
