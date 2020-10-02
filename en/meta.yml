@@ -11,6 +11,6 @@ steps:
   - title: Draw the route
   - title: Lists of coordinates
   - title: Real turtle movements
-  - title: Import turtle data
+  - title: Import data from a file
   - title: What next?
 
