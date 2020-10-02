@@ -44,9 +44,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Use x and y coordinates in Scratch
-+ Use lists to store and import data
-+ Use Scratch to understand a real-world environmental topic
++ How to use x and y coordinates in Scratch
++ How to use lists to store and import data
++ How to use Scratch to understand a real-world environmental topic
 
 --- /collapse ---
 
