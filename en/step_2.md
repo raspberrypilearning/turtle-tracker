@@ -4,9 +4,9 @@ In this step, you will learn how to use x and y coordinates in Scratch to move a
 
 --- task ---
 
-If working **online**, open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
+**Online**: open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
  
-If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
+**Offline**: open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
 
 When you open the starter project, you will see a grid and turtles. 
 
