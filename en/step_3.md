@@ -1,6 +1,6 @@
 ## Draw the route
 
-In this step, you will use the `Pen`{:class="block3extensions"} extension to draw a path to show the turtle’s movement, and will then add a stamp to represent its known locations. 
+In this step, you will use the `Pen`{:class="block3extensions"} extension blocks to draw a path to show the turtle’s movement, and will then add a stamp to represent its known locations. 
 
 A stamp is a copy of the sprite, which you cannot move or delete once you have stamped it.
 
