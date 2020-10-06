@@ -103,7 +103,7 @@ Can you predict the route the turtle will take with this code? Use the grid to h
 ![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
 
 ```blocks3
-when green flag clicked
+when this sprite clicked
 +glide (1) secs to x: (100) y: (100)
 +glide (1) secs to x: (100) y: (-100)
 +glide (1) secs to x: (-100) y: (-100)
