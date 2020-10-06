@@ -1,5 +1,7 @@
 # turtle-tracker
 
+This project was created with the kind support and inspiration of the [The Shuttleworth Foundation](https://shuttleworthfoundation.org).
+
 ![turtle-tracker](banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/turtle-tracker](https://projects.raspberrypi.org/en/projects/turtle-tracker)
