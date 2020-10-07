@@ -4,9 +4,9 @@ In this step, you will learn how to use x and y coordinates in Scratch to move a
 
 --- task ---
 
-**Online**: open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
+**Online**: open the [starter project](http://rpf.io/turtle-tracker-on){:target="_blank"} in Scratch.
  
-**Offline**: open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
+**Offline**: open the project [starter file](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"} in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
 
 When you open the starter project, you will see a grid and turtles. 
 
@@ -103,7 +103,7 @@ Can you predict the route the turtle will take with this code? Use the grid to h
 ![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
 
 ```blocks3
-when green flag clicked
+when this sprite clicked
 +glide (1) secs to x: (100) y: (100)
 +glide (1) secs to x: (100) y: (-100)
 +glide (1) secs to x: (-100) y: (-100)
