@@ -16,8 +16,8 @@ Select the **Turtle 1** sprite and add code to set up the pen:
 ```blocks3
 when green flag clicked
 +erase all
-+set pen [color v] to (40)
-+set pen [brightness v] to (50)
++set pen (color v) to (40)
++set pen (brightness v) to (50)
 +set pen size to (2)
 +pen up
 glide (1) secs to x: (-220) y: (-160)
