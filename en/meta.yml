@@ -2,7 +2,7 @@ title: Turtle tracker
 hero_image: images/banner.png
 description: Draw the routes taken by real sea turtles during their nesting time at the islands of Príncipe and Poilão off the west coast of Africa 
 version: 1
-listed: false
+listed: true
 copyedit: false
 last_tested: "2020-09-10"
 steps:
