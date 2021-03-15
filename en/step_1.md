@@ -35,7 +35,7 @@ title: What you will need
 
 ### Downloads
 
-+ If you are working offline, download the [starter project and data files](http://rpf.io/p/en/turtle-tracker-go){:target="_blank"} 
++ If you are working offline, download the [starter project and data files](https://rpf.io/p/en/turtle-tracker-go){:target="_blank"} 
 --- /collapse ---
 
 --- collapse ---
@@ -58,7 +58,7 @@ The later steps of this project ask learners to download files that are then imp
 
 If you are using iPads, then iOS 13 supports local file storage to a Downloads directory. If you are using an older version of iOS, then you will need a suitable storage location, such as a cloud drive. 
 
-You can [download the completed project here](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"}.
+You can [download the completed project here](https://rpf.io/p/en/turtle-tracker-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-tracker/print){:target="_blank"}.
 
