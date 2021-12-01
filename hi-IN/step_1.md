@@ -11,17 +11,24 @@ Turtle tags provide coordinate numbers that show where a turtle has been. It's m
 Click on the green flag and then click on each turtle to see the locations it visited over a few days. You can also click on the **Grid/Map Button** in the top left-hand corner to switch between a Scratch coordinates grid and a map of Poilão island.
 
 --- no-print ---
+
 <div class="scratch-preview">
 <iframe src="https://scratch.mit.edu/projects/428136635/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
 --- /no-print ---
 
---- print-only --- ![Complete project](images/showcase_static.png) --- /print-only ---
+--- print-only ---
+
+![Complete project](images/showcase_static.png)
+
+--- /print-only ---
 
 --- collapse ---
 ---
 title: What you will need
 ---
+
 ### Hardware
 
 + A computer or tablet capable of running Scratch 3
