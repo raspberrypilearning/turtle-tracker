@@ -14,7 +14,9 @@ The carapace (shell) of an adult green sea turtle is about 1m long.
 
 --- /task ---
 
---- task --- Select the **Turtle 3** sprite, the orange turtle, and click on the **Code** tab.
+--- task ---
+
+Select the **Turtle 3** sprite, the orange turtle, and click on the **Code** tab.
 
 ![image of the Turtle 3 sprite](images/turtle-3-sprite.png)
 
@@ -32,7 +34,9 @@ When you have seen the coordinates, you can uncheck the boxes to hide them.
 
 It's hard for humans to understand lists of numbers. Your task is to copy your code to the **Turtle 3** sprite to draw and stamp the coordinates to make it easier to see where this turtle went.
 
---- task --- Select the **Turtle 2** sprite and click on the **Code** tab. Drag the `when this sprite clicked`{:class="block3events"} block (all the blocks underneath will also move). Keep dragging until you are over the **Turtle 3** sprite in the Sprite pane under the Stage. The **Turtle 3** sprite will do a little wiggle to show that it has been selected and you can stop dragging.
+--- task ---
+
+Select the **Turtle 2** sprite and click on the **Code** tab. Drag the `when this sprite clicked`{:class="block3events"} block (all the blocks underneath will also move). Keep dragging until you are over the **Turtle 3** sprite in the Sprite pane under the Stage. The **Turtle 3** sprite will do a little wiggle to show that it has been selected and you can stop dragging.
 
 ![Drag code from the Turtle 2 sprite to Turtle 3](images/turtle-3-drag-code.png)
 
@@ -42,13 +46,19 @@ The code is still available on the **Turtle 2** sprite, but there will also be a
 
 Select the **Turtle 3** sprite, and click on its **Code** tab to see the copied code.
 
---- no-print --- ![Animation of dragging code from Turtle 2 to Turtle 3](images/drag-code-to-turtle-3.gif) --- /no-print ---
+--- no-print ---
+
+![Animation of dragging code from Turtle 2 to Turtle 3](images/drag-code-to-turtle-3.gif)
+
+--- /no-print ---
 
 **Tip:** You can right-click in the Code area and choose **Clean up Blocks** to tidy up your code.
 
 --- /task ---
 
---- task --- Click the **Turtle 3** sprite, the orange turtle, on the Stage to run your code and see the route that the turtle took.
+--- task ---
+
+Click the **Turtle 3** sprite, the orange turtle, on the Stage to run your code and see the route that the turtle took.
 
 GPS readings are not perfectly accurate, and the turtles can't be tracked when they spend time underwater, but they give a very good idea where the turtles have travelled.
 
