@@ -1,32 +1,32 @@
-## Import data from a file
+## ಫೈಲ್‌ನಿಂದ ದತ್ತಾಂಶ ಆಮದು ಮಾಡಿಕೊಳ್ಳಿ
 
-Scratch allows you to import data from a file. This is really useful when you have lots of data you want to use that would take too long to type in.
+Scratch ನಿಮಗೆ ಫೈಲ್‌ನಿಂದ ದತ್ತಾಂಶವನ್ನು ಆಮದು ಮಾಡಿಕೊಳ್ಳಲು ಅನುವುಮಾಡಿಕೊಡುತ್ತದೆ. ನಿಮಗೆ ಟೈಪ್‌ ಮಾಡಲು ತುಂಬಾ ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುವ, ಉಪಯೋಗಿಸಲು ತುಂಬಾ ದ‌ತ್ತಾಂಶಗಳಿದ್ದಾಗ ಇದು ನಿಜವಾಗಿಯೂ ಉಪಯುಕ್ತವಾಗಿರುತ್ತದೆ.
 
 --- task ---
 
-Select the **Turtle A** sprite, the purple turtle. It has lists that have been created, but don't have any coordinates in them.
+ನೇರಳೆ ಬಣ್ಣದ ಆಮೆ, **Turtle A** ಸ್ಪ್ರೈಟ್‌ ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ. ಇದು ರಚಿಸಿದ ಪಟ್ಟಿಗಳನ್ನು ಹೊಂದಿದೆ, ಆದರೆ ಅವುಗಳು ಯಾವುದೇ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಹೊಂದಿಲ್ಲ.
 
-Check the boxes next to the **Turtle A** sprite's `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists to see them on the Stage.
+ಅವುಗಳನ್ನು Stage ಮೇಲೆ ನೋಡಲು **Turtle A** ಸ್ಪ್ರೈಟ್‌ನ `x coords`{:class="block3variables"} ಮತ್ತು `y coords`{:class="block3variables"} ಪಟ್ಟಿಗಳ ಮುಂದಿನ ಪೆಟ್ಟಿಗೆಗಳನ್ನು ಚೆಕ್‌ಮಾಡಿ.
 
-![Turtle A lists on stage](images/turtle-a-lists-on-stage.png)
+![stage ಮೇಲೆ Turtle A ಪಟ್ಟಿಗಳು](images/turtle-a-lists-on-stage.png)
 
 --- /task ---
 
-We have prepared some more data based on routes that real turtles have taken around Poilão. You can download these data files and import them into your project so you can find out where the turtles went.
+ಪೊಯಲಾವೋದ ಸುತ್ತ ನಿಜವಾದ ಆಮೆಗಳು ತೆಗೆದುಕೊಂಡ ಮಾರ್ಗಗಳನ್ನು ಆಧರಿಸಿ ನಾವು ಇನ್ನಷ್ಟು ದತ್ತಾಂಶ ಸಿದ್ಧಪಡಿಸಿದ್ದೇವೆ. ಆಮೆಗಳು ಎಲ್ಲೆಲ್ಲಿ ಹೋಗಿದ್ದವು ಎಂಬುವುದನ್ನು ಕಂಡುಹಿಡಿಯಲು ನೀವು ಈ ದತ್ತಾಂಶ ಫೈಲ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಿಕೊಂಡು ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಆಮದು ಮಾಡಿಕೊಳ್ಳಬಹುದು.
 
 --- task --- --- no-print ---
 
-Right-click one of the turtle data links below, and choose **Save link as ...** or **Download linked file as ...**
+ಈ ಕೆಳಗಿನ ಆಮೆಯ ದತ್ತಾಂಶ ಲಿಂಕ್‌ಗಳ ಮೇಲೆ ರೈಟ್-ಕ್ಲಿಕ್‌ ಮಾಡಿ, ಮತ್ತು **Save link as ...** ಅಥವಾ **Download linked file as ...** ನ್ನು ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಿ
 
 --- /no-print ---
 
 --- print-only ---
 
-Open a new tab in your web browser and type in one of the links below. Most browsers can view the file, you can right-click and choose **Save as ...** to download the file.
+ನಿಮ್ಮ ವೆಬ್‌ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಹೊಸ ಟ್ಯಾಬ್‌ನ್ನು ತೆರೆಯಿರಿ ಮತ್ತು ಈ ಕೆಳಗಿನ ಲಿಂಕ್‌ಗಳಲ್ಲಿ ಒಂದನ್ನು ಟೈಪ್‌ ಮಾಡಿ. ಬಹುತೇಕ ಬ್ರೌಸರ್‌ಗಳಲ್ಲಿ ಫೈಲ್‌ಗಳನ್ನು ನೋಡಬಹುದು, ನೀವು ಫೈಲ್‌ ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಿಕೊಳ್ಳಲು ರೈಟ್-ಕ್ಲಿಕ್‌ ಮಾಡಿ **Save as ...** ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಬಹುದು.
 
 --- /print-only ---
 
-Remember where you save the file and what it is called.
+ನೀವು ಫೈಲ್‌ನ್ನು ಎಲ್ಲಿ ಸೇವ್‌ ಮಾಡಿದ್ದೀರಿ ಮತ್ತು ಅದನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ ಎಂಬುವುದನ್ನು ನೆನಪಿನಲ್ಲಿ ಇಟ್ಟುಕೊಳ್ಳಿ.
 
 + [Turtle 6 Data](http://rpf.io/turtle-6){:target="_blank"}
 + [Turtle 10 Data](http://rpf.io/turtle-10){:target="_blank"}
@@ -40,21 +40,21 @@ Remember where you save the file and what it is called.
 
 --- collapse ---
 ---
-title: If you are using an iPad
+title: ನೀವು ಐಪ್ಯಾಡ್ ಬಳಸುತ್ತಿದ್ದರೆ
 ---
 
-If your iPad is fully up to date, then when you click on a link you will be asked whether you want to **View** or **Download**. Choose **Download**.
+ನಿಮ್ಮ ಐಪ್ಯಾಡ್‌ ಸಂಪೂರ್ಣವಾಗಿ ನವೀಕೃತವಾಗಿದ್ದರೆ, ಆಗ ನೀವು ಲಿಂಕ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿದಾಗ, ನೀವು **View** ಮಾಡಲು ಅಥವಾ **Download** ಮಾಡಲು ಬಯಸುತ್ತೀರಾ ಎಂದು ನಿಮ್ಮನ್ನು ಕೇಳಲಾಗುತ್ತದೆ. **Download** ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಿ.
 
-Otherwise, using the Safari browser, click on your chosen turtle link to view the data, and then click the share icon. You will see the locations where you can save the file.
+ಇಲ್ಲವಾದರೆ, Safari ಬ್ರೌಸರ್‌ ಬಳಸಿ, ದತ್ತಾಂಶವನ್ನು ನೋಡಲು ನೀಮ್ಮ ಆಯ್ಕೆಯ ಆಮೆಯ ಲಿಂಕ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ, ಮತ್ತು ನಂತರ ಶೇರ್‌ ಐಕಾನ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ. ನೀವು ಫೈಲ್‌ ಸೇವ್‌ ಮಾಡಬಹುದಾದ ಸ್ಥಳಗಳನ್ನು ನೋಡುತ್ತೀರಿ.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: If you can't download or import the file
+title: ನೀವು ಫೈಲ್‌ನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಅಥವಾ ಆಮದು ಮಾಡಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ
 ---
 
-If you are unable to download a file, then you can click or tap on one of the turtle files to open it in your browser (choose **View** on a recent iPad). You can then enter the data into the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists for the **Turtle A** sprite as you did for **Turtle 2**. This is easier if you have a partner to read out the numbers.
+ನಿಮಗೆ ಫೈಲ್‌ ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ, ಆಗ ನೀವು ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ತೆರೆಯಲು ಯಾವುದಾದರೊಂದು ಆಮೆಯ ಫೈಲ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಅಥವಾ ಟ್ಯಾಪ್‌ ಮಾಡಬಹುದು (ಇತ್ತೀಚಿನ ಐಪ್ಯಾಡ್‌ನಲ್ಲಿ **View** ಆಯ್ಕೆಮಾಡಿ). ನೀವು ನಂತರ ದತ್ತಾಂಶವನ್ನು **Turtle 2** ಗೆ ಮಾಡಿದಂತೆ **Turtle A** ನ `x coords`{:class="block3variables"} ಮತ್ತು `y coords`{:class="block3variables"} ಪಟ್ಟಿಗಳಿಗೆ ಸೇರಿಸಬಹುದು. ನಿಮಗೆ ಸಂಖ್ಯೆಗಳನ್ನು ಓದಲು ಒಬ್ಬ ಜತೆಗಾರ ಇದ್ದರೆ ಇದು ಸುಲಭವಾಗುತ್ತದೆ.
 
 --- /collapse ---
 
@@ -62,86 +62,86 @@ If you are unable to download a file, then you can click or tap on one of the tu
 
 --- task ---
 
-Now go back to Scratch.
+ಈಗ Scratch ಗೆ ಹಿಂದಿರುಗಿ.
 
-Right-click (or tap and hold) on the `Turtle A: x coords`{:class="block3variables"} list on the Stage and choose **import**.
+Stage ಮೇಲಿನ `Turtle A: x coords`{:class="block3variables"} ಪಟ್ಟಿಯ ಮೇಲೆ ರೈಟ್-ಕ್ಲಿಕ್‌ ಮಾಡಿ (ಅಥವಾ ಟ್ಯಾಪ್‌ ಮಾಡಿ ಹಿಡಿದುಕೊಳ್ಳಿ) ಮತ್ತು **import** ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ.
 
-![Turtle A lists on stage](images/turtle-a-x-import.png)
+![Stage ಮೇಲೆ Turtle A ಪಟ್ಟಿಗಳು](images/turtle-a-x-import.png)
 
-Select the file that you have downloaded, it will be something like `turtle-5.csv`.
+ನೀವು ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಿಕೊಂಡ ಫೈಲ್‌ನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ, `turtle-5.csv` ನಂತೆ ಇರುತ್ತದೆ.
 
 --- collapse ---
 ---
-title: If you are using an iPad
+title: ನೀವು ಐಪ್ಯಾಡ್ ಬಳಸುತ್ತಿದ್ದರೆ
 ---
 
-If your iPad is fully up to date, then you will be able to choose the `.csv` file from your Downloads folder.
+ನಿಮ್ಮ ಐಪ್ಯಾಡ್ ಸಂಪೂರ್ಣವಾಗಿ ನವೀಕೃತವಾಗಿದ್ದರೆ, ಆಗ ನಿಮ್ಮ ಡೌನ್‌ಲೋಡ್‌ಗಳ ಫೋಲ್ಡರ್‌ನಿಂದ `.csv` ಫೈಲ್‌ನ್ನು ನೀವು ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.
 
-Otherwise, you will be able to navigate to the location where you saved the file, such as a cloud drive.
+ಇಲ್ಲವಾದರೆ, ನೀವು ಫೈಲ್‌ನ್ನು ಸೇವ್‌ ಮಾಡಿದ, ಕ್ಲೌಡ್‌ ಡ್ರೈವ್‌ನಂತಹ ಸ್ಥಳಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್‌ ಮಾಡಲು ನಿಮಗೆ ಸಾಧ್ಯವಾಗುತ್ತದೆ.
 
 --- /collapse ---
 
-When you are asked **Which column should be used?**, enter the number `1`. The x coordinate data is in the first column of the file.
+ನಿಮ್ಮನ್ನು **Which column should be used?** ಎಂದು ಕೇಳಿದಾಗ, ಸಂಖ್ಯೆ `1` ನ್ನು ನಮೂದಿಸಿ. X ನಿರ್ದೇಶಾಂಕ ದತ್ತಾಂಶವು ಫೈಲಿನ ಮೊದಲನೆಯ ಕಾಲಂನಲ್ಲಿದೆ.
 
-![Enter 1 for the column](images/turtle-a-import-x.png)
+![ಕಾಲಂಗೆ 1 ಅನ್ನು ನಮೂದಿಸಿ](images/turtle-a-import-x.png)
 
-Scratch will load the data from the first column in the file into the `Turtle A: x coords`{:class="block3variables"} list.
+ಫೈಲಿನ ಮೊದಲನೆಯ ಕಾಲಂನಲ್ಲಿರುವ ದತ್ತಾಂಶವನ್ನುScratch `Turtle A: x coords`{:class="block3variables"} ಪಟ್ಟಿಗೆ ಲೋಡ್‌ ಮಾಡುತ್ತದೆ.
 
-![Turtle A x data on stage](images/turtle-a-x-coords.png)
+![stage ಮೇಲೆ Turtle A x ದತ್ತಾಂಶ](images/turtle-a-x-coords.png)
 
 --- no-print ---
 
-![animation of importing x coords](images/import-x-coords.gif)
+![x ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಆಮದು ಮಾಡಿಕೊಳ್ಳುವ ಅನಿಮೇಷನ್](images/import-x-coords.gif)
 
 --- /no-print ---
 
-Your data will have different numbers if you chose a different turtle.
+ನೀವು ಬೇರೆ ಬೇರೆ ಆಮೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿದರೆ ನಿಮ್ಮ ದತ್ತಾಂಶವು ಬೇರೆ ಬೇರೆ ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ.
 
 --- /task ---
 
 --- task ---
 
-Now repeat the importing of the data for the y coordinates.
+ಈಗ y ನಿರ್ದೇಶಾಂಕಗಳಿಗೆ ದತ್ತಾಂಶ ಆಮದು ಮಾಡುವುದನ್ನು ಪುನರಾವರ್ತನೆ ಮಾಡಿ.
 
-Right-click (or tap and hold) on the `Turtle A: y coords`{:class="block3variables"} list and choose **import**.
+ವೇದಿಕೆ ಮೇಲಿನ `Turtle A: y coords`{:class="block3variables"} ಪಟ್ಟಿಯ ಮೇಲೆ ರೈಟ್-ಕ್ಲಿಕ್‌ ಮಾಡಿ (ಅಥವಾ ಟ್ಯಾಪ್‌ ಮಾಡಿ ಹಿಡಿದುಕೊಳ್ಳಿ) ಮತ್ತು **import** ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ.
 
-Choose the same file as before.
+ಮೊದಲಿನಂತೆ ಅದೇ ಫೈಲ್‌ನ್ನು ಆಯ್ದುಕೊಳ್ಳಿ.
 
-This time, choose column `2` as it contains the y coordinate data for the same turtle.
+ಈ ಬಾರಿ, ಕಾಲಂ `2` ನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ, ಏಕೆಂದರೆ ಅದು ಅದೇ ಆಮೆಯ y ನಿರ್ದೇಶಾಂಕ ದತ್ತಾಂಶ ಹೊಂದಿರುತ್ತದೆ.
 
-![Enter 2 for the column](images/turtle-a-import-y.png)
+![ಕಾಲಂಗೆ 2 ಅನ್ನು ನಮೂದಿಸಿ](images/turtle-a-import-y.png)
 
-![Turtle A y data on stage](images/turtle-a-y-coords.png)
-
---- /task ---
-
---- task ---
-
-Select the **Turtle A** sprite under the Stage and change its name to match the number of the turtle you imported, for example **Turtle 21**. This will help you remember which turtle data you have used.
-
-![Screenshot highlighting name of Turtle A](images/rename-turtle-a.png)
+![stage ಮೇಲೆ Turtle A y ದತ್ತಾಂಶ](images/turtle-a-y-coords.png)
 
 --- /task ---
 
 --- task ---
 
-Copy the code from the **Turtle 3** sprite to your new turtle by dragging it.
+Stage ಕೆಳಗಿರುವ **Turtle A** ಸ್ಪ್ರೈಟ್‌ ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ ಮತ್ತು ಅದರ ಹೆಸರನ್ನು ನೀವು ಆಮದು ಮಾಡಿಕೊಂಡ ಆಮೆಯ ಸಂಖ್ಯೆಗೆ ಹೊಂದಿಸಲು ಬದಲಾಯಿಸಿ, ಉದಾಹರಣೆಗೆ **Turtle 21**. ಇದು ನೀವು ಯಾವ ಆಮೆಯ ದತ್ತಾಂಶ ಉಪಯೋಗಿಸಿದ್ದೀರಿ ಎಂಬುವುದನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳು ಸಹಾಯವಾಗುತ್ತದೆ.
 
-Check that the copied code has appeared in the Code area for your new turtle. If not, try again.
-
---- /task ---
-
---- task ---
-
-Click on your turtle, the purple turtle, to find out where this turtle went.
-
-The path will be different depending on the data that you chose.
+![Turtle A ಹೆಸರನ್ನು ಹೈಲೈಟ್‌ ಮಾಡುತ್ತಿರುವ ಸ್ಕ್ರೀನ್‌ಶಾಟ್](images/rename-turtle-a.png)
 
 --- /task ---
 
 --- task ---
 
-If you have time, you can download more data and follow the journeys of more turtles. You can use the **Turtle B** sprite, the red turtle. If you need more turtles, then you can duplicate a turtle and change its costume and pen colour. Before you import new data, delete the data in the copy using these blocks:
+ನಿಮ್ಮ ಹೊಸ ಆಮೆಗೆ ಕೋಡ್‌ನ್ನು **Turtle 3** ಸ್ಪ್ರೈಟ್‌ನಿಂದ ಅದನ್ನು ಎಳೆಯುವ ಮೂಲಕ ನಕಲು ಮಾಡಿ.
+
+ನಕಲು ಮಾಡಿದ ಕೋಡ್‌ ಹೊಸ ಆಮೆಯ Code ಪ್ರದೇಶದಲ್ಲಿ ಕಾಣಿಸುತ್ತಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ. ಇಲ್ಲವಾದಲ್ಲಿ, ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.
+
+--- /task ---
+
+--- task ---
+
+ಈ ಆಮೆಯು ಎಲ್ಲಿ ಹೋಗಿತ್ತು ಎಂಬುವುದನ್ನು ಪತ್ತೆಮಾಡಲು ನಿಮ್ಮ ಆಮೆಯ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ, ನೇರಳೆ ಬಣ್ನದ ಆಮೆ.
+
+ನೀವು ಆಯ್ಕೆಮಾಡಿಕೊಂಡ ದತ್ತಾಂಶವನ್ನು ಅವಲಂಬಿಸಿ ಮಾರ್ಗವು ವಿಭಿನ್ನವಾಗಿರುತ್ತದೆ.
+
+--- /task ---
+
+--- task ---
+
+ನಿಮಗೆ ಸಮಯವಿದ್ದರೆ, ನೀವು ಇನ್ನಷ್ಟು ದತ್ತಾಂಶ ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಿಕೊಳ್ಳಬಹುದು ಮತ್ತು ಇನ್ನಷ್ಟು ಆಮೆಗಳ ಪ್ರಯಾಣವನ್ನು ಅನುಸರಿಸಬಹುದು. ನೀವು **Turtle B** ಸ್ಪ್ರೈಟ್, ಕೆಂಪು ಆಮೆಯನ್ನು ಉಪಯೋಗಿಸಬಹುದು. ನಿಮಗೆ ಇನ್ನೂ ಹೆಚ್ಚು ಆಮೆಗಳು ಬೇಕು ಎಂದರೆ, ಆಗ ನೀವು ಆಮೆಯನ್ನು ನಕಲು ಮಾಡಬಹುದು ಮತ್ತು ಅದರ ಉಡುಪು ಮತ್ತು ಪೆನ್ನಿನ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸಬಹುದು. ನೀವು ಹೊಸ ದತ್ತಾಂಶವನ್ನು ಆಮದು ಮಾಡಿಕೊಳ್ಳುವ ಮೊದಲು, ಈ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಉಪಯೋಗಿಸಿ ನಕಲಿನಲ್ಲಿರುವ ದತ್ತಾಂಶವನ್ನು ಅಳಿಸಿ:
 
 ```blocks3
 delete all of [x coords v]
@@ -153,12 +153,12 @@ delete all of [y coords v]
 
 --- task ---
 
-Look at the locations visited by your turtles. If you are in a group, you could also look at the results for the turtles chosen by others.
+ನಿಮ್ಮ ಆಮೆಗಳು ಭೇಟಿ ನೀಡಿದ ಸ್ಥಳಗಳನ್ನು ನೋಡಿ. ನೀವು ಗುಂಪಿನಲ್ಲಿದ್ದರೆ, ನೀವು ಬೇರೆರಯವರು ಆಯ್ಕೆ ಮಾಡಿದ ಆಮೆಗಳ ಫಲಿತಾಂಗಳನ್ನು ಸಹ ನೀವು ನೋಡಬಹುದು.
 
-Questions to think about:
-+ Do all the turtles start at a similar place? Why do you think that is?
-+ Are there other locations visited by multiple turtles? Why do you think they would go there?
-+ Why do the lines connecting the locations sometimes go across the island? Remember you only have one location per day. How do you think the turtles travelled between the locations?
+ಆಲೋಚಿಸಲು ಪ್ರಶ್ನೆಗಳು:
++ ಎಲ್ಲಾ ಆಮೆಗಳೂ ಒಂದೇ ಜಾಗದಿಂದ ಪ್ರಾರಂಭಿಸುತ್ತವೆಯೇ? ಅದು ಏಕೆ ಎಂದು ನಿಮಗನಿಸುತ್ತದೆ?
++ ಅನೇಕ ಆಮೆಗಳಿಂದ ಭೇಟಿ ನೀಡಲ್ಪಟ್ಟ ಇತರೆ ಸ್ಥಳಗಳಿವೆಯೇ? ಅವುಗಳು ಅಲ್ಲಿಗೆ ಏಕೆ ಹೋಗುತ್ತವೆ ಎಂದು ನಿಮಗನಿಸುತ್ತದೆ?
++ ಸ್ಥಳಗಳನ್ನು ಸಂಪರ್ಕಿಸುವ ಗೆರೆಗಳು ಕೆಲವೊಮ್ಮೆ ಏಕೆ ದ್ವೀಪದಾದ್ಯಂತ ಹೋಗುತ್ತವೆ? ನಿಮಗೆ ದಿನಕ್ಕೆ ಒಂದೇ ಸ್ಥಳವಿದೆ ಎಂಬುವುದನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳಿ. ಆಮೆಗಳು ಸ್ಥಳಗಳ ನಡುವೆ ಹೇಗೆ ಪ್ರಯಾಣಿಸಿದವು ಎಂದು ನಿಮಗನಿಸುತ್ತದೆ?
 
 --- /task ---
 
