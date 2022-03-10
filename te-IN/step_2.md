@@ -1,32 +1,32 @@
-## Using coordinates
+## కోఆర్డినేట్‌లను ఉపయోగించడం
 
-In this step, you will learn how to use x and y coordinates in Scratch to move a turtle to specific locations on the Stage.
+ఈ దశలో, తాబేలును Stage పై నిర్దిష్ట స్థానాలకు తరలించడానికి Scratch లో x మరియు y కోఆర్డినేట్‌లను ఎలా ఉపయోగించాలో మీరు నేర్చుకుంటారు.
 
 --- task ---
 
-**Online**: open the [starter project](http://rpf.io/turtle-tracker-on){:target="_blank"} in Scratch.
+**Online:** Scratch లో [స్టార్టర్ ప్రాజెక్ట్ ](http://rpf.io/turtle-tracker-on){:target="_blank"} ని తెరవండి.
 
-**Offline**: open the project [starter file](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"} in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
+**Offline:** Scratch యొక్క ఆఫ్ లైన్ ఎడిటర్ లో [ప్రాజెక్టు స్టార్టర్ ఫైల్](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"} ని తెరవండి. మీకు అవసరమైతే, మీరు [ఇక్కడ Scratch ను డౌన్ లోడ్ చేసి ఇన్‌స్టాల్ చేయవచ్చు.](https://scratch.mit.edu/download){:target="_blank"}.
 
-When you open the starter project, you will see a grid and turtles.
+మీరు స్టార్టర్ ప్రాజెక్ట్‌ను తెరిచినప్పుడు, మీరు గ్రిడ్ మరియు తాబేళ్లను చూస్తారు.
 
 --- /task ---
 
 --- task ---
 
-If you don't see a grid, you can click on the **Grid/Map Button** in the top left-hand corner of the Stage until you see it:
+మీకు గ్రిడ్ కనిపించకుంటే, మీరు దానిని చూసే వరకు Stage ఎగువ ఎడమవైపు మూలలో ఉన్న **Grid/Map Button** పై క్లిక్ చేయవచ్చు:
 
-![Stage showing map with button highlighted](images/grid-backdrop.png)
+![బటన్‌ను హైలైట్ చేసిన మ్యాప్‌ని చూపుతున్న Stage](images/grid-backdrop.png)
 
 --- /task ---
 
-Scratch uses x and y coordinate numbers to indicate locations on the Stage. The x coordinate gives the left–right position, and the y coordinate gives the up–down position. The coodinate of the centre of the Stage is (x=0, y=0). Let's send the **Turtle 1** sprite to the centre of the Stage.
+Stage పై స్థానాలను సూచించడానికి Scratch x మరియు y కోఆర్డినేట్ సంఖ్యలను ఉపయోగిస్తుంది. X కోఆర్డినేట్ ఎడమ-కుడి స్థానాన్ని ఇస్తుంది మరియు y కోఆర్డినేట్ అప్-డౌన్ స్థానాన్ని ఇస్తుంది. Stage మధ్యలో కోఆర్డినేట్ (x=0, y=0). **Turtle 1** spriteను Stage మధ్యలోకి పంపుదాం.
 
 --- task ---
 
-Select the **Turtle 1** sprite and click on its **Code** tab. Add code to move the turtle to the centre of the Stage when it is clicked:
+**Turtle 1** sprite ని ఎంచుకుని, **Code** ట్యాబ్‌పై క్లిక్ చేయండి. తాబేలును క్లిక్ చేసినప్పుడు Stage మధ్యలోకి తరలించడానికి కోడ్‌ను జోడించండి:
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 sprite యొక్క చిత్రం](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -37,17 +37,17 @@ glide (1) secs to x: (0) y: (0)
 
 --- task ---
 
-Test your code by clicking on your turtle on the Stage.
+Stage పై మీ తాబేలుపై క్లిక్ చేయడం ద్వారా మీ కోడ్‌ను పరీక్షించండి.
 
 --- /task ---
 
-The x coordinate gives a left-to-right position from -240 to 240. Negative x coordinates are to the left of the centre of the Stage, and positive coordinates are to the right.
+x కోఆర్డినేట్ -240 నుండి 240 వరకు ఎడమ నుండి కుడికి స్థానం ఇస్తుంది. నెగిటివ్ x కోఆర్డినేట్‌లు Stage మధ్యలో ఎడమ వైపున ఉన్నాయి మరియు పాజిటివ్ కోఆర్డినేట్‌లు కుడి వైపున ఉన్నాయి.
 
 --- task ---
 
-Add code to get the turtle to swim to the left and then the right of the Stage:
+తాబేలు Stage కి ఎడమవైపుకు ఆపై కుడివైపుకు ఈదడానికి కోడ్‌ని జోడించండి:
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 sprite యొక్క చిత్రం](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -58,13 +58,13 @@ glide (1) secs to x: (0) y: (0)
 
 --- /task ---
 
-The y coordinate goes from -180 at the bottom of the Stage, to 180 at the top of the Stage. Negative y coordinates are in the bottom half of the Stage.
+y కోఆర్డినేట్ Stage దిగువన -180 నుండి Stage పైభాగంలో 180కి వెళుతుంది. నెగెటివ్ y కోఆర్డినేట్‌లు Stage దిగువ భాగంలో ఉన్నాయి.
 
 --- task ---
 
-Add code to move the turtle to the top and bottom of the Stage:
+తాబేలును Stage పైకి మరియు దిగువకు తరలించడానికి కోడ్‌ని జోడించండి:
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 sprite యొక్క చిత్రం](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -79,38 +79,38 @@ glide (1) secs to x: (240) y: (0)
 
 --- task ---
 
-Click on your turtle to watch it glide between locations. You can still click on the turtle when it is at the edge of the Stage.
+మీ తాబేలు రెండు స్థానాల మధ్య జారిపోతున్నట్లు చూడటానికి దానిపై క్లిక్ చేయండి. మీరు తాబేలు Stage అంచున ఉన్నప్పుడు దానిపై క్లిక్ చేయవచ్చు.
 
 --- /task ---
 
-When the green flag is clicked, the turtles should line up in a row at the bottom of the Stage. You will need to add code to make the green turtle return to its starting position.
+ఆకుపచ్చ జెండాను నొక్కినప్పుడు, తాబేళ్లు Stage దిగువన వరుసగా లైనులో ఉండాలి. ఆకుపచ్చ తాబేలు దాని ప్రారంభ స్థానానికి తిరిగి రావడానికి మీరు కోడ్‌ని జోడించాలి.
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block and a `glide`{:class="block3motion"} block to place the turtle at the bottom left of the Stage, when the green flag is clicked:
+`when green flag clicked`{:class="block3events"} బ్లాకుని జోడించండి మరియు `glide`{:class="block3motion"} బ్లాకును Stage దిగువన ఎడమ వైపు తాబేలును ఉంచడానికి, గ్రీన్ ఫ్లాగ్ ను క్లిక్ చేయండి:
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 sprite యొక్క చిత్రం](images/turtle-1-sprite.png)
 
 ```blocks3
 when green flag clicked
 glide (1) secs to x: (-220) y: (-160)
 ```
 
-Use the grid to check your understanding of the starting position coordinates.
+ప్రారంభ స్థానం కోఆర్డినేట్‌ల గురించి మీ అవగాహనను తనిఖీ చేయడానికి గ్రిడ్‌ని ఉపయోగించండి.
 
 --- /task ---
 
 --- task ---
 
-Click the green flag to see the turtle move to its starting position.
+తాబేలు దాని ప్రారంభ స్థానానికి వెళ్లడాన్ని చూడటానికి ఆకుపచ్చ జెండాను క్లిక్ చేయండి.
 
 --- /task ---
 
 --- task ---
 
-Can you predict the route the turtle will take with this code? Use the grid to help you. Think about where the turtle will go, then change the numbers in your `glide`{:class="block3motion"} blocks to use these coordinates to see if you are correct.
+ఈ కోడ్‌తో తాబేలు వెళ్లే మార్గాన్ని మీరు అంచనా వేయగలరా? మీకు సహాయం చేయడానికి గ్రిడ్‌ని ఉపయోగించండి. తాబేలు ఎక్కడికి వెళ్తుందో ఆలోచించండి, ఆపై మీరు సరిగ్గా ఉన్నారో లేదో చూడటానికి ఈ కోఆర్డినేట్‌లను ఉపయోగించడానికి మీ `glide`{:class="block3motion"} బ్లాక్‌లలోని సంఖ్యలను మార్చండి.
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 sprite యొక్క చిత్రం](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
