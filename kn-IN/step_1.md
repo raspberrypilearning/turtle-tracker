@@ -1,14 +1,14 @@
-## Introduction
+## ಪರಿಚಯ
 
-It's important to understand the movements of endangered creatures so that they can be protected. In this project, you will use the `Pen`{:class="block3extensions"} extension blocks and x and y coordinates in Scratch to draw the locations visited by green sea turtles during their nesting time.
+ಅಳಿವಿನಂಚಿನಲ್ಲಿರುವ ಜೀವಿಗಳ ಚಲನವಲನಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಮಹತ್ವವಾಗಿದೆ ಏಕೆಂದರೆ ಅವುಗಳನ್ನು ಸಂರಕ್ಷಿಸಬಹುದು. ಈ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ, ನೀವು `Pen`{:class="block3extensions"} ವಿಸ್ತರಿತ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಮತ್ತು Scratch ನಲ್ಲಿ x ಮತ್ತು y ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಹಸಿರು ಸಮುದ್ರ ಆಮೆಗಳು ಅವುಗಳು ಗೂಡುಕಟ್ಟುವ ಸಮಯದಲ್ಲಿ ಭೇಟಿಮಾಡುವ ಸ್ಥಳಗಳನ್ನು ಚಿತ್ರಿಸಲು ಉಪಯೋಗಿಸುತ್ತೀರಿ.
 
-This project is inspired by the work of The Shuttleworth Foundation, which tracked the movement of turtles based at the islands of Príncipe and Poilão off the west coast of Africa. Each year turtles return to their nesting grounds to mate and lay eggs. But where exactly do they go while they are there? The Shuttleworth Foundation has developed inexpensive electronic tags that can be safely attached to real sea turtles to track their movement.
+ಈ ಪ್ರಾಜೆಕ್ಟ್‌ ದಿ ಶಟಲ್‌ವರ್ತ್‌ ಫೌಂಡೇಶನ್‌ನ ಕೆಲಸದಿಂದ ಪ್ರೇರಣೆ ಪಡೆದಿದೆ, ಅದು ಆಫ್ರಿಕಾದ ಪಶ್ಚಿಮ ಕರಾವಳಿಯಲ್ಲಿರುವ ಪ್ರಿನ್ಸಿಪೆ ಮತ್ತು ಪೋಯಲಾವೋ ದ್ವೀಪಗಳಲ್ಲಿ ಆಮೆಗಳ ಚಲನವಲನದ ಮಾರ್ಗವನ್ನು ಪತ್ತೆಮಾಡಿದ್ಧಾರೆ. ಪ್ರತಿ ವರ್ಷ ಆಮೆಗಳು ಸಂಯೋಗಕ್ಕೆ ಮತ್ತು ಮೊಟ್ಟೆಗಳನ್ನು ಇಡಲು ತಮ್ಮ ಗೂಡುಕಟ್ಟುವ ಪ್ರದೇಶಗಳಿಗೆ ಮರಳುತ್ತವೆ. ಆದರೆ ಅವುಗಳು ಅಲ್ಲಿರುವಾಗ ನಿಜವಾಗಿ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತವೆ? ದಿ ಶಟಲ್‌ವರ್ತ್‌ ಫೌಂಡೇಶನ್‌ ನಿಜವಾದ ಆಮೆಗಳಿಗೆ ಅವುಗಳ ಚಲನವಲನವನ್ನು ಪತ್ತೆಮಾಡಲು ಸುರಕ್ಷಿತವಾಗಿ ಅವುಗಳಿಗೆ ಜೋಡಿಸಬಹುದಾದ ಅಗ್ಗದ ಇಲೆಕ್ಟ್ರಾನಿಕ್‌ ಟ್ಯಾಗ್‌ಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದೆ.
 
-Turtle tags provide coordinate numbers that show where a turtle has been. It's much easier for people to understand this data if it is drawn on a map.
+ಆಮೆಯು ಎಲ್ಲಿ ಹೋಗಿತ್ತು ಎಂಬುವುದನ್ನು ತೋರಿಸುವ ನಿರ್ದೇಶಾಂಕ ಸಂಖ್ಯೆಗಳನ್ನು ಆಮೆಯ ಟ್ಯಾಗ್‌ ಒದಗಿಸುತ್ತದೆ. ಈ ದತ್ತಾಂಶವನ್ನು ನಕ್ಷೆಯ ಮೇಲೆ ಚಿತ್ರಿಸಿದರೆ ಜನರಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಸುಲಭವಾಗುತ್ತದೆ.
 
-### What you will make
+### ನೀವು ಏನು ಮಾಡುತ್ತೀರಿ
 
-Click on the green flag and then click on each turtle to see the locations it visited over a few days. You can also click on the **Grid/Map Button** in the top left-hand corner to switch between a Scratch coordinates grid and a map of Poilão island.
+ಹಸಿರು ಬಾವುಟದ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ನಂತರ ಪ್ರತಿಯೊಂದು ಆಮೆಯ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಅದು ಕೆಲವು ದಿನಗಳಲ್ಲಿ ಭೇಟಿ ನೀಡಿದ ಸ್ಥಳಗಳನ್ನು ನೋಡಿ. ನೀವು ಸ್ಕ್ರಾಚ್ ನಿರ್ದೇಶಾಂಕಗಳ ಗ್ರಿಡ್‌ ಮತ್ತು ಪೋಯಲಾವೋ ದ್ವೀಪದ ನಕ್ಷೆಯ ನಡುವೆ ಬದಲಾಯಿಸಲು ನೀವು ಮೇಲಿನ ಎಡ ಮೂಲೆಯಲ್ಲಿರುವ **Grid/Map Button** ಮೇಲೆ ಸಹ ಕ್ಲಿಕ್‌ ಮಾಡಬಹುದು.
 
 --- no-print ---
 
@@ -20,51 +20,50 @@ Click on the green flag and then click on each turtle to see the locations it vi
 
 --- print-only ---
 
-![Complete project](images/showcase_static.png)
+![ಸಂಪೂರ್ಣ ಪ್ರಾಜೆಕ್ಟ್](images/showcase_static.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: ನಿಮಗೆ ಬೇಕಾಗಿರುವುದು
 ---
 
-### Hardware
+### ಯಂತ್ರಾಂಶ (ಹಾರ್ಡ್ವೇರ್)
 
-+ A computer or tablet capable of running Scratch 3
-+ Ideally, the ability to download files to local or shared storage (such as a Downloads directory)
++ ಸ್ಕ್ರಾಚ್ ರನ್‌ ಮಾಡುವ ಸಾಮರ್ಥ್ಯವಿರುವ ಒಂದು ಕಂಪ್ಯೂಟರ್‌ ಅಥವಾ ಟ್ಯಾಬ್ಲೆಟ್
++ ತಾತ್ತ್ವಿಕವಾಗಿ, ಫೈಲುಗಳನ್ನು ಸ್ಥಳೀಯ ಅಥವಾ ಹಂಚಿದ ಸಂಗ್ರಹಣೆಗೆ ಡೌನ್ಲೋಡ್‌ ಮಾಡುವ ಸಾಮರ್ಥ್ಯ(ಡೌನ್‌ಲೋಡ್ಸ್‌ ಡೈರೆಕ್ಟರಿಯಂತಹವುಗಳು)
 
-### Software
+### ಸಾಫ್ಟ್ವೇರ್
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
++ Scratch 3 ([ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ](https://scratch.mit.edu/){:target="_blank"} ಅಥವಾ [ಆಫ್‌ಲೈನ್ನಲ್ಲಿ](https://scratch.mit.edu/download){:target="_blank"})
 
-### Downloads
+### ಡೌನ್‌ಲೋಡ್‌ಗಳು
 
-+ If you are working offline, download the [starter project and data files](https://rpf.io/p/en/turtle-tracker-go){:target="_blank"} 
++ ನೀವು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದರೆ, [ಪ್ರಾರಂಭಿಕ ಪ್ರಾಜೆಕ್ಟ್‌ ಮತ್ತು ದತ್ತಾಂಶ ಫೈಲ್‌ಗಳು](https://rpf.io/p/en/turtle-tracker-go){:target="_blank"} ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಿಕೊಳ್ಳಿ
+
+--- collapse ---
+---
+title: ನೀವು ಏನು ಕಲಿಯುವಿರಿ
+---
+
++ Scratch ನಲ್ಲಿ x ಮತ್ತು y ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಹೇಗೆ ಉಪಯೋಗಿಸುವುದು
++ ದತ್ತಾಂಶ ಸಂಗ್ರಹಿಸಲು ಮತ್ತು ಆಮದು ಮಾಡಲು ಪಟ್ಟಿಗಳನ್ನು ಹೇಗೆ ಉಪಯೋಗಿಸುವುದು
++ ನೈಜ-ಜಗತ್ತಿನ ಪರಿಸರ ವಿಷಯವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು Scratch ಹೇಗೆ ಉಪಯೋಗಿಸುವುದು
+
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: ಶಿಕ್ಷಕರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 ---
 
-+ How to use x and y coordinates in Scratch
-+ How to use lists to store and import data
-+ How to use Scratch to understand a real-world environmental topic
+ಈ ಪ್ರಾಜೆಕ್ಟ್‌ನ ಮುಂದಿನ ಹಂತಗಳು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಫೈಲುಗಳನ್ನು ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಲು ಹೇಳುತ್ತದೆ, ನಂತರ ಅವುಗಳು Scratch ಗೆ ಆಮದಾಗುತ್ತವೆ. ನೀವು ಮೊದಲಿಗೆ ಇದನ್ನು ಪ್ರಯತ್ನಿಸಿ, ಮತ್ತು ವಿದ್ಯಾರ್ಥಿಗಳು ಉಪಯೋಗಿಸುವ ಉಪಕರಣಗಳನ್ನೆ ಮತ್ತು ನೆಟ್‌ವರ್ಕ್‌ನ್ನೆ ಉಪಯೋಗಿಸಿ, ಅದರಿಂದ ನೀವು ಅವರಿಗೆ ಏನು ಮಾಡಬೇಕೆಂದು ಖಚಿತವಾಗಿ ತಿಳಿಸಬಹುದು ಎಂಬುವುದನ್ನು ನಾವು ಶಿಫಾರಸ್ಸು ಮಾಡುತ್ತೇವೆ. ನೀವು ಡೆಸ್ಕ್‌ಟಾಪ್‌ ಅಥವಾ ಮೋಬೈಲ್‌ ಉಪಕರಣದಲ್ಲಿ ಫೈಲ್‌ಗಳನನು ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಿ Scratch ಗೆ ಆಮದು ಮಾಡಬಹುದು. ಇದು ಸರಳವಾಗಿದೆ, ಆದರೆ ಉಪಕರಣ, ಬ್ರೌಸರ್‌, ಮತ್ತು ಆಪರೇಟಿಂಗ್‌ ಸಿಸ್ಟಮ್‌ ಆವೃತ್ತಿಯನ್ನು ಅವಲಂಬಿಸಿ ಖಚಿತವಾದ ವಿವರಗಳು ವ್ಯತ್ಯಾಸವಾಗುತ್ತವೆ.
 
---- /collapse ---
+ನೀವು iPads ಉಪಯೋಗಿಸುತ್ತಿದ್ದರೆ, ಆಗ iOS 13 ಸ್ಥಳೀಯ ಸಂಗ್ರಹವು ಡೌನ್‌ಲೋಡ್ಸ್‌ ಡೈರೆಕ್ಟರಿಗೆ ಬೆಂಬಲಿಸುತ್ತದೆ. ನೀವು iOS ನ ಹಳೆಯ ಆವೃತ್ತಿಯನ್ನು ಉಪಯೋಗಿಸುತ್ತಿದ್ದರೆ, ಆಗ ನಿಮಗೆ ಕ್ಲೌಡ್‌ ಡ್ರೈವ್‌ನಂತಹ ಸೂಕ್ತ ಸಂಗ್ರಹಣಾ ಜಾಗ ಬೇಕು.
 
---- collapse ---
----
-title: Additional information for educators
----
+ನೀವು [ಪೂರ್ಣಗೊಂಡ ಪ್ರಾಜೆಕ್ಟ್‌ನ್ನು ಇಲ್ಲಿ ಡೌನ್‌ಲೋಡ್‌ ](https://rpf.io/p/en/turtle-tracker-get){:target="_blank"} ಮಾಡಿಕೊಳ್ಳಬಹುದು.
 
-The later steps of this project ask learners to download files that are then imported into Scratch. We recommend that you try this out first, and use the same devices and network as the learners, so that you can tell them exactly what to do. You can download and import files to Scratch on a desktop or mobile device. It is straightforward, but the exact details vary depending on the device, browser, and operating system version.
-
-If you are using iPads, then iOS 13 supports local file storage to a Downloads directory. If you are using an older version of iOS, then you will need a suitable storage location, such as a cloud drive.
-
-You can [download the completed project here](https://rpf.io/p/en/turtle-tracker-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-tracker/print){:target="_blank"}.
+ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ ](https://projects.raspberrypi.org/en/projects/turtle-tracker/print) {:target = "_blank"}.
 
 --- /collapse ---
