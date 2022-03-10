@@ -1,32 +1,32 @@
-## Using coordinates
+## ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಉಪಯೋಗಿಸುವುದು
 
-In this step, you will learn how to use x and y coordinates in Scratch to move a turtle to specific locations on the Stage.
+ಈ ಹಂತದಲ್ಲಿ, ನೀವು x ಮತ್ತು y ನಿರ್ದೇಶಾಂಕಗಳನ್ನು Scratch ನಲ್ಲಿ ಆಮೆಯನ್ನು Stage ಮೇಲೆ ನಿರ್ದಿಷ್ಟ ಸ್ಥಳಕ್ಕೆ ಚಲಿಸಲು ಹೇಗೆ ಉಪಯೋಗಿಸುವುದು ಎನ್ನುವುದನ್ನು ಕಲಿಯುವಿರಿ.
 
 --- task ---
 
-**Online**: open the [starter project](http://rpf.io/turtle-tracker-on){:target="_blank"} in Scratch.
+**ಆನ್‌ಲೈನ್:** Scratch ನಲ್ಲಿ [ಪ್ರಾರಂಭಿಕ ಪ್ರಾಜೆಕ್ಟ್](http://rpf.io/turtle-tracker-on){:target="_blank"} ತೆರೆಯಿರಿ.
 
-**Offline**: open the project [starter file](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"} in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
+**ಆಫ್‌ಲೈನ್:** Scratch ಆಫ್‌ಲೈನ್‌ ಎಡಿಟರ್‌ನಲ್ಲಿ [ಪ್ರಾಜೆಕ್ಟ್‌ ಪ್ರಾರಂಭಿಕ ಫೈಲ್](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"} ತೆರೆಯಿರಿ. ನಿಮಗೆ ಬೇಕಾದರೆ, ನೀವು [ಇಲ್ಲಿ Scratch ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಿಕೊಂಡು ಇನ್‌ಸ್ಟಾಲ್‌ ಮಾಡಬಹುದು](https://scratch.mit.edu/download){:target="_blank"}.
 
-When you open the starter project, you will see a grid and turtles.
+ನೀವು ಪ್ರಾರಂಭಿಕ ಪ್ರಾಜೆಕ್ಟ್‌ನ್ನು ತೆರೆದಾಗ, ನೀವು ಗ್ರಿಡ್‌ ಮತ್ತು ಆಮೆಗಳನ್ನು ನೋಡುತ್ತೀರಿ.
 
 --- /task ---
 
 --- task ---
 
-If you don't see a grid, you can click on the **Grid/Map Button** in the top left-hand corner of the Stage until you see it:
+ನಿಮಗೆ ಗ್ರಿಡ್‌ ಕಾಣದಿದ್ದರೆ, ನೀವು ಅದನ್ನು ನೋಡುವವರೆಗೆ Stage‌ ಮೇಲಿನ ಎಡ ಮೂಲೆಯಲ್ಲಿರುವ **Grid/Map Button** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ:
 
-![Stage showing map with button highlighted](images/grid-backdrop.png)
+![ಬಟನ್‌ ಹೈಲೈಟ್‌ ಮಾಡಿರುವ ನಕ್ಷೆ ತೋರಿಸುತ್ತಿರುವ ವೇದಿಕೆ](images/grid-backdrop.png)
 
 --- /task ---
 
-Scratch uses x and y coordinate numbers to indicate locations on the Stage. The x coordinate gives the left–right position, and the y coordinate gives the up–down position. The coodinate of the centre of the Stage is (x=0, y=0). Let's send the **Turtle 1** sprite to the centre of the Stage.
+Stage ಮೇಲೆ ಸ್ಥಳಗಳನ್ನು ಸೂಚಿಸಲು Scratch x ಮತ್ತು y ನಿರ್ದೇಶಾಂಕ ಸಂಖ್ಯೆಗಳನ್ನು ಉಪಯೋಗಿಸುತ್ತದೆ. X ನಿರ್ದೇಶಾಂಕ ಎಡ-ಬಲ ಸ್ಥಾನವನ್ನು ಕೊಡುತ್ತದೆ ಮತ್ತು y ನಿರ್ದೇಶಾಂಕ ಮೇಲೆ–ಕೆಳಗಿನ ಸ್ಥಾನ ಕೊಡುತ್ತದೆ. Stage ನ ಮಧ್ಯದ ನಿರ್ದೇಶಾಂಕ (x=0, y=0). ನಾವು **Turtle 1** ಸ್ಪ್ರೈಟ್‌ನ್ನು Stage ಮಧ್ಯಕ್ಕೆ ಕಳಿಸೋಣ.
 
 --- task ---
 
-Select the **Turtle 1** sprite and click on its **Code** tab. Add code to move the turtle to the centre of the Stage when it is clicked:
+**Turtle 1** ಸ್ಪ್ರೈಟ್‌ನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ಅದರ **Code** ಟ್ಯಾಬ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ. ಆಮೆಯನ್ನು ಕ್ಲಿಕ್‌ ಮಾಡಿದಾಗ ಅದನ್ನು Stage ನ ಮಧ್ಯಕ್ಕೆ ಚಲಿಸಲು ಕೋಡ್‌ ಸೇರಿಸಿ:
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![turtle 1 ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -37,17 +37,17 @@ glide (1) secs to x: (0) y: (0)
 
 --- task ---
 
-Test your code by clicking on your turtle on the Stage.
+Stage ಮೇಲಿನ ನಿಮ್ಮ ಆಮೆಯ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ನಿಮ್ಮ ಕೋಡ್‌ ಪರೀಕ್ಷಿಸಿ.
 
 --- /task ---
 
-The x coordinate gives a left-to-right position from -240 to 240. Negative x coordinates are to the left of the centre of the Stage, and positive coordinates are to the right.
+X ನಿರ್ದೇಶಾಂಕವು ಎಡದಿಂದ ಬಲದ ಸ್ಥಾನವನ್ನು -240 ದಿಂದ 240 ವರೆಗೆ ಕೊಡುತ್ತದೆ. ಋಣಾತ್ಮಕ x ನಿರ್ದೇಶಾಂಕಗಳು Stage ಮಧ್ಯದಿಂದ ಎಡಕ್ಕೆ, ಮತ್ತು ಧನಾತ್ಮಕ ನಿರ್ದೇಶಾಂಕಗಳು ಬಲಕ್ಕೆ.
 
 --- task ---
 
-Add code to get the turtle to swim to the left and then the right of the Stage:
+ಆಮೆಯನ್ನು Stage ನ ಎಡಕ್ಕೆ ಈಜುವಂತೆ ಮಾಡಲು ಮತ್ತು ನಂತರ ಬಲಕ್ಕೆ ಈಜುವಂತೆ ಮಾಡಲು ಕೋಡ್‌ ಸೇರಿಸಿ:
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+![turtle 1 ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -58,13 +58,13 @@ glide (1) secs to x: (0) y: (0)
 
 --- /task ---
 
-The y coordinate goes from -180 at the bottom of the Stage, to 180 at the top of the Stage. Negative y coordinates are in the bottom half of the Stage.
+Y ನಿರ್ದೇಶಾಂಕವು Stage ನ ಕೆಳಭಾಗದಲ್ಲಿ -180 ರಿಂದ, ಸ್ಟೇಜ್‌ ಮೇಲ್ಭಾಗದಲ್ಲಿ 180 ರವೆಗೆ ಹೋಗುತ್ತದೆ. ಋಣಾತ್ಮಕ y ನಿರ್ದೇಶಾಂಕಗಳು Stage ನ ಕೇಳ ಅರ್ಧದಲ್ಲಿ ಇರುತ್ತವೆ.
 
 --- task ---
 
-Add code to move the turtle to the top and bottom of the Stage:
+ಆಮೆಯನ್ನು Stage ನ ಮೇಲಕ್ಕೆ ಮತ್ತು ಕೆಳಕ್ಕೆ ಚಲಿಸಲು ಕೋಡ್‌ ಸೇರಿಸಿ:
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+![turtle 1 ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -79,38 +79,38 @@ glide (1) secs to x: (240) y: (0)
 
 --- task ---
 
-Click on your turtle to watch it glide between locations. You can still click on the turtle when it is at the edge of the Stage.
+ಆಮೆಯು ಸ್ಥಳಗಳ ನಡುವೆ ಜಾರುವುದನ್ನು ವೀಕ್ಷಿಸಲು ನಿಮ್ಮ ಆಮೆಯ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ. ಆಮೆಯು Stage ಅಂಚಿನಲ್ಲಿರುವಾಗಲೂ ಕೂಡ ನೀವು ಅದರ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಬಹುದು.
 
 --- /task ---
 
-When the green flag is clicked, the turtles should line up in a row at the bottom of the Stage. You will need to add code to make the green turtle return to its starting position.
+ಹಸಿರು ಬಾವುಟವನ್ನು ಕ್ಲಿಕ್‌ ಮಾಡಿದಾಗ, ಆಮೆಗಳು Stage ಕೇಳಭಾಗದಲ್ಲಿ ಸಾಲಾಗಿ ನಿಲ್ಲಬೇಕು. ಹಸಿರು ಆಮೆ ಅದರ ಪ್ರಾರಂಭಿಕ ಸ್ಥಾನಕ್ಕೆ ಮರಳುವಂತೆ ಮಾಡಲು ನೀವು ಕೋಡ್‌ ಸೇರಿಸಬೇಕು.
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block and a `glide`{:class="block3motion"} block to place the turtle at the bottom left of the Stage, when the green flag is clicked:
+ಹಸಿರು ಬಾವುಟವನ್ನು ಕ್ಲಿಕ್‌ ಮಾಡಿದಾಗ, ಆಮೆಯನ್ನು Stage ನ ಕೆಳ ಎಡಭಾಗದಲ್ಲಿ ಇರಿಸಲು `when green flag clicked`{:class="block3events"} ಬ್ಲಾಕ್‌ ಮತ್ತು `glide`{:class="block3motion"} ಬ್ಲಾಕ್‌ ಸೇರಿಸಿ:
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![turtle 1 ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/turtle-1-sprite.png)
 
 ```blocks3
 when green flag clicked
 glide (1) secs to x: (-220) y: (-160)
 ```
 
-Use the grid to check your understanding of the starting position coordinates.
+ಪ್ರಾಂಭಿಕ ಸ್ಥಾನದ ನಿರ್ದೇಶಾಂಕಗಳ ಬಗೆಗೆ ನಿಮ್ಮ ತಿಳುವಳಿಕೆಯನ್ನು ಪರಿಶೀಲಿಸಲು ಗ್ರಿಡ್‌ ಉಪಯೋಗಿಸಿ.
 
 --- /task ---
 
 --- task ---
 
-Click the green flag to see the turtle move to its starting position.
+ಆಮೆಯು ಅದರ ಪ್ರಾರಂಭಿಕ ಸ್ಥಾನಕ್ಕೆ ಚಲಿಸುವುದನ್ನು ನೋಡಲು ಹಸಿರು ಬಾವುಟವನ್ನು ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
 --- /task ---
 
 --- task ---
 
-Can you predict the route the turtle will take with this code? Use the grid to help you. Think about where the turtle will go, then change the numbers in your `glide`{:class="block3motion"} blocks to use these coordinates to see if you are correct.
+ಈ ಕೋಡ್‌ನೊಂದಿಗೆ ಆಮೆಯು ಸಾಗುವ ಮಾರ್ಗವನ್ನು ನೀವು ಊಹಿಸಬಲ್ಲಿರಾ? ನಿಮಗೆ ಸಹಾಯ ಮಾಡಲು ಗ್ರಿಡ್ ಉಪಯೋಗಿಸಿ. ಆಮೆಯು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತದೆ ಎಂಬುವುದರ ಬಗೆಗ ಯೋಚಿಸಿ, ನಂತರ ನೀವು ಸರಿಯಾಗಿ ಯೋಚಿಸಿರುವಿರೇ ಎಂದು ನೋಡಲು ಈ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಉಪಯೋಗಿಸಲು ನಿಮ್ಮ `glide`{:class="block3motion"} ಬ್ಲಾಕ್‌ಗಳಲ್ಲಿ ಸಂಖ್ಯೆಗಳನ್ನು ಬದಲಾಯಿಸಿ.
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![turtle 1 ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
