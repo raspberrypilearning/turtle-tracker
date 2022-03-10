@@ -1,11 +1,11 @@
-## What next?
+## తర్వాత ఏంటి?
 
-In this project, you have:
+ఈ ప్రాజెక్ట్‌లో, మీరు కలిగి ఉన్నవి:
 
-+ Used x and y coordinates in Scratch to plot the routes taken by turtles
-+ Used lists to store and import the coordinates for real sea turtles
-+ Used Scratch to understand a real-world environmental topic
++ తాబేళ్లు ప్రయాణించే మార్గాలను ప్లాట్ చేయడానికి Scratch లో x మరియు y కోఆర్డినేట్‌లను ఉపయోగించారు
++ నిజమైన సముద్ర తాబేళ్ల కోసం కోఆర్డినేట్‌లను నిల్వ చేయడానికి మరియు ఇంపోర్ట్ చేయడానికి ఉపయోగించే జాబితాలు
++ వాస్తవ ప్రపంచ పర్యావరణ అంశాన్ని అర్థం చేసుకోవడానికి Scratch ఉపయోగించబడింది
 
-If you have been following the [Protect our planet](https://projects.raspberrypi.org/en/pathways/protect-our-planet) projects, you might like to explore Scratch some more. Try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch).
+మీరు [Protect our planet](https://projects.raspberrypi.org/en/pathways/protect-our-planet) ప్రాజెక్ట్‌లను అనుసరిస్తున్నట్లయితే, మీరు Scratch ను మరికొంత అన్వేషించాలనుకోవచ్చు. [ఈ ప్రాజెక్ట్‌లలో ](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch) దేనినైనా ప్రయత్నించండి.
 
-Did you enjoy the project? Have you spotted a mistake? Please click the **Send feedback** button below and let us know!
+మీరు ప్రాజెక్ట్‌ను ఆస్వాదించారా? మీరు ఏదైనా పొరపాటును గుర్తించారా? **Send feedback** బటన్‌ను క్లిక్ చేసి, మాకు తెలియజేయండి!
