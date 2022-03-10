@@ -1,32 +1,32 @@
-## Import data from a file
+## ఫైల్ నుండి డేటాను ఇంపోర్ట్ చేయండి
 
-Scratch allows you to import data from a file. This is really useful when you have lots of data you want to use that would take too long to type in.
+ఫైల్ నుండి డేటాను దిగుమతి చేసుకోవడానికి Scratch మిమ్మల్ని అనుమతిస్తుంది. టైప్ చేయడానికి చాలా సమయం పట్టే డేటా మీ వద్ద ఉన్నప్పుడు మీకు కావల్సినపుడు ఇది నిజంగా ఉపయోగకరంగా ఉంటుంది.
 
 --- task ---
 
-Select the **Turtle A** sprite, the purple turtle. It has lists that have been created, but don't have any coordinates in them.
+**Turtle A** sprite, ఊదా రంగు తాబేలును ఎంచుకోండి. ఇది సృష్టించబడిన జాబితాలను కలిగి ఉంది, కానీ వాటిలో ఏ కోఆర్డినేట్‌లు లేవు.
 
-Check the boxes next to the **Turtle A** sprite's `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists to see them on the Stage.
+**Turtle A** sprite యొక్క `x coords`{:class="block3variables"} మరియు `y coords`{:class="block3variables"} లను Stage పై చూడటానికి జాబితాల పక్కన ఉన్న బాక్సులను చెక్ చేయండి.
 
-![Turtle A lists on stage](images/turtle-a-lists-on-stage.png)
+![Turtle A Stage పై జాబితా చేస్తుంది](images/turtle-a-lists-on-stage.png)
 
 --- /task ---
 
-We have prepared some more data based on routes that real turtles have taken around Poilão. You can download these data files and import them into your project so you can find out where the turtles went.
+Poilão చుట్టూ నిజమైన తాబేళ్లు ప్రయాణించిన మార్గాల ఆధారంగా మేము మరికొంత డేటాను సిద్ధం చేసాము. మీరు ఈ డేటా ఫైల్‌లను డౌన్‌లోడ్ చేసుకోవచ్చు మరియు వాటిని మీ ప్రాజెక్ట్‌లోకి ఇంపోర్ట్ చేసుకోవచ్చు, తద్వారా తాబేళ్లు ఎక్కడికి వెళ్లాయో మీరు కనుగొనవచ్చు.
 
 --- task --- --- no-print ---
 
-Right-click one of the turtle data links below, and choose **Save link as ...** or **Download linked file as ...**
+దిగువన ఉన్న తాబేలు డేటా లింక్‌లలో ఒకదానిపై రైట్-క్లిక్ చేసి, **Save link as ...** లేదా **Download linked file as...** ను ఎంచుకోండి
 
 --- /no-print ---
 
 --- print-only ---
 
-Open a new tab in your web browser and type in one of the links below. Most browsers can view the file, you can right-click and choose **Save as ...** to download the file.
+మీ వెబ్ బ్రౌజర్‌లో కొత్త ట్యాబ్‌ని తెరిచి, దిగువ లింక్‌లలో ఒకదానిని టైప్ చేయండి. చాలా బ్రౌజర్‌లు ఫైల్‌ను వీక్షించగలవు, మీరు ఫైల్‌ను డౌన్‌లోడ్ చేయడానికి రైట్-క్లిక్ చేసి, **Save as...** ని ఎంచుకోవచ్చు.
 
 --- /print-only ---
 
-Remember where you save the file and what it is called.
+మీరు ఫైల్‌ను ఎక్కడ సేవ్ చేస్తారో మరియు దానిని ఏమని పిలుస్తారో గుర్తుంచుకోండి.
 
 + [Turtle 6 Data](http://rpf.io/turtle-6){:target="_blank"}
 + [Turtle 10 Data](http://rpf.io/turtle-10){:target="_blank"}
@@ -40,21 +40,21 @@ Remember where you save the file and what it is called.
 
 --- collapse ---
 ---
-title: If you are using an iPad
+title: మీరు ఐప్యాడ్‌ని ఉపయోగిస్తుంటే
 ---
 
-If your iPad is fully up to date, then when you click on a link you will be asked whether you want to **View** or **Download**. Choose **Download**.
+మీ ఐప్యాడ్ పూర్తిగా అప్ టు డేట్ ఉంటే, మీరు లింక్‌పై క్లిక్ చేసినప్పుడు మీరు **View** లేదా **Download**చేయాలనుకుంటున్నారా అని సూచనను పొందుతారు. **Download** ని ఎంచుకోండి.
 
-Otherwise, using the Safari browser, click on your chosen turtle link to view the data, and then click the share icon. You will see the locations where you can save the file.
+లేకపోతే, Safari బ్రౌజర్‌ని ఉపయోగించి, డేటాను వీక్షించడానికి మీరు ఎంచుకున్న తాబేలు లింక్‌పై క్లిక్ చేసి, ఆపై షేర్ చిహ్నాన్ని క్లిక్ చేయండి. మీరు ఫైల్‌ను సేవ్ చేయగల స్థానాలను చూస్తారు.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: If you can't download or import the file
+title: మీరు ఫైల్‌ను డౌన్‌లోడ్ చేయలేకపోతే లేదా ఇంపోర్ట్ చేసుకోలేకపోతే
 ---
 
-If you are unable to download a file, then you can click or tap on one of the turtle files to open it in your browser (choose **View** on a recent iPad). You can then enter the data into the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists for the **Turtle A** sprite as you did for **Turtle 2**. This is easier if you have a partner to read out the numbers.
+మీరు ఫైల్‌ను డౌన్‌లోడ్ చేయలేకపోతే, దాన్ని మీ బ్రౌజర్‌లో తెరవడానికి మీరు తాబేలు ఫైల్‌లలో ఒకదానిపై క్లిక్ చేయవచ్చు లేదా టాప్ చేయవచ్చు (ఇటీవలి ఐప్యాడ్‌ లలో **View** ని ఎంచుకోండి). మీరు **Turtle 2** కోసం చేసినట్లుగా మీరు **Turtle A** sprite కోసం `x coords`{:class="block3variables"} మరియు `y coords`{:class="block3variables"} జాబితాలలోకి డేటాను నమోదు చేయవచ్చు. సంఖ్యలను చదవడానికి మీకు భాగస్వామి ఉంటే ఇది సులభం.
 
 --- /collapse ---
 
@@ -62,86 +62,86 @@ If you are unable to download a file, then you can click or tap on one of the tu
 
 --- task ---
 
-Now go back to Scratch.
+ఇప్పుడు Scratch కి తిరిగి వెళ్లండి.
 
-Right-click (or tap and hold) on the `Turtle A: x coords`{:class="block3variables"} list on the Stage and choose **import**.
+Stage పై `Turtle A: x coords`{:class="block3variables"} జాబితాపై రైట్-క్లిక్ (లేదా నొక్కి పట్టుకోండి) మరియు **import**ని ఎంచుకోండి.
 
-![Turtle A lists on stage](images/turtle-a-x-import.png)
+![Turtle A Stage పై జాబితా చేస్తుంది](images/turtle-a-x-import.png)
 
-Select the file that you have downloaded, it will be something like `turtle-5.csv`.
+మీరు డౌన్‌లోడ్ చేసిన ఫైల్‌ను ఎంచుకోండి, అది `turtle-5.csv`లాగా ఉంటుంది.
 
 --- collapse ---
 ---
-title: If you are using an iPad
+title: మీరు ఐప్యాడ్‌ని ఉపయోగిస్తుంటే
 ---
 
-If your iPad is fully up to date, then you will be able to choose the `.csv` file from your Downloads folder.
+మీ iPad పూర్తిగా అప్ టు డేట్ ఉంటే, మీరు మీ డౌన్‌లోడ్‌ల ఫోల్డర్ నుండి `.csv` ఫైల్‌ని ఎంచుకోగలుగుతారు.
 
-Otherwise, you will be able to navigate to the location where you saved the file, such as a cloud drive.
+లేకపోతే, మీరు క్లౌడ్ డ్రైవ్ వంటి ఫైల్‌ను సేవ్ చేసిన స్థానానికి నావిగేట్ చేయగలుగుతారు.
 
 --- /collapse ---
 
-When you are asked **Which column should be used?**, enter the number `1`. The x coordinate data is in the first column of the file.
+**Which column should be used?** అని మిమ్మల్ని అడిగినప్పుడు, `1`సంఖ్యను నమోదు చేయండి. x కోఆర్డినేట్ డేటా ఫైల్ మొదటి నిలువు వరుసలో ఉంది.
 
-![Enter 1 for the column](images/turtle-a-import-x.png)
+![నిలువు వరుస కోసం 1ని నమోదు చేయండి](images/turtle-a-import-x.png)
 
-Scratch will load the data from the first column in the file into the `Turtle A: x coords`{:class="block3variables"} list.
+Scratch, ఫైల్‌లోని మొదటి నిలువు వరుస నుండి డేటాను `Turtle A: x coords`{:class="block3variables"} జాబితాలోకి లోడ్ చేస్తుంది.
 
-![Turtle A x data on stage](images/turtle-a-x-coords.png)
+![Stage పై Turtle A x డేటా](images/turtle-a-x-coords.png)
 
 --- no-print ---
 
-![animation of importing x coords](images/import-x-coords.gif)
+![x coords లను ఇంపోర్ట్ చేసుకునే యానిమేషన్](images/import-x-coords.gif)
 
 --- /no-print ---
 
-Your data will have different numbers if you chose a different turtle.
+మీరు వేరొక తాబేలును ఎంచుకుంటే మీ డేటా వేర్వేరు సంఖ్యలను కలిగి ఉంటుంది.
 
 --- /task ---
 
 --- task ---
 
-Now repeat the importing of the data for the y coordinates.
+ఇప్పుడు y కోఆర్డినేట్‌ల కోసం డేటా ఇంపోర్ట్ ని పునరావృతం చేయండి.
 
-Right-click (or tap and hold) on the `Turtle A: y coords`{:class="block3variables"} list and choose **import**.
+`Turtle A: y coords`{:class="block3variables"} జాబితాపై రైట్-క్లిక్ (లేదా నొక్కి పట్టుకోండి) మరియు **import**ని ఎంచుకోండి.
 
-Choose the same file as before.
+మునుపటి ఫైల్‌ను ఎంచుకోండి.
 
-This time, choose column `2` as it contains the y coordinate data for the same turtle.
+ఈసారి, అదే తాబేలు కోసం y కోఆర్డినేట్ డేటాను కలిగి ఉన్నందున నిలువు వరుస `2` ని ఎంచుకోండి.
 
-![Enter 2 for the column](images/turtle-a-import-y.png)
+![నిలువు వరుస కోసం 2ని నమోదు చేయండి](images/turtle-a-import-y.png)
 
-![Turtle A y data on stage](images/turtle-a-y-coords.png)
-
---- /task ---
-
---- task ---
-
-Select the **Turtle A** sprite under the Stage and change its name to match the number of the turtle you imported, for example **Turtle 21**. This will help you remember which turtle data you have used.
-
-![Screenshot highlighting name of Turtle A](images/rename-turtle-a.png)
+![Stage పై Turtle A y డేటా](images/turtle-a-y-coords.png)
 
 --- /task ---
 
 --- task ---
 
-Copy the code from the **Turtle 3** sprite to your new turtle by dragging it.
+Stage కింద **Turtle A** sprite ని ఎంచుకుని, మీరు ఇంపోర్ట్ చేసుకున్న తాబేలు సంఖ్యతో సరిపోల్చడానికి దాని పేరును మార్చండి, ఉదాహరణకు **Turtle 21**. మీరు ఏ తాబేలు డేటాను ఉపయోగించారో గుర్తుంచుకోవడానికి ఇది మీకు సహాయం చేస్తుంది.
 
-Check that the copied code has appeared in the Code area for your new turtle. If not, try again.
-
---- /task ---
-
---- task ---
-
-Click on your turtle, the purple turtle, to find out where this turtle went.
-
-The path will be different depending on the data that you chose.
+![తాబేలు A పేరును హైలైట్ చేస్తున్న స్క్రీన్‌షాట్](images/rename-turtle-a.png)
 
 --- /task ---
 
 --- task ---
 
-If you have time, you can download more data and follow the journeys of more turtles. You can use the **Turtle B** sprite, the red turtle. If you need more turtles, then you can duplicate a turtle and change its costume and pen colour. Before you import new data, delete the data in the copy using these blocks:
+**Turtle 3** sprite నుండి కోడ్‌ను డ్రాగ్ చేయడం ద్వారా మీ కొత్త తాబేలుకు కాపీ చేయండి.
+
+మీ కొత్త తాబేలు కోసం Code ప్రాంతంలో కాపీ చేయబడిన కోడ్ కనిపించిందో లేదో తనిఖీ చేయండి. కాకపోతే, మళ్లీ ప్రయత్నించండి.
+
+--- /task ---
+
+--- task ---
+
+ఈ తాబేలు ఎక్కడికి వెళ్లిందో తెలుసుకోవడానికి మీ తాబేలు, ఊదా రంగు తాబేలుపై క్లిక్ చేయండి.
+
+మీరు ఎంచుకున్న డేటాపై ఆధారపడి మార్గం భిన్నంగా ఉంటుంది.
+
+--- /task ---
+
+--- task ---
+
+మీకు సమయం ఉంటే, మీరు మరింత డేటాను డౌన్‌లోడ్ చేసుకోవచ్చు మరియు మరిన్ని తాబేళ్ల ప్రయాణాలను అనుసరించవచ్చు. మీరు **Turtle B** sprite, ఎరుపు తాబేలును ఉపయోగించవచ్చు. మీకు మరిన్ని తాబేళ్లు అవసరమైతే, మీరు తాబేలును డుప్లికేట్ చేసి, దాని costume మరియు పెన్ రంగును మార్చవచ్చు. మీరు కొత్త డేటాను ఇంపోర్ట్ చేసుకునే ముందు, ఈ బ్లాక్‌లను ఉపయోగించి కాపీలోని డేటాను తొలగించండి:
 
 ```blocks3
 delete all of [x coords v]
@@ -153,12 +153,12 @@ delete all of [y coords v]
 
 --- task ---
 
-Look at the locations visited by your turtles. If you are in a group, you could also look at the results for the turtles chosen by others.
+మీ తాబేళ్లు సందర్శించిన స్థానాలను చూడండి. మీరు సమూహంలో ఉన్నట్లయితే, ఇతరులు ఎంచుకున్న తాబేళ్ల ఫలితాలను కూడా చూడవచ్చు.
 
-Questions to think about:
-+ Do all the turtles start at a similar place? Why do you think that is?
-+ Are there other locations visited by multiple turtles? Why do you think they would go there?
-+ Why do the lines connecting the locations sometimes go across the island? Remember you only have one location per day. How do you think the turtles travelled between the locations?
+ఆలోచించవలసిన ప్రశ్నలు:
++ తాబేళ్లన్నీ ఒకే చోట ప్రారంభమవుతాయా? అది ఎందుకు అని మీరు అనుకుంటున్నారు?
++ అనేక తాబేళ్లు సందర్శించే ఇతర ప్రదేశాలు ఉన్నాయా? వారు అక్కడికి ఎందుకు వెళతారని మీరు అనుకుంటున్నారు?
++ లొకేషన్‌లను కలిపే లైన్‌లు కొన్నిసార్లు ద్వీపం అంతటా ఎందుకు వెళ్తాయి? మీరు రోజుకు ఒక స్థానాన్ని మాత్రమే కలిగి ఉన్నారని గుర్తుంచుకోండి. తాబేళ్లు స్థానాల మధ్య ఎలా ప్రయాణించాయని మీరు అనుకుంటున్నారు?
 
 --- /task ---
 
