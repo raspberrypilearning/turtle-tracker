@@ -40,7 +40,9 @@ title: మీకు కావల్సినవి
 
 ### డౌన్‌లోడ్‌లు
 
-+ మీరు ఆఫ్‌లైన్‌లో పని చేస్తుంటే, [ప్రాజెక్ట్ స్టార్టర్ ఫైల్](https://rpf.io/p/te-IN/turtle-tracker-go){:target="_blank"}ని డౌన్‌లోడ్ చేయండి --- /collapse ---
++ మీరు ఆఫ్‌లైన్‌లో పని చేస్తుంటే, [ప్రాజెక్ట్ స్టార్టర్ ఫైల్](https://rpf.io/p/te-IN/turtle-tracker-go){:target="_blank"}ని డౌన్‌లోడ్ చేయండి 
+
+--- /collapse ---
 
 --- collapse ---
 ---

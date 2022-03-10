@@ -42,6 +42,8 @@ title: तुम्हाला काय लागणार
 
 + तुम्ही ऑफलाइन काम करत असल्यास, [प्रोजेक्ट स्टार्टर फाइल](https://rpf.io/p/mr-IN/turtle-tracker-go){:target="_blank"} डाऊनलोड करा
 
+--- /collapse ---
+
 --- collapse ---
 ---
 title: आपण काय शिकणार
