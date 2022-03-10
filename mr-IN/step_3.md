@@ -1,18 +1,18 @@
-## Draw the route
+## मार्ग काढा
 
-In this step, you will use the `Pen`{:class="block3extensions"} extension blocks to draw a path to show the turtle’s movement, and will then add a stamp to represent its known locations.
+या टप्प्यात, तुम्ही कासवाची हालचाल दाखवण्यासाठी मार्ग काढण्यास `Pen`{:class="block3extensions"} एक्सटेंशन ब्लॉक्स वापराल, आणि त्यानंतर त्याचे ठिकाण दर्शवण्यासाठी स्टँप जोडाल.
 
-A stamp is a copy of the sprite, which you cannot move or delete once you have stamped it.
+स्टँप हा स्प्राईटची कॉपी आहे, जो तुम्ही हलवू शकत नाही किंवा तुम्ही त्यावर स्टँप केल्यावर तो डिलीट करू शकता.
 
-When a tag is placed on a turtle, it uses the Global Positioning System (GPS) to detect its current position from a satellite. This data is stored and can be used to work out the route taken by the turtle.
+तुम्ही कासवावर टॅग ठेवल्यावर, तो सॅटेलाईट वरून त्याची सध्याची स्थिती ओळखण्यासाठी Global Positioning System (GPS) चा वापर करतो. हा डेटा स्टोअर केल्या जातो आणि त्याचा कासवाने घेतलेल्या मार्गावर काम करण्यास वापर केला जाऊ शकतो.
 
-The `Pen`{:class="block3extensions"} extension has already been added to the starter project.
+`Pen`{:class="block3extensions"} एक्सटेंशन स्टार्टर प्रोजेक्ट मध्ये आधीपासूनच जोडलेले आहे.
 
 --- task ---
 
-Select the **Turtle 1** sprite and add code to set up the pen:
+**Turtle 1** स्प्राईट निवडा आणि पेन सेट करण्यासाठी कोड जोडा:
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 स्प्राईटची इमेज](images/turtle-1-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -24,15 +24,15 @@ when green flag clicked
 glide (1) secs to x: (-220) y: (-160)
 ```
 
-The colour `40` matches the colour of the sprite's costume.
+रंग `40` स्प्राईटच्या कॉश्चुमच्या रंगाला जुळतो.
 
 --- /task ---
 
 --- task ---
 
-Add code to draw the route taken by the turtle using the pen:
+पेन चा वापर करून कासवाने घेण्याचा मार्ग काढण्यासाठी कोड जोडा:
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 स्प्राईटची इमेज](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,19 +49,19 @@ glide (1) secs to x: (100) y: (100)
 
 --- task ---
 
-Click the green flag to run the setup code, and then click on the **Turtle 1** sprite on the Stage to see it draw its path.
+कोड सेटअप रन करण्यासाठी हिरव्या झेंड्यावर क्लिक करा आणि Stage वर तो त्याचा मार्ग काढतो हे बघण्यासाठी **Turtle 1** स्प्राईटवर क्लिक करा.
 
-![Path of the Turtle 1 sprite](images/turtle-1-path.png)
+![Turtle 1 स्प्राईटचा मार्ग](images/turtle-1-path.png)
 
-If your turtle doesn't draw a square, then carefully check your coordinates from the previous step.
+तुमच्या कासवाने चौरस काढला नाही तर, आधीच्या टप्प्यातुन तुमचे कोऑर्डीनेट्स काळजीपूर्वक तपासा.
 
 --- /task ---
 
-Now add a `stamp`{:class="block3extensions"} of the turtle to show its known positions.
+आता कासवाची माहिती असलेली पोजिशन दाखवण्यासाठी कासवाचा `stamp`{:class="block3extensions"} जोडा.
 
 --- task ---
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 स्प्राईटची इमेज](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -82,15 +82,15 @@ glide (1) secs to x: (100) y: (100)
 
 --- task ---
 
-Click the green flag, and then click on the **Turtle 1** sprite to see the turtle draw its route and stamp a marker at each known position.
+हिरव्या झेंड्यावर क्लिक करा, आणि कासव त्याचा मार्ग काढतो ते बघण्यासाठी आणि प्रत्येक माहिती असलेल्या पोजिशनवर मार्कर स्टँप करण्यासाठी **Turtle 1** स्प्राईटवर क्लिक करा.
 
-![Path of the Turtle 1 sprite with stamps](images/turtle-1-stamps.png)
+![स्टँप सह Turtle 1 स्प्राईटचा मार्ग](images/turtle-1-stamps.png)
 
 --- /task ---
 
 --- task ---
 
-Of course, turtles don't swim in perfect squares! Try change the coordinate numbers to get your turtle to swim in a different route.
+नक्कीच, कासव योग्य चौरसांमध्ये पोहच नाहीत! तुमचा कासव वेगवेगळ्या मार्गाने पोहोण्यासाठी कोऑर्डीनेट संख्या बदलण्याचा प्रयत्न करा.
 
 --- /task ---
 
