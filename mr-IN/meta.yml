@@ -1,24 +1,25 @@
 ---
-title: Turtle tracker
+title: टर्टल ट्रॅकर
 hero_image: images/banner.png
-description: Draw the routes taken by real sea turtles during their nesting time at the islands of Príncipe and Poilão off the west coast of Africa
+description: Africa पश्चिम किनार्‍यावरील Príncipe आणि Poilão बेटांवर खर्‍या समुद्री कासवांनी निवारा बांधताना घेतलेले मार्ग काढा
 version: 1
 listed: true
 copyedit: false
-last_tested: "2020-09-10"
+last_tested: '2020-09-10'
 steps:
   - 
-    title: Introduction
+    title: परिचय
+    completion: engaged
   - 
-    title: Using coordinates
+    title: कोऑर्डिनेट्स वापरून
   - 
-    title: Draw the route
+    title: मार्ग काढा
   - 
-    title: Lists of coordinates
+    title: कोऑर्डिनेट्सची लीस्ट
   - 
-    title: Real turtle movements
+    title: वास्तविक कासवाच्या हालचाली
+    completion: internal
   - 
-    title: Import data from a file
+    title: फाईल मधून डेटा इंपोर्ट करा
   - 
-    title: What next?
-
+    title: पुढे काय?
