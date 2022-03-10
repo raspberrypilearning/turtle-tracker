@@ -1,18 +1,18 @@
-## Draw the route
+## ಮಾರ್ಗವನ್ನು ಚಿತ್ರಿಸಿ
 
-In this step, you will use the `Pen`{:class="block3extensions"} extension blocks to draw a path to show the turtle’s movement, and will then add a stamp to represent its known locations.
+ಈ ಹಂತದಲ್ಲಿ, ನೀವು ಆಮೆಯ ಚಲನವಲನವನ್ನು ತೋರಿಸಲು ಮಾರ್ಗವನ್ನು ಚಿತ್ರಿಸಲು `Pen`{:class="block3extensions"} ವಿಸ್ತರಿತ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಉಪಯೋಗಿಸುವಿರಿ, ಮತ್ತು ನಂತರ ತಿಳಿದಿರುವ ಅದರ ಸ್ಥಳಗಳನ್ನು ಪ್ರತಿನಿಧಿಸಲು ಸ್ಟಾಂಪ್ ಸೇರಿಸುತ್ತೀರಿ.
 
-A stamp is a copy of the sprite, which you cannot move or delete once you have stamped it.
+ಸ್ಟಾಂಪ್‌ ಎಂದರೆ ಸ್ಪ್ರೈಟ್‌ನ ನಕಲು, ಒಮ್ಮೆ ನೀವು ಸ್ಟಾಂಪ್‌ ಮಾಡಿದ ನಂತರ ಅದನ್ನು ನೀವು ಚಲಿಸಲು ಅಥವಾ ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.
 
-When a tag is placed on a turtle, it uses the Global Positioning System (GPS) to detect its current position from a satellite. This data is stored and can be used to work out the route taken by the turtle.
+ಆಮೆಯ ಮೇಲೆ ಟ್ಯಾಗ್‌ನ್ನು ಇರಿಸಿದಾಗ, ಅದು ತನ್ನ ಈಗಿನ ಸ್ಥಾನವನ್ನು ಉಪಗ್ರಹದಿಂದ ಪತ್ತೆಮಾಡಲು ಗ್ಲೋಬಲ್‌ ಪೋಸಿಷನಿಂಗ್‌ ಸಿಸ್ಟಮ್‌ (ಜಿಪಿಎಸ್) ಉಪಯೋಗಿಸುತ್ತದೆ. ಈ ದತ್ತಾಂಶವು ಸಂಗ್ರಹಣೆಯಾಗುತ್ತದೆ ಮತ್ತು ಇದನ್ನು ಆಮೆಯು ತೆಗೆದುಕೊಳ್ಳುವ ಮಾರ್ಗವನ್ನು ಅಂದಾಜುಮಾಡಲು ಉಪಯೋಗಿಸಬಹುದು.
 
-The `Pen`{:class="block3extensions"} extension has already been added to the starter project.
+`Pen`{:class="block3extensions"} ವಿಸ್ತರಣೆಯನ್ನು ಪ್ರಾರಂಭಿಕ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಈಗಾಗಲೇ ಸೇರಿಸಲಾಗಿದೆ.
 
 --- task ---
 
-Select the **Turtle 1** sprite and add code to set up the pen:
+**Turtle 1** ಸ್ಪ್ರೈಟ್‌ನ್ನು ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ಪೆನ್ನನ್ನು ಹೊಂದಿಸಲು ಕೋಡ್‌ ಸೇರಿಸಿ:
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+![turtle 1 ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/turtle-1-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -24,15 +24,15 @@ when green flag clicked
 glide (1) secs to x: (-220) y: (-160)
 ```
 
-The colour `40` matches the colour of the sprite's costume.
+ಬಣ್ಣ `40` ಸ್ಪ್ರೈಟ್‌ನ ಉಡುಪಿನ ಬಣ್ಣಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ.
 
 --- /task ---
 
 --- task ---
 
-Add code to draw the route taken by the turtle using the pen:
+ಆಮೆಯು ತೆಗೆದುಕೊಂಡ ಮಾರ್ಗವನ್ನು ಪೆನ್ನನ್ನು ಉಪಯೋಗಿಸಿ ಚಿತ್ರಿಸಲು ಕೋಡ್‌ ಸೇರಿಸಿರಿ:
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![turtle 1 ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,19 +49,19 @@ glide (1) secs to x: (100) y: (100)
 
 --- task ---
 
-Click the green flag to run the setup code, and then click on the **Turtle 1** sprite on the Stage to see it draw its path.
+ಹೊಂದಿಸಿದ ಕೋಡ್‌ನ್ನು ರನ್‌ ಮಾಡಲು ಹಸಿರು ಬಾವುಟವನ್ನು ಕ್ಲಿಕ್‌ ಮಾಡಿ, ಮತ್ತು ನಂತರ Stage ಮೇಲಿನ **Turtle 1** ಸ್ಪ್ರೈಟ್‌ ಮೇಲೆ ಅದರ ಮಾರ್ಗವನ್ನು ಅದು ಚಿತ್ರಿಸುವುದನ್ನು ನೋಡಲು ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
-![Path of the Turtle 1 sprite](images/turtle-1-path.png)
+![Turtle 1 ಸ್ಪ್ರೈಟ್‌ನ ಮಾರ್ಗ](images/turtle-1-path.png)
 
-If your turtle doesn't draw a square, then carefully check your coordinates from the previous step.
+ನಿಮ್ಮ ಆಮೆಯು ಚೌಕವನ್ನು ಚಿತ್ರಿಸದಿದ್ದರೆ, ಆಗ ಹಿಂದಿನ ಹಂತದಲ್ಲಿನ ನಿಮ್ಮ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಪರಿಶೀಲಿಸಿ.
 
 --- /task ---
 
-Now add a `stamp`{:class="block3extensions"} of the turtle to show its known positions.
+ಈಗ ಆಮೆಯ `stamp`{:class="block3extensions"} ನ್ನು ಅದರ ತಿಳಿದಿರುವ ಸ್ಥಾನಗಳನ್ನು ತೋರಿಸಲು ಸೇರಿಸಿ.
 
 --- task ---
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![turtle 1 ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -82,15 +82,15 @@ glide (1) secs to x: (100) y: (100)
 
 --- task ---
 
-Click the green flag, and then click on the **Turtle 1** sprite to see the turtle draw its route and stamp a marker at each known position.
+ಹಸಿರು ಬಾವುಟವನ್ನು ಕ್ಲಿಕ್‌ ಮಾಡಿ, ಮತ್ತು ನಂತರ ಆಮೆಯು ಅದರ ಮಾರ್ಗವನ್ನು ಮತ್ತು ಪ್ರತಿಯೊಂದು ತಿಳಿದಿರುವ ಸ್ಥಾನದಲ್ಲಿ ಸ್ಟಾಂಪ್‌ ಗುರುತನ್ನು ಚಿತ್ರಿಸುವುದನ್ನು ನೋಡಲು **Turtle 1** ಸ್ಪ್ರೈಟ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
-![Path of the Turtle 1 sprite with stamps](images/turtle-1-stamps.png)
+![ಸ್ಟಾಂಪ್‌ನೊಂದಿಗೆ Turtle 1 ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/turtle-1-stamps.png)
 
 --- /task ---
 
 --- task ---
 
-Of course, turtles don't swim in perfect squares! Try change the coordinate numbers to get your turtle to swim in a different route.
+ಖಂಡಿತವಾಗಿ, ಆಮೆಗಳು ಪರಿಪೂರ್ಣ ಚೌಕದಲ್ಲಿ ಈಜುವುದಿಲ್ಲ! ನಿಮ್ಮ ಆಮೆಯು ಬೇರೆ ಮಾರ್ಗದಲ್ಲಿ ಈಜುವಂತೆ ಮಾಡಲು ನಿರ್ದೇಶಾಂಕ ಸಂಖ್ಯೆಗಳನ್ನು ಬದಲಿಸಲು ಪ್ರಯತ್ನಿಸಿ.
 
 --- /task ---
 
