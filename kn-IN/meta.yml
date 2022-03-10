@@ -1,0 +1,18 @@
+---
+title: ಆಮೆಯ ಜಾಡು ಪತ್ತೆ ಮಾಡುವುದು
+hero_image: images/banner.png
+description: ಆಫ್ರಿಕಾದ ಪಶ್ಚಿಮ ಕರಾವಳಿಯಲ್ಲಿರುವ ಪ್ರಿನ್ಸಿಪೆ ಮತ್ತು ಪೋಯಲಾವೋ ದ್ವೀಪಗಳಲ್ಲಿ ಆಮೆಗಳು ಗೂಡುಕಟ್ಟುವ ಸಮಯದಲ್ಲಿ ನಿಜವಾದ ಸಮುದ್ರ ಆಮೆಗಳು ಅನುಸರಿಸುವ ಮಾರ್ಗವನ್ನು ಚಿತ್ರಿಸಿ
+version: 1
+listed: true
+copyedit: false
+last_tested: '2020-09-10'
+steps:
+  - title: ಪರಿಚಯ
+    completion: engaged
+  - title: ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಉಪಯೋಗಿಸುವುದು
+  - title: ಮಾರ್ಗವನ್ನು ಚಿತ್ರಿಸಿ
+  - title: ನಿರ್ದೇಶಾಂಕಗಳ ಪಟ್ಟಿಗಳು
+  - title: ನಿಜವಾದ ಆಮೆಯ ಚಲನೆಗಳು
+    completion: internal
+  - title: ಫೈಲ್‌ನಿಂದ ದತ್ತಾಂಶ ಆಮದು ಮಾಡಿಕೊಳ್ಳಿ
+  - title: ಮುಂದೆ ಏನು?

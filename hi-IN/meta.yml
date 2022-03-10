@@ -1,0 +1,18 @@
+---
+title: टर्टल ट्रैकर (कछुआ ट्रैकर)
+hero_image: images/banner.png
+description: अफ्रीका के पश्चिमी तट पर प्रिंसिपे और पोइलाओ के द्वीपों पर अपने नीडन ( घोंसला करने की क्रिया) के समय के दौरान असली समुद्री कछुओं द्वारा लिए गए मार्गों को बनाएं
+version: 1
+listed: true
+copyedit: false
+last_tested: '2020-09-10'
+steps:
+  - title: परिचय
+    completion: engaged
+  - title: निर्देशांक का उपयोग करना
+  - title: मार्ग बनायें
+  - title: निर्देशांक की सूची
+  - title: टर्टल की वास्तविक चाल
+    completion: internal
+  - title: फ़ाइल से डेटा इम्पोर्ट करें
+  - title: आगे क्या?
