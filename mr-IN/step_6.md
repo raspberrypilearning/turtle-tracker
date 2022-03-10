@@ -1,32 +1,32 @@
-## Import data from a file
+## फाईल मधून डेटा इंपोर्ट करा
 
-Scratch allows you to import data from a file. This is really useful when you have lots of data you want to use that would take too long to type in.
+Scratch तुम्हाला फाइलमधून डेटा इंपोर्ट करण्याची परवानगी देतो. तुम्‍हाला टाईप करण्‍यासाठी खूप वेळ लागेल असा भरपूर डेटा तुम्‍हाला वापरायचा असेल तेव्हा हे खरोखर उपयोगी आहे.
 
 --- task ---
 
-Select the **Turtle A** sprite, the purple turtle. It has lists that have been created, but don't have any coordinates in them.
+**Turtle A** स्प्राईट, जांभळा कासव निवडा. त्याला तयार केलेल्या लीस्ट आहेत, परंतु त्यांमध्ये कोऑर्डीनेट्स नाहीत.
 
-Check the boxes next to the **Turtle A** sprite's `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists to see them on the Stage.
+**Turtle A** स्प्राईटच्या `x coords`{:class="block3variables"} आणि `y coords`{:class="block3variables"} लीस्टच्या पुढील बॉक्स ते Stage वर बघण्यासाठी तपासा.
 
-![Turtle A lists on stage](images/turtle-a-lists-on-stage.png)
+![Turtle A हा stage वर लीस्ट आहे](images/turtle-a-lists-on-stage.png)
 
 --- /task ---
 
-We have prepared some more data based on routes that real turtles have taken around Poilão. You can download these data files and import them into your project so you can find out where the turtles went.
+Poilão भोवती वास्तव कासवांनी घेतलेल्या मार्गाच्या आधारे आम्ही काही आणखी डेटा तयार केला आहे. तुम्ही या डेटा फाईल्स डाऊनलोड करू शकता आणि तुमच्या प्रोजेक्ट मध्ये त्या इंपोर्ट करू शकता जेणेकरून तुम्ही कासव कुठे गेला ते शोधू शकता.
 
 --- task --- --- no-print ---
 
-Right-click one of the turtle data links below, and choose **Save link as ...** or **Download linked file as ...**
+खालीलपैकी एका कासव डेटा लिंकवर राईट-क्लिक करा आणि निवडा **Save link as ...** किंवा **Download linked file as ...**
 
 --- /no-print ---
 
 --- print-only ---
 
-Open a new tab in your web browser and type in one of the links below. Most browsers can view the file, you can right-click and choose **Save as ...** to download the file.
+तुमच्या वेब ब्राऊझर मध्ये नवीन टॅब उघडा आणि खालीलपैकी एका लिंकवर क्लिक करा. बहुतेक ब्राऊझर फाईल बघू शकतात, तुम्ही राईट-क्लिक करू शकता आणि फाईल डाऊनलोड करण्यासाठी **Save as ...** निवडू शकता.
 
 --- /print-only ---
 
-Remember where you save the file and what it is called.
+तुम्ही फाईल कुठे सेव केली आणि त्याला काय नाव दिले ते आठवा.
 
 + [Turtle 6 Data](http://rpf.io/turtle-6){:target="_blank"}
 + [Turtle 10 Data](http://rpf.io/turtle-10){:target="_blank"}
@@ -40,21 +40,21 @@ Remember where you save the file and what it is called.
 
 --- collapse ---
 ---
-title: If you are using an iPad
+title: तुम्ही iPad वापरत असल्यास
 ---
 
-If your iPad is fully up to date, then when you click on a link you will be asked whether you want to **View** or **Download**. Choose **Download**.
+तुमचा iPad पूर्ण अप टू डेट असल्यास, तुम्ही लिंकवर क्लिक केल्यावर तुम्हाला **View** करायचे की **Download** करायचे ते विचारले जाईल. **Download** निवडा.
 
-Otherwise, using the Safari browser, click on your chosen turtle link to view the data, and then click the share icon. You will see the locations where you can save the file.
+अन्यथा, Safari ब्राऊझरचा वापर करून, डेटा बघण्यासाठी तुमच्या निवडलेल्या turtle लिंकवर क्लिक करा, आणि त्यानंतर share आयकॉनवर क्लिक करा. तुम्ही फाईल सेव करू शकता असे लोकेशन तुम्ही बघाल.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: If you can't download or import the file
+title: तुम्ही फाईल डाऊनलोड किंवा इंपोर्ट करू शकत नसलात तर
 ---
 
-If you are unable to download a file, then you can click or tap on one of the turtle files to open it in your browser (choose **View** on a recent iPad). You can then enter the data into the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists for the **Turtle A** sprite as you did for **Turtle 2**. This is easier if you have a partner to read out the numbers.
+तुम्ही फाईल डाऊनलोड करू शकत नसल्यास, turtle फाईल्स पैकी एक तुमच्या ब्राऊझरमध्ये उघडण्यासाठी त्यावर क्लिक किंवा टॅप करा (अलीकडील iPad वर **View** निवडा). तुम्ही त्यानंतर `x coords`{:class="block3variables"} आणि `y coords`{:class="block3variables"} लीस्ट मध्ये डेटा एंटर करू शकता **Turtle A** स्प्राईटला तुम्ही **Turtle 2** साठी केले त्याप्रमाणे. संख्या वाचण्यासाठी तुम्हाला जोडीदार असल्यास हे सोपे जाईल.
 
 --- /collapse ---
 
@@ -62,86 +62,86 @@ If you are unable to download a file, then you can click or tap on one of the tu
 
 --- task ---
 
-Now go back to Scratch.
+आता Scratch वर परत जा.
 
-Right-click (or tap and hold) on the `Turtle A: x coords`{:class="block3variables"} list on the Stage and choose **import**.
+Stage वरील `Turtle A: x coords`{:class="block3variables"} लीस्टवर राईट-क्लिक करा (किंवा टॅप किंवा होल्ड करा) आणि **import** निवडा.
 
-![Turtle A lists on stage](images/turtle-a-x-import.png)
+![Turtle A हा stage वर लीस्ट आहे](images/turtle-a-x-import.png)
 
-Select the file that you have downloaded, it will be something like `turtle-5.csv`.
+तुम्ही डाऊनलोड केलेली फाईल निवडा, ती थोडी `turtle-5.csv` यासारखी असेल.
 
 --- collapse ---
 ---
-title: If you are using an iPad
+title: तुम्ही iPad वापरत असल्यास
 ---
 
-If your iPad is fully up to date, then you will be able to choose the `.csv` file from your Downloads folder.
+तुमचा iPad पूर्ण अप टू डेट असल्यास, त्यानंतर तुमच्या Downloads फोल्डर मधून तुम्ही `.csv` फाईल निवडू शकता.
 
-Otherwise, you will be able to navigate to the location where you saved the file, such as a cloud drive.
+अन्यथा, तुम्ही फाईल सेव केली त्याठिकाणी लोकेशनला तुम्ही नेव्हीगेट होऊ शकाल, जसेकी cloud drive.
 
 --- /collapse ---
 
-When you are asked **Which column should be used?**, enter the number `1`. The x coordinate data is in the first column of the file.
+तुम्ही जेव्हा विचारता **Which column should be used?**, संख्या `1` एंटर करा. x कोऑर्डीनेट डेटा आता फाईलच्या पहिल्या कॉलम मध्ये आहे.
 
-![Enter 1 for the column](images/turtle-a-import-x.png)
+![कॉलम साठी 1 एंटर करा](images/turtle-a-import-x.png)
 
-Scratch will load the data from the first column in the file into the `Turtle A: x coords`{:class="block3variables"} list.
+Scratch फाईल मधील पहिल्या कॉलम मधून `Turtle A: x coords`{:class="block3variables"} लीस्ट मध्ये डेटा लोड करेल.
 
-![Turtle A x data on stage](images/turtle-a-x-coords.png)
+![stage वर Turtle A x डेटा](images/turtle-a-x-coords.png)
 
 --- no-print ---
 
-![animation of importing x coords](images/import-x-coords.gif)
+![x कोऑर्डीनेट्स इंपोर्ट करण्याचे ऍनिमेशन](images/import-x-coords.gif)
 
 --- /no-print ---
 
-Your data will have different numbers if you chose a different turtle.
+तुम्ही वेगवेगळे कासव निवडल्यास तुमच्या डेटाला वेगवेगळ्या संख्या असतील.
 
 --- /task ---
 
 --- task ---
 
-Now repeat the importing of the data for the y coordinates.
+आता, y कोऑर्डीनेट्स साठी डेटा इंपोर्ट करणे पुन्हा करा.
 
-Right-click (or tap and hold) on the `Turtle A: y coords`{:class="block3variables"} list and choose **import**.
+`Turtle A: y coords`{:class="block3variables"} लास्टवर राईट-क्लिक करा (किंवा टॅप किंवा होल्ड करा) आणि **import** निवडा.
 
-Choose the same file as before.
+आधीप्रमाणेच तीच फाईल निवडा.
 
-This time, choose column `2` as it contains the y coordinate data for the same turtle.
+यावेळी, कॉलम `2` निवडा कारण त्यात कासवासाठी y कोऑर्डीनेट आहे.
 
-![Enter 2 for the column](images/turtle-a-import-y.png)
+![कॉलम साठी 2 एंटर करा](images/turtle-a-import-y.png)
 
-![Turtle A y data on stage](images/turtle-a-y-coords.png)
-
---- /task ---
-
---- task ---
-
-Select the **Turtle A** sprite under the Stage and change its name to match the number of the turtle you imported, for example **Turtle 21**. This will help you remember which turtle data you have used.
-
-![Screenshot highlighting name of Turtle A](images/rename-turtle-a.png)
+![stage वर Turtle A y डेटा](images/turtle-a-y-coords.png)
 
 --- /task ---
 
 --- task ---
 
-Copy the code from the **Turtle 3** sprite to your new turtle by dragging it.
+Stage अंतर्गत **Turtle A** स्प्राईट निवडा आणि तुम्ही इंपोर्ट केलेल्या संख्येला जुळेल असे त्याचे नाव बदला, उदाहरणार्थ **Turtle 21**. यामुळे तुम्ही कोणता turtle डेटा वापरला ते आठवण्यास मदत होईल.
 
-Check that the copied code has appeared in the Code area for your new turtle. If not, try again.
-
---- /task ---
-
---- task ---
-
-Click on your turtle, the purple turtle, to find out where this turtle went.
-
-The path will be different depending on the data that you chose.
+![Turtle A चे नाव हायलाइट करणारा स्क्रीनशॉट](images/rename-turtle-a.png)
 
 --- /task ---
 
 --- task ---
 
-If you have time, you can download more data and follow the journeys of more turtles. You can use the **Turtle B** sprite, the red turtle. If you need more turtles, then you can duplicate a turtle and change its costume and pen colour. Before you import new data, delete the data in the copy using these blocks:
+तुमच्या नवीन कासवावर **Turtle 3** स्प्राईट मधून कोड ड्रॅग करून कॉपी करा.
+
+तुमच्या नवीन कासवासाठी Code एरियात कॉपी केलेले कोड दिसतो का ते तपासा. नसल्यास, पुन्हा प्रयत्न करा.
+
+--- /task ---
+
+--- task ---
+
+कासव कुठे गेला हे शोधण्यासाठी तुमच्या कासव, जांभळा कासवावर क्लिक करा.
+
+तुम्ही निवडलेल्या डेटाच्या आधारे मार्ग वेगवेगळा असेल.
+
+--- /task ---
+
+--- task ---
+
+तुम्हाला वेळ असल्यास, तुम्ही आणखी डेटा डाऊनलोड करू शकताआणि जास्त कासवांच्या प्रवासाला फॉलो करू शकता. तुम्ही **Turtle B** स्प्राईटचा वापर करू शकता, लाल कासव. तुम्हाला आणखी कासवांची आवश्यकता असल्यास, तुम्ही कासव डुप्लीकेट करू शकता आणि त्याचा कॉश्चुम आणि पेन रंग बदलू शकता. तुम्ही नवीन डेटा इंपोर्ट करण्याआधी, या ब्लॉक्सचा वापर करून कॉपी मधील डेटा डिलीट करा:
 
 ```blocks3
 delete all of [x coords v]
@@ -153,12 +153,12 @@ delete all of [y coords v]
 
 --- task ---
 
-Look at the locations visited by your turtles. If you are in a group, you could also look at the results for the turtles chosen by others.
+तुमच्या कासवांनी भेट दिलेली ठिकाणे पहा. तुम्ही ग्रुप मध्ये असलात, तर तुम्ही इतरांनी निवडलेल्या कासवांसाठीचे परिणाम सुद्धा बघू शकता.
 
-Questions to think about:
-+ Do all the turtles start at a similar place? Why do you think that is?
-+ Are there other locations visited by multiple turtles? Why do you think they would go there?
-+ Why do the lines connecting the locations sometimes go across the island? Remember you only have one location per day. How do you think the turtles travelled between the locations?
+विचार करण्यासारखे प्रश्न:
++ सर्व कासव एकाच ठिकाणी सुरूवात करतात का? हे का होतंय अस तुम्हाला वाटत?
++ अनेक कासवांनी भेट दिलेली इतर ठिकाणे आहेत का? ते तिथे जातील असे तुम्हाला का वाटते?
++ ठिकाणांना जोडणार्‍या रेषा कधीकधी बेटावर का जातात? लक्षात ठेवा तुमच्याकडे दररोज फक्त एक ठिकाणआहे. कासवांनी ठिकाणांदरम्यान प्रवास कसा केला असे तुम्हाला वाटते?
 
 --- /task ---
 
