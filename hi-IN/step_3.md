@@ -1,18 +1,18 @@
-## Draw the route
+## मार्ग बनायें
 
-In this step, you will use the `Pen`{:class="block3extensions"} extension blocks to draw a path to show the turtle’s movement, and will then add a stamp to represent its known locations.
+टर्टल के संचलन के मार्ग को बनाने के लिए इस चरण में, आप `Pen`{:class="block3extensions"} एक्सटेंशन ब्लॉक का उपयोग करेंगे, और फिर इसके ज्ञात स्थानों का प्रतिनिधित्व करने के लिए एक स्टैम्प जोड़ेंगे।
 
-A stamp is a copy of the sprite, which you cannot move or delete once you have stamped it.
+स्टैम्प स्प्राइट की एक प्रति है, जिस पर मुहर लगाने के बाद आप उसे हिला या हटा नहीं सकते।
 
-When a tag is placed on a turtle, it uses the Global Positioning System (GPS) to detect its current position from a satellite. This data is stored and can be used to work out the route taken by the turtle.
+जब टर्टल पर एक टैग लगाया जाता है, तो यह उपग्रह से अपनी वर्तमान स्थिति का पता लगाने के लिए ग्लोबल पोजिशनिंग सिस्टम (जीपीएस) का उपयोग करता है। यह डेटा संग्रहीत किया जाता है और टर्टल द्वारा लिए गए मार्ग का पता लगाने के लिए उपयोग किया जा सकता है।
 
-The `Pen`{:class="block3extensions"} extension has already been added to the starter project.
+`Pen`{:class="block3extensions"} एक्सटेंशन पहले ही जोड़ा जा चुका है।
 
 --- task ---
 
-Select the **Turtle 1** sprite and add code to set up the pen:
+**Turtle 1** स्प्राइट चुनें और पेन सेट अप करने के लिए कोड जोड़ें:
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 स्प्राइट की छवि](images/turtle-1-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -24,15 +24,15 @@ when green flag clicked
 glide (1) secs to x: (-220) y: (-160)
 ```
 
-The colour `40` matches the colour of the sprite's costume.
+रंग `40` स्प्राइट की पोशाक के रंग से मेल खाता है।
 
 --- /task ---
 
 --- task ---
 
-Add code to draw the route taken by the turtle using the pen:
+पेन का उपयोग करके टर्टल द्वारा लिया गया मार्ग बनाने के लिए कोड जोड़ें:
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 स्प्राइट की छवि](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,19 +49,19 @@ glide (1) secs to x: (100) y: (100)
 
 --- task ---
 
-Click the green flag to run the setup code, and then click on the **Turtle 1** sprite on the Stage to see it draw its path.
+सेटअप कोड चलाने के लिए हरे झंडे पर क्लिक करें, और फिर Stage पर **Turtle 1** स्प्राइट पर क्लिक करके देखें कि वह अपना पथ कैसे बना रहा है।
 
-![Path of the Turtle 1 sprite](images/turtle-1-path.png)
+![Turtle 1 स्प्राइट का पथ](images/turtle-1-path.png)
 
-If your turtle doesn't draw a square, then carefully check your coordinates from the previous step.
+यदि आपका टर्टल एक वर्ग नहीं बनाता है, तो पिछले चरण से अपने निर्देशांक की सावधानीपूर्वक जांच करें।
 
 --- /task ---
 
-Now add a `stamp`{:class="block3extensions"} of the turtle to show its known positions.
+अब टर्टल की ज्ञात स्थिति देखने के लिए टर्टल का `stamp`{:class="block3extensions"} जोड़ें।
 
 --- task ---
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 स्प्राइट की छवि](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -82,15 +82,15 @@ glide (1) secs to x: (100) y: (100)
 
 --- task ---
 
-Click the green flag, and then click on the **Turtle 1** sprite to see the turtle draw its route and stamp a marker at each known position.
+हरे झंडे पर क्लिक करें, और फिर टर्टल को अपना मार्ग बनाते हुए देखने के लिए **Turtle 1** स्प्राइट पर क्लिक करें और प्रत्येक ज्ञात स्थान पर एक मार्कर पर मुहर लगाएं।
 
-![Path of the Turtle 1 sprite with stamps](images/turtle-1-stamps.png)
+![Turtle 1 स्प्राइट का पथ मुहर लगा हुआ](images/turtle-1-stamps.png)
 
 --- /task ---
 
 --- task ---
 
-Of course, turtles don't swim in perfect squares! Try change the coordinate numbers to get your turtle to swim in a different route.
+निश्चित रूप से, कछुए पूर्ण वर्गों में तैरते नहीं हैं! अपने टर्टल को एक अलग मार्ग में तैराने के लिए निर्देशांक संख्याओं को बदलने का प्रयास करें।
 
 --- /task ---
 
