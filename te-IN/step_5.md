@@ -1,68 +1,68 @@
-## Real turtle movements
+## తాబేలు నిజమైన కదలికలు
 
-In this step, you will switch to to the map backdrop **Poilão Island**. Coordinate data for a real turtle that was tracked by the Shuttleworth Foundation has already been added to the **Turtle 3** sprite. Copy your code from the **Turtle 2** sprite to **Turtle 3** to see the route that this turtle took.
+ఈ దశలో, మీరు మ్యాప్ బ్యాక్‌డ్రాప్ **Poilão Island**కి మారతారు. Shuttleworth Foundation ద్వారా ట్రాక్ చేయబడిన నిజమైన తాబేలు కోసం కోఆర్డినేట్ డేటా ఇప్పటికే **Turtle 3** sprite కి జోడించబడింది. ఈ తాబేలు ప్రయాణించిన మార్గాన్ని చూడటానికి మీ కోడ్‌ను **Turtle 2** sprite నుండి **Turtle 3** కి కాపీ చేయండి.
 
 --- task ---
 
-Click on the **Grid/Map Button** and you will see a map of the area around Poilão, an island off the west coast of Africa.
+**Grid/Map Button** పై క్లిక్ చేయండి మరియు మీరు ఆఫ్రికాలోని పశ్చిమ తీరంలో ఉన్న Poilão ద్వీపం చుట్టూ ఉన్న ప్రాంతం యొక్క మ్యాప్‌ను చూస్తారు.
 
-![Stage showing map with button highlighted](images/map-backdrop.png)
+![బటన్‌ను హైలైట్ చేసిన మ్యాప్‌ని చూపుతున్న Stage](images/map-backdrop.png)
 
-This small island measures less than 1km (1000 metres) across. Poilão is an important environmental location for nesting green sea turtles.
+ఈ చిన్న ద్వీపం అంతటా 1కిమీ (1000 మీటర్లు) కంటే తక్కువగా ఉంటుంది. ఆకుపచ్చ సముద్ర తాబేళ్లను గూడు కట్టుకోవడానికి Poilão ఒక ముఖ్యమైన పర్యావరణ ప్రదేశం.
 
-The carapace (shell) of an adult green sea turtle is about 1m long.
+పెద్ద ఆకుపచ్చ సముద్రపు తాబేలు యొక్క కారపేస్ (షెల్) సుమారు 1మీ పొడవు ఉంటుంది.
 
 --- /task ---
 
 --- task ---
 
-Select the **Turtle 3** sprite, the orange turtle, and click on the **Code** tab.
+**Turtle 3** sprite, నారింజ తాబేలు, ను ఎంచుకుని, **Code** ట్యాబ్‌పై క్లిక్ చేయండి.
 
-![image of the Turtle 3 sprite](images/turtle-3-sprite.png)
+![Turtle 3 sprite యొక్క చిత్రం](images/turtle-3-sprite.png)
 
-Open the `Variables`{:class="block3variables"} blocks menu, and check the boxes next to the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists to show them on the Stage.
+`Variables`{:class="block3variables"} బ్లాక్‌ల మెనుని తెరిచి, `x coords`{:class="block3variables"} మరియు `y coords`{:class="block3variables"} జాబితాల పక్కన ఉన్న బాక్సులను చెక్ చేయండి. వాటిని Stage పై చూపించండి.
 
-![Screenshot of the Turtle 3 lists on stage](images/turtle-3-lists-on-stage.png)
+![Stage పై Turtle 3 జాబితా యొక్క స్క్రీన్‌షాట్](images/turtle-3-lists-on-stage.png)
 
-These lists are **For this sprite only**, they contain different data to the lists you created for the **Turtle 2** sprite.
+ఈ జాబితాలు **For this sprite only**, మీరు **Turtle 2** sprite కోసం సృష్టించిన జాబితాలకు విభిన్న డేటాను కలిగి ఉంటాయి.
 
-You can see the x and y coordinates on the Stage. These are based on the real movements of a sea turtle and have been turned into Scratch coordinates that work with the **Poilão Island** backdrop.
+మీరు Stage పై x మరియు y కోఆర్డినేట్‌లను చూడవచ్చు. ఇవి సముద్రపు తాబేలు యొక్క నిజమైన కదలికలపై ఆధారపడి ఉంటాయి మరియు **Poilão Island** బ్యాక్‌డ్రాప్‌తో పనిచేసే Scratch కోఆర్డినేట్‌లుగా మార్చబడ్డాయి.
 
-When you have seen the coordinates, you can uncheck the boxes to hide them.
+మీరు కోఆర్డినేట్‌లను చూసినప్పుడు, వాటిని దాచడానికి మీరు పెట్టెలను అన్ ఛెక్ వేయవచ్చు.
 
 --- /task ---
 
-It's hard for humans to understand lists of numbers. Your task is to copy your code to the **Turtle 3** sprite to draw and stamp the coordinates to make it easier to see where this turtle went.
+సంఖ్యల జాబితాలను అర్థం చేసుకోవడం మానవులకు కష్టం. ఈ తాబేలు ఎక్కడికి వెళ్లిందో సులభంగా చూడడానికి కోఆర్డినేట్‌లను గీయడానికి మరియు స్టాంప్ చేయడానికి మీ కోడ్‌ను **Turtle 3** sprite కి కాపీ చేయడం మీ పని.
 
 --- task ---
 
-Select the **Turtle 2** sprite and click on the **Code** tab. Drag the `when this sprite clicked`{:class="block3events"} block (all the blocks underneath will also move). Keep dragging until you are over the **Turtle 3** sprite in the Sprite pane under the Stage. The **Turtle 3** sprite will do a little wiggle to show that it has been selected and you can stop dragging.
+**Turtle 2** sprite ని ఎంచుకుని, **Code** ట్యాబ్‌పై క్లిక్ చేయండి. `when this sprite clicked`{:class="block3events"} బ్లాకును డ్రాగ్ చేయండి (కింద ఉన్న అన్ని బ్లాక్‌లు కూడా కదులుతాయి). Stage కింద ఉన్న sprite పేన్‌లో **Turtle 3** sprite ను అధిగమించే వరకు డ్రాగ్ చేస్తూ ఉండండి. **Turtle 3** sprite ఎంపిక చేయబడిందని చూపించడానికి అది కొద్దిగా సైగ చేస్తుంది మరియు మీరు లాగడం ఆపివేయవచ్చు.
 
-![Drag code from the Turtle 2 sprite to Turtle 3](images/turtle-3-drag-code.png)
+![తాబేలు Turtle 2 నుండి Turtle 3 కి కోడ్‌ని లాగండి](images/turtle-3-drag-code.png)
 
-**Tip:** To drag with a mouse or trackpad, hold down the left mouse button while you move.
+**చిట్కా:** మౌస్ లేదా ట్రాక్‌ప్యాడ్‌తో డ్రాగ్ చేయడానికి, మీరు కదిలేటప్పుడు ఎడమ మౌస్ బటన్‌ను నొక్కి పట్టుకోండి.
 
-The code is still available on the **Turtle 2** sprite, but there will also be a copy in the **Turtle 3** sprite's **Code** tab.
+కోడ్ ఇప్పటికీ **Turtle 2** sprite లోఅందుబాటులో ఉంది, అయితే **Turtle 3** sprite యొక్క **Code** ట్యాబ్‌లో కూడా కాపీ ఉంటుంది.
 
-Select the **Turtle 3** sprite, and click on its **Code** tab to see the copied code.
+**Turtle 3** sprite ని ఎంచుకుని, కాపీ చేసిన కోడ్‌ని చూడటానికి దాని **Code** ట్యాబ్‌పై క్లిక్ చేయండి.
 
 --- no-print ---
 
-![Animation of dragging code from Turtle 2 to Turtle 3](images/drag-code-to-turtle-3.gif)
+![Turtle 2 నుండి Turtle 3 కి కోడ్‌ని లాగడం యొక్క యానిమేషన్](images/drag-code-to-turtle-3.gif)
 
 --- /no-print ---
 
-**Tip:** You can right-click in the Code area and choose **Clean up Blocks** to tidy up your code.
+**చిట్కా:** మీరు కోడ్ ప్రాంతంలో రైట్-క్లిక్ చేసి, మీ కోడ్‌ను చక్కబెట్టడానికి **Clean up Blocks** ని ఎంచుకోవచ్చు.
 
 --- /task ---
 
 --- task ---
 
-Click the **Turtle 3** sprite, the orange turtle, on the Stage to run your code and see the route that the turtle took.
+మీ కోడ్‌ని అమలు చేయడానికి Stage పై ఉన్న **Turtle 3** sprite, నారింజ రంగు తాబేలును క్లిక్ చేయండి మరియు తాబేలు ప్రయాణించిన మార్గాన్ని చూడండి.
 
-GPS readings are not perfectly accurate, and the turtles can't be tracked when they spend time underwater, but they give a very good idea where the turtles have travelled.
+GPS రీడింగ్‌లు ఖచ్చితమైనవి కావు మరియు తాబేళ్లు నీటి అడుగున గడిపినప్పుడు వాటిని ట్రాక్ చేయడం సాధ్యం కాదు, కానీ తాబేళ్లు ఎక్కడికి ప్రయాణించాయో దాని గురించి చాలా మంచి అవగాహనను అందిస్తాయి.
 
-**Remember:** You have one location for the turtle each day, so the lines join up the locations, they don't show how the turtle moved between positions (you would need more data for that).
+**గుర్తుంచుకోండి:** మీరు ప్రతి రోజు తాబేలు కోసం ఒక స్థానాన్ని కలిగి ఉంటారు, కాబట్టి రేఖలు, స్థానాలను కలుపుతాయి, తాబేలు స్థానాల మధ్య ఎలా కదిలిందో అవి చూపించవు (దాని కోసం మీకు మరింత డేటా అవసరం).
 
 --- /task ---
 
