@@ -1,32 +1,32 @@
-## Lists of coordinates
+## कोऑर्डिनेट्सची लीस्ट
 
-In this step, you will add **lists** of x and y coordinates to the **Turtle 2** sprite. This allows you to draw a longer route without having to write code for each location.
+या टप्प्यात, तुम्ही x आणि y कोऑर्डीनेट्सची **lists** ही **Turtle 2** स्प्राईटला जोडाल. यामुळे तुम्ही प्रत्येक ठिकाणासाठी कोड न लिहीता लांब रस्ता काढू शकाल.
 
-In previous projects you have used variables to store data. A variable can only store one piece of data at a time. A list also stores data, but it can store lots of information in order.
+आधीच्या प्रोजेक्ट मध्ये, तुम्ही डेटा स्टोअर करण्यासाठी व्हेरिएबल्स (variables) ला वापर केलात. व्हेरिएबल (variable) एका वेळी एक डेटाच केवळ स्टोअर करू शकतो. लीस्ट डेटा सुद्धा स्टोअर करते, परंतु ती क्रमाने भरपूर माहिती स्टोअर करू शकते.
 
-You are going to create two lists, one for the x coordinates of your turtle and one for the y coordinates. Then, you will write code that moves the turtle using the data in the lists.
+तुम्ही दोन लीस्ट तयार करत आहात, एक तुमच्या कासवासाठी x कोऑर्डीनेट्स आणि एक y कोऑर्डीनेट्स साठी. त्यानंतर, तुम्ही कोड लिहाल जो लीस्ट मधील डेटाचा वापर करून कासवाची हालचाल करेल.
 
-### Create lists of x and y coordinates
+### x आणि y कोऑर्डीनेट्स ची लीस्ट तयार करा
 
 --- task ---
 
-Select the yellow **Turtle 2** sprite and click on the **Code** tab. This turtle already has code set up for the pen and to move to a starting position.
+पिवळा **Turtle 2** स्प्राईट निवडा आणि **Code** टॅबवर क्लिक करा. या कासवाने पेन साठी आधीच कोड सेट केलेला आहे आणि सुरूवात पोजिशनवर हलला आहे.
 
-![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
+![Turtle 2 स्प्राईटची इमेज](images/turtle-2-sprite.png)
 
- Click on the `Variables`{:class="block3variables"} blocks menu, and then click on **Make a List**.
+ `Variables`{:class="block3variables"} ब्लॉक्स मेनूवर क्लिक करा, आणि त्यानंतर **Make a List** वर क्लिक करा.
 
-![image highlighting Make a List button](images/turtle-2-make-a-list.png)
+![Make a List बटन हायलाईट करणारी इमेज](images/turtle-2-make-a-list.png)
 
-Name the list `x coords`. Choose **For this sprite only** — this will allow each turtle sprite to have its own coordinates.
+लीस्टला `x coords` नाव द्या. **For this sprite only** निवडा — यामुळे प्रत्येक कासवाला त्याचे स्वतःचे कोऑर्डीनेट्स असतील.
 
-![List creation dialogue for x coords](images/turtle-2-x-list.png)
+![x कोऑर्डीनेट्स साठी लीस्ट क्रिएशन डायलॉग](images/turtle-2-x-list.png)
 
-Click **OK** and the list will appear on the Stage.
+**OK** वर क्लिक करा आणि Stage वर लीस्ट दिसेल.
 
 --- no-print ---
 
-![animation of adding x coords list for this sprite](images/add-x-coords-list.gif)
+![या स्प्राईट साठी x कोऑर्डीनेट जोडण्याचे ऍनिमेशन](images/add-x-coords-list.gif)
 
 --- /no-print ---
 
@@ -34,19 +34,19 @@ Click **OK** and the list will appear on the Stage.
 
 --- task ---
 
-Now click **Make a List** again to make a second list called `y coords`. You must select **For this sprite only**.
+आता दुसरी लीस्ट तयार करण्यासाठी पुन्हा **Make a List** वर क्लिक करा ज्याला म्हणतात `y coords`. तुम्ही **For this sprite only** हे निवडायलाच हवे.
 
-![List creation dialogue for y coords](images/turtle-2-y-list.png)
+![y कोऑर्डीनेट्स साठी लीस्ट क्रिएशन डायलॉग](images/turtle-2-y-list.png)
 
-You now have two empty lists on the Stage.
+तुमच्याकडे आता Stage वर दोन रिकाम्या लीस्ट आहेत.
 
-![screenshot of empty lists](images/empty-lists.png)
+![रिकाम्या लीस्टचा स्क्रीनशॉट](images/empty-lists.png)
 
 --- /task ---
 
-Next, you need to add coordinate data to the lists.
+पुढे, तुम्हाला लीस्ट साठी कोऑर्डीनेट डेटा जोडण्याची आवश्यकता आहे.
 
-This table gives coordinate positions for your turtle:
+ही सारणी तुमच्या कासवासाठी कोऑर्डीनेट पोजिशन देते:
 
 <div style="width:200px;">
 
@@ -65,21 +65,21 @@ This table gives coordinate positions for your turtle:
 
 --- task ---
 
-Click on the **+** at the bottom of the `x coords`{:class="block3variables"} list.
+**+** वर क्लिक करा जो `x coords`{:class="block3variables"} लीस्टच्या खाली आहे.
 
-This adds an entry to the list. Enter the value `189`, the first x coordinate in the table.
+तो लीस्टमध्ये एंट्री जोडतो. सारणी मधील पहिल्या x कोऑर्डीनेट साठी `189` व्हॅल्यू एंटर करा.
 
-![Add data to x coords](images/turtle-2-add-data.png)
+![x कोऑर्डीनेट्स साठी डेटा जोडा](images/turtle-2-add-data.png)
 
-Repeat for the rest of the x coordinate values so that your list looks like this:
+उर्वरीत x कोऑर्डीनेट व्हॅल्यू साठी पुन्हा करा जेणेकरून तुमची लीस्ट याप्रमाणे दिसेल:
 
-![screenshot of x coord list with data](images/turtle-2-x-data.png)
+![डेटा सह x कोऑर्डीनेट लीस्टचा स्क्रीनशॉट](images/turtle-2-x-data.png)
 
-Be careful to enter the `-` in negative numbers such as `-58`.
+ऋण संख्यांमध्ये `-` एंटर करतांना काळजी घ्या जसेकी `-58`.
 
 --- no-print ---
 
-![Animated gif showing adding first x value](images/turtle-2-add-x-data.gif)
+![पहिली x व्हॅल्यू जोडतांना दाखवणारे ऍनिमेटेड gif](images/turtle-2-add-x-data.gif)
 
 --- /no-print ---
 
@@ -87,52 +87,52 @@ Be careful to enter the `-` in negative numbers such as `-58`.
 
 --- task ---
 
-Use the **+** at the bottom of the `y coords`{:class="block3variables"} list to add the y coordinate data for your turtle.
+**+** चा `y coords`{:class="block3variables"} लीस्टच्या खाली वापर करा तुमच्या कासवासाठी y कोऑर्डीनेट जोडण्यासाठी.
 
-Your lists should look like this:
+तुमची लीस्ट याप्रमाणे दिसायला हवी:
 
-![screenshot of y coord list with data](images/turtle-2-y-data.png)
+![डेटा सह y कोऑर्डीनेट लीस्टचा स्क्रीनशॉट](images/turtle-2-y-data.png)
 
 --- /task ---
 
 --- task ---
 
-When you have finished entering the data, you can hide the lists from the Stage. Uncheck the box next to the lists in the `Variables`{:class="block3variables"} blocks menu.
+तुम्ही डेटा एंटर करणे संपवल्यानंतर, तुम्ही Stage पासून लीस्ट लपवू शकता. `Variables`{:class="block3variables"} ब्लॉक मेनू मधील लीस्टच्या पुढे असलेला बॉक्स अनचेक करा.
 
-![screenshot of unchecked lists](images/turtle-2-uncheck-lists.png)
+![अनचेक लीस्टचा स्क्रीनशॉट](images/turtle-2-uncheck-lists.png)
 
 --- no-print ---
 
-![Animated of hiding lists](images/turtle-2-hide-lists.gif)
+![ऍनिमेटेड लपलेल्या लीस्ट](images/turtle-2-hide-lists.gif)
 
 --- /no-print ---
 
 --- /task ---
 
-### Move the turtles using the data in the lists
+### लीस्ट मधील डेटाचा वापर करून कासव हलवा
 
-Next, you need to write code that uses the x and y coordinate values from the lists to draw the route of the **Turtle 2** sprite.
+पुढे, तुम्हाला **Turtle 2** स्प्राईटचा मार्ग काढण्यासाठी लीस्ट मधील x आणि y कोऑर्डीनेट वापरणारा कोड लिहीण्याची आवश्यकता आहे.
 
-The code to set up the pen and starting position has been provided for you. It is the same as for the **Turtle 1** sprite, except that it uses a different pen colour and coordinates.
+पेन सेट करण्यासाठी कोड आणि सुरूवातीची पोजिशन तुम्हाला देण्यात आली आहे. हे **Turtle 1** स्प्राईट सारखेच आहे, केवळ त्यात वेगवेगळे पेन रंग आणि कोऑर्डीनेट्स वापरले आहे.
 
-Use `item 1 of x coords`{:class="block3variables"} block to get the first item in the `x coords`{:class="block3variables"} list, and `item 1 of y coords`{:class="block3variables"} block to get the first item in the `y coords`{:class="block3variables"} list. You can find these blocks in the `Variables`{:class="block3variables"} blocks menu. Together these values give you the first position for the **Turtle 2** sprite.
+`item 1 of x coords`{:class="block3variables"} ब्लॉकचा `x coords`{:class="block3variables"} लीस्ट मध्ये पहिला आयटम मिळण्यासाठी, आणि `item 1 of y coords`{:class="block3variables"} ब्लॉक `y coords`{:class="block3variables"} लीस्ट मध्ये पहिला आयटम मिळण्यासाठी वापर करा. तुम्हाला हे `Variables`{:class="block3variables"} ब्लॉक्स मेनूमध्ये दिसू शकतील. या व्हॅल्यू एकत्रीतपणे तुम्हाला **Turtle 2** स्प्राईटसाठी पहिली पोजिशन देतात.
 
 --- task ---
 
-Add code to move the turtle to its first position when it is clicked.
+कासवावर क्लिक केल्यावर तो पहिल्या पोजिशनला हलण्यासाठी कोड जोडा.
 
-![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
+![Turtle 2 स्प्राईटची इमेज](images/turtle-2-sprite.png)
 
 ```blocks3
 when this sprite clicked
 glide (1) secs to x: (item (1) of [x coords v]) y: (item (1) of [y coords v])
 ```
 
-Make sure you choose the correct list from the drop-down menu to select the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists.
+`x coords`{:class="block3variables"} आणि `y coords`{:class="block3variables"} लीस्ट निवडण्यासाठी ड्रॉप-डाऊन मेनू मधून योग्य लीस्ट निवडण्याची खात्री करा.
 
 --- no-print ---
 
-![Add code to move to first position](images/turtle-2-first-position.gif)
+![पहिल्या पोजिशन वर हलण्यासाठी कोड जोडा](images/turtle-2-first-position.gif)
 
 --- /no-print ---
 
@@ -140,27 +140,27 @@ Make sure you choose the correct list from the drop-down menu to select the `x c
 
 --- task ---
 
-Run your code and click on the **Turtle 2** sprite (the yellow turtle) to see it move to its starting position.
+तुमचा कोड रन करा आणि त्याच्या सुरूवात पोजिशन मधून हलतांना बघण्यासाठी **Turtle 2** स्प्राईट (पिवळा कासव) वर क्लिक करा.
 
 --- /task ---
 
-Now you need move the turtle through the positions. To do this, you need a variable to keep track of the next item in the list.
+आता, तुम्हाला पोजिशन मधून कासव हलवण्याची आवश्यकता आहे. हे करण्यासाठी, तुम्हाला लीस्ट मधील पुढील आयटम ट्रॅक करण्यासाठी व्हेरिएबलची आवश्यकता आहे.
 
 --- task ---
 
-Create a new variable with **For this sprite only** checked and name it `location`.
+**For this sprite only** तपासून नवीन व्हेरिएबल तयार करा आणि त्याला नाव द्या `location`.
 
-![screenshot of list variable](images/turtle-2-location-variable.png)
+![लीस्ट व्हेरिएबलचा स्क्रीनशॉट](images/turtle-2-location-variable.png)
 
-Uncheck `location`{:class="block3variables"}, so it is not displayed on the Stage.
+`location`{:class="block3variables"} अनचेक करा, जेणेकरून ते Stage वर दिसणार नाही.
 
 --- /task ---
 
 --- task ---
 
-Add a block to set the `location`{:class="block3variables"} to `1` to start at the beginning of the list. Change the `glide`{:class="block3motion"} block so that it uses the `location`{:class="block3variables"} variable instead of the number 1.
+`location`{:class="block3variables"} हे `1` ला लीस्टच्या सुरूवातीला चालू करण्यासाठी सेट करा. `glide`{:class="block3motion"} ब्लॉक बदला जेणेकरून तो `location`{:class="block3variables"} व्हेरिएबलचा संख्या 1 च्या ऐवजी वापर करेल.
 
-![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
+![Turtle 2 स्प्राईटची इमेज](images/turtle-2-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -169,7 +169,7 @@ when this sprite clicked
 ```
 --- no-print ---
 
-![Use the location to look up items in the lists](images/turtle-2-use-location.gif)
+![लीस्ट मधील आयटम शोधण्यासाठी ठिकाण वापरा](images/turtle-2-use-location.gif)
 
 --- /no-print ---
 
@@ -177,9 +177,9 @@ when this sprite clicked
 
 --- task ---
 
-Now add a `repeat`{:class="block3control"} loop to loop over the lists of coordinates. There's a block to find out the length of a list which you can use to give the number of times to repeat:
+आता कोऑर्डीनेट्सची लीस्ट लूप करण्यासाठी `repeat`{:class="block3control"} लूप जोडा. लीस्ट किती मोठी आहे हे शोधण्यासाठी तेथे ब्लॉक आहे ज्याचा तुम्ही किती वेळी पुन्हा करायचे त्यासाठी वापर करू शकता:
 
-![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
+![Turtle 2 स्प्राईटची इमेज](images/turtle-2-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -189,23 +189,23 @@ glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y
 +change [location v] by (1)
 ```
 
-Make sure your `glide`{:class="block3motion"} block is inside the `repeat`{:class="block3control"} loop.
+तुमचा `glide`{:class="block3motion"} ब्लॉक `repeat`{:class="block3control"} लूपच्या आत असल्याची खात्री करा.
 
 --- no-print ---
 
-![Use the location to look up items in the lists](images/turtle-2-add-loop.gif)
+![लीस्ट मधील आयटम शोधण्यासाठी ठिकाण वापरा](images/turtle-2-add-loop.gif)
 
 --- /no-print ---
 
-Each time round the loop, location increases and the `item`{:class="block3variables"} blocks get the next item from the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists.
+प्रत्येक वेळी लूप फिरवतांना, ठिकाण आणि `item`{:class="block3variables"} ब्लॉक्स वाढते पुढील आयटम `x coords`{:class="block3variables"} आणि `y coords`{:class="block3variables"} लीस्ट मधून मिळण्यासाठी.
 
 --- /task ---
 
 --- task ---
 
-Inside the loop, add blocks to put the `pen up`{:class="block3extensions"}, `pen down`{:class="block3extensions"}, and `stamp`{:class="block3extensions"} the sprite.
+लूपच्या आत, `pen up`{:class="block3extensions"}, `pen down`{:class="block3extensions"} ठेवण्यासाठी, आणि `stamp`{:class="block3extensions"} स्प्राईट साठी ब्लॉक्स जोडा.
 
-![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
+![Turtle 2 स्प्राईटची इमेज](images/turtle-2-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -222,11 +222,11 @@ change [location v] by (1)
 
 --- task ---
 
-Run your code to see the **Turtle 2** sprite draw its route using the x and y coordinates from the lists.
+लीस्ट मधून x आणि y कोऑर्डीनेट्स चा वापर करून **Turtle 2** स्प्राईट त्याचा मार्ग कसा काढणे ते बघण्यासाठी तुमचा कोड रन करा.
 
-Check the boxes next to the `location`{:class="block3variables"} variable, and the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists; arrange them on the Stage; and then click on the **Turtle 2** sprite to understand how the data is used.
+`location`{:class="block3variables"} व्हेरिएबल, आणि `x coords`{:class="block3variables"} आणि `y coords`{:class="block3variables"} लीस्टच्या पुढे असलेले बॉक्स तपासा; त्यांची Stage वर रचना करा; आणि त्यानंतर डेटा कसा वापरला जातो ते बघण्यासाठी **Turtle 2** स्प्राईटवर क्लिक करा.
 
-![Stage with data shown for the Turtle 2 sprite](images/turtle-2-data-on-stage.png)
+![Turtle 2 स्प्राईट साठी दाखवलेल्या डेटासह Stage](images/turtle-2-data-on-stage.png)
 
 --- /task ---
 
