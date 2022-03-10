@@ -1,11 +1,11 @@
-## What next?
+## ಮುಂದೆ ಏನು?
 
-In this project, you have:
+ಈ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ ನೀವು:
 
-+ Used x and y coordinates in Scratch to plot the routes taken by turtles
-+ Used lists to store and import the coordinates for real sea turtles
-+ Used Scratch to understand a real-world environmental topic
++ ಆಮೆಗಳು ತೆಗೆದುಕೊಂಡ ಮಾರ್ಗಗಳನ್ನು ನಕ್ಷೆ ಮಾಡಲು x ಮತ್ತು y ನಿರ್ದೇಶಾಂಕಗಳನ್ನು Scratch‌ ನಲ್ಲಿ ಉಪಯೋಗಿಸಿದಿರಿ
++ ನಿಜವಾದ ಸಮುದ್ರ ಆಮೆಗಳ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಸಂಗ್ರಹಿಸಲು ಮತ್ತು ಆಮದು ಮಾಡಲು ಪಟ್ಟಿಗಳನ್ನು ಉಪಯೋಗಿಸಿದಿರಿ
++ ನೈಜ-ಜಗತ್ತಿನ ಪರಿಸರ ವಿಷಯವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು Scratch ಉಪಯೋಗಿಸಿದಿರಿ
 
-If you have been following the [Protect our planet](https://projects.raspberrypi.org/en/pathways/protect-our-planet) projects, you might like to explore Scratch some more. Try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch).
+ನೀವು [Protect our planet](https://projects.raspberrypi.org/en/pathways/protect-our-planet) ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಅನುಸರಿಸುತ್ತಿರುವುದಾದರೆ, ನಿಮಗೆ Scratch ನಲ್ಲಿ ಇನ್ನಷ್ಟು ಅನ್ವೇಷಿಸಲು ಇಷ್ಟವಾಗಬಹುದು. [ಈ ಪ್ರಾಜೆಕ್ಟ್](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch)‌ಗಳಲ್ಲಿ ಯಾವುದಾದರೊಂದನ್ನು ಪ್ರಯತ್ನಿಸಿ.
 
-Did you enjoy the project? Have you spotted a mistake? Please click the **Send feedback** button below and let us know!
+ನೀವು ಪ್ರಾಜೆಕ್ಟ್‌ನ್ನು ಆನಂದಿಸಿದ್ದೀರಾ? ನೀವು ತಪ್ಪುನ್ನು ಪತ್ತೆ ಮಾಡಿದ್ದೀರಾ? ದಯವಿಟ್ಟು ಈ ಕೆಳಗಿನ **Send feedback** ಬಟನ್‌ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ನಮಗೆ ತಿಳಿಸಿ!
