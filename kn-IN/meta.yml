@@ -1,24 +1,25 @@
 ---
-title: Turtle tracker
+title: ಆಮೆಯ ಜಾಡು ಪತ್ತೆ ಮಾಡುವುದು
 hero_image: images/banner.png
-description: Draw the routes taken by real sea turtles during their nesting time at the islands of Príncipe and Poilão off the west coast of Africa
+description: ಆಫ್ರಿಕಾದ ಪಶ್ಚಿಮ ಕರಾವಳಿಯಲ್ಲಿರುವ ಪ್ರಿನ್ಸಿಪೆ ಮತ್ತು ಪೋಯಲಾವೋ ದ್ವೀಪಗಳಲ್ಲಿ ಆಮೆಗಳು ಗೂಡುಕಟ್ಟುವ ಸಮಯದಲ್ಲಿ ನಿಜವಾದ ಸಮುದ್ರ ಆಮೆಗಳು ಅನುಸರಿಸುವ ಮಾರ್ಗವನ್ನು ಚಿತ್ರಿಸಿ
 version: 1
 listed: true
 copyedit: false
-last_tested: "2020-09-10"
+last_tested: '2020-09-10'
 steps:
   - 
-    title: Introduction
+    title: ಪರಿಚಯ
+    completion: engaged
   - 
-    title: Using coordinates
+    title: ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಉಪಯೋಗಿಸುವುದು
   - 
-    title: Draw the route
+    title: ಮಾರ್ಗವನ್ನು ಚಿತ್ರಿಸಿ
   - 
-    title: Lists of coordinates
+    title: ನಿರ್ದೇಶಾಂಕಗಳ ಪಟ್ಟಿಗಳು
   - 
-    title: Real turtle movements
+    title: ನಿಜವಾದ ಆಮೆಯ ಚಲನೆಗಳು
+    completion: internal
   - 
-    title: Import data from a file
+    title: ಫೈಲ್‌ನಿಂದ ದತ್ತಾಂಶ ಆಮದು ಮಾಡಿಕೊಳ್ಳಿ
   - 
-    title: What next?
-
+    title: ಮುಂದೆ ಏನು?
