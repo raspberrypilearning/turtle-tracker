@@ -1,24 +1,25 @@
 ---
-title: Turtle tracker
+title: తాబేలు ట్రాకర్
 hero_image: images/banner.png
-description: Draw the routes taken by real sea turtles during their nesting time at the islands of Príncipe and Poilão off the west coast of Africa
+description: Africa లోని పశ్చిమ తీరంలో ఉన్న Príncipe మరియు Poilão ద్వీపాలలో గూడు కట్టుకునే సమయంలో నిజమైన సముద్ర తాబేళ్లు తీసుకున్న మార్గాలను గీయండి
 version: 1
 listed: true
 copyedit: false
-last_tested: "2020-09-10"
+last_tested: '2020-09-10'
 steps:
   - 
-    title: Introduction
+    title: పరిచయం
+    completion: engaged
   - 
-    title: Using coordinates
+    title: కోఆర్డినేట్‌లను ఉపయోగించడం
   - 
-    title: Draw the route
+    title: మార్గాన్ని గీయండి
   - 
-    title: Lists of coordinates
+    title: కోఆర్డినేట్‌ల జాబితాలు
   - 
-    title: Real turtle movements
+    title: తాబేలు నిజమైన కదలికలు
+    completion: internal
   - 
-    title: Import data from a file
+    title: ఫైల్ నుండి డేటాను ఇంపోర్ట్ చేయండి
   - 
-    title: What next?
-
+    title: తర్వాత ఏంటి?
