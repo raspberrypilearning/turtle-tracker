@@ -1,32 +1,32 @@
-## Using coordinates
+## निर्देशांक का उपयोग करना
 
-In this step, you will learn how to use x and y coordinates in Scratch to move a turtle to specific locations on the Stage.
+इस चरण में, आप सीखेंगे कि मंच पर विशिष्ट स्थानों पर कछुए को स्थानांतरित करने के लिए Scratch में x और y निर्देशांक का उपयोग कैसे करें।
 
 --- task ---
 
-**Online**: open the [starter project](http://rpf.io/turtle-tracker-on){:target="_blank"} in Scratch.
+**ऑनलाइन**: Scratch में [स्टार्टर प्रोजेक्ट](http://rpf.io/turtle-tracker-on){:target="_blank"} खोलें |
 
-**Offline**: open the project [starter file](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"} in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
+**ऑफ़लाइन:** Scratch के ऑफ़लाइन संपादक में [प्रोजेक्ट स्टार्टर फ़ाइल](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"} खोलें। यदि आपको ज़रूरत है तो, आप [ यहां Scratch डाउनलोड और इंस्टॉल ](https://scratch.mit.edu/download){:target="_blank"} कर सकते हैं
 
-When you open the starter project, you will see a grid and turtles.
+जब आप स्टार्टर प्रोजेक्ट खोलते हैं, तो आपको एक ग्रिड और टर्टल दिखाई देंगे।
 
 --- /task ---
 
 --- task ---
 
-If you don't see a grid, you can click on the **Grid/Map Button** in the top left-hand corner of the Stage until you see it:
+यदि आपको कोई ग्रिड नहीं दिखाई देता है, तो आप मंच के ऊपरी बाएँ हाथ के कोने **Grid/Map Button** पर तब तक क्लिक कर सकते हैं जब तक कि वह आपको दिखने न लगे:
 
-![Stage showing map with button highlighted](images/grid-backdrop.png)
+![हाइलाइट किए गए बटन के साथ मानचित्र दिखाने वाला मंच](images/grid-backdrop.png)
 
 --- /task ---
 
-Scratch uses x and y coordinate numbers to indicate locations on the Stage. The x coordinate gives the left–right position, and the y coordinate gives the up–down position. The coodinate of the centre of the Stage is (x=0, y=0). Let's send the **Turtle 1** sprite to the centre of the Stage.
+Scratch Stage पर स्थानों को इंगित करने के लिए x और y निर्देशांक संख्याओं का उपयोग करता है। X निर्देशांक बाएँ-दाएँ स्थिति देता है, और y निर्देशांक ऊपर-नीचे की स्थिति देता है। Stage के केंद्र का निर्देशांक (x=0, y=0) है। आइए **Turtle 1** स्प्राइट को Stage के केंद्र में भेजें।
 
 --- task ---
 
-Select the **Turtle 1** sprite and click on its **Code** tab. Add code to move the turtle to the centre of the Stage when it is clicked:
+**Turtle 1** स्प्राइट चुनें और इसके <**Code** टैब पर क्लिक करें। क्लिक करने पर टर्टल को Stage के केंद्र में ले जाने के लिए कोड जोड़ें:
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 स्प्राइट की छवि](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -37,17 +37,17 @@ glide (1) secs to x: (0) y: (0)
 
 --- task ---
 
-Test your code by clicking on your turtle on the Stage.
+Stage पर अपने टर्टल पर क्लिक करके अपने कोड का परीक्षण करें।
 
 --- /task ---
 
-The x coordinate gives a left-to-right position from -240 to 240. Negative x coordinates are to the left of the centre of the Stage, and positive coordinates are to the right.
+X निर्देशांक -240 से 240 तक बाएं से दाएं की स्थिति देता है। ऋणात्मक x निर्देशांक Stage के केंद्र के बाईं ओर हैं, और धनात्मक निर्देशांक दाईं ओर हैं।
 
 --- task ---
 
-Add code to get the turtle to swim to the left and then the right of the Stage:
+टर्टल को बाईं ओर तैराने के लिए और फिर Stage के दायीं ओर तैराने के लिए कोड जोड़ें:
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 स्प्राइट की छवि](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -58,13 +58,13 @@ glide (1) secs to x: (0) y: (0)
 
 --- /task ---
 
-The y coordinate goes from -180 at the bottom of the Stage, to 180 at the top of the Stage. Negative y coordinates are in the bottom half of the Stage.
+y निर्देशांक Stage के निचले भाग में -180 से मंच के शीर्ष पर 180 तक जाता है। ऋणात्मक y निर्देशांक Stage के निचले आधे भाग में हैं।
 
 --- task ---
 
-Add code to move the turtle to the top and bottom of the Stage:
+टर्टल को Stage के ऊपर और नीचे ले जाने के लिए कोड जोड़ें:
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 स्प्राइट की छवि](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -79,38 +79,38 @@ glide (1) secs to x: (240) y: (0)
 
 --- task ---
 
-Click on your turtle to watch it glide between locations. You can still click on the turtle when it is at the edge of the Stage.
+अपने टर्टल को जगहों के बीच खिसकते हुए देखने के लिए उस पर क्लिक करें। आप अभी भी टर्टल पर क्लिक कर सकते हैं जब वह Stage के किनारे पर हो।
 
 --- /task ---
 
-When the green flag is clicked, the turtles should line up in a row at the bottom of the Stage. You will need to add code to make the green turtle return to its starting position.
+जब हरे झंडे पर क्लिक किया जाता है, तो टर्टलों को Stage के निचले भाग में एक पंक्ति में खड़ा हो जाना चाहिए। हरे टर्टल को उसकी प्रारंभिक स्थिति में वापस लाने के लिए आपको कोड जोड़ना होगा।
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block and a `glide`{:class="block3motion"} block to place the turtle at the bottom left of the Stage, when the green flag is clicked:
+हरे झंडे पर क्लिक किये जाने पर टर्टल को Stage के नीचे बाईं और रखने के लिए `when green flag clicked`{:class="block3events"} ब्लॉक और एक `glide`{:class="block3motion"} ब्लॉक जोड़ें:
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 स्प्राइट की छवि](images/turtle-1-sprite.png)
 
 ```blocks3
 when green flag clicked
 glide (1) secs to x: (-220) y: (-160)
 ```
 
-Use the grid to check your understanding of the starting position coordinates.
+प्रारंभिक स्थिति निर्देशांक की अपनी समझ की जांच करने के लिए ग्रिड का उपयोग करें।
 
 --- /task ---
 
 --- task ---
 
-Click the green flag to see the turtle move to its starting position.
+टर्टल को उसकी प्रारंभिक स्थिति में ले जाते हुए देखने के लिए हरे झंडे पर क्लिक करें।
 
 --- /task ---
 
 --- task ---
 
-Can you predict the route the turtle will take with this code? Use the grid to help you. Think about where the turtle will go, then change the numbers in your `glide`{:class="block3motion"} blocks to use these coordinates to see if you are correct.
+क्या आप अनुमान लगा सकते हैं कि इस कोड के साथ टर्टल कौनसा मार्ग लेगा? आपकी सहायता के लिए ग्रिड का उपयोग करें। इस बारे में सोचें कि टर्टल कहाँ जाएगा, फिर अपने `glide`{:class="block3motion"} ब्लॉक में संख्याओं को बदलकर इन निर्देशांकों का उपयोग करके देखें कि क्या आप सही हैं।
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 स्प्राइट की छवि](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
