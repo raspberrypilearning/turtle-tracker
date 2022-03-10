@@ -1,11 +1,11 @@
-## What next?
+## पुढे काय?
 
-In this project, you have:
+प्रोजेक्टमध्ये, तुमच्याकडे आहे:
 
-+ Used x and y coordinates in Scratch to plot the routes taken by turtles
-+ Used lists to store and import the coordinates for real sea turtles
-+ Used Scratch to understand a real-world environmental topic
++ कासवांनी घेतलेले मार्ग काढण्यासाठी Scratch मधील x आणि y कोऑर्डीनेट्सचा वापर करा
++ वास्तव समुद्री कासवांसाठी कोऑर्डीनेट्स स्टोअर आणि इंपोर्ट करण्यासाठी लीस्टचा वापर केला
++ वास्तव जगातील पर्यावरण विषय समजून घेण्यासाठी Scratch चा वापर कसा करायचा
 
-If you have been following the [Protect our planet](https://projects.raspberrypi.org/en/pathways/protect-our-planet) projects, you might like to explore Scratch some more. Try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch).
+तुम्ही [आपल्या ग्रहाचे संरक्षण करा](https://projects.raspberrypi.org/en/pathways/protect-our-planet) प्रोजेक्टचे अनुसरण करत असल्यास, तुम्हाला कदाचीत आणखी काही Scratch एक्सप्लोर करायला आवडेल. [या प्रोजेक्ट्स](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch) पैकी कशाचाही प्रयत्न करा.
 
-Did you enjoy the project? Have you spotted a mistake? Please click the **Send feedback** button below and let us know!
+तुम्ही प्रोजेक्टचा आनंद घेतला का? तुमची चूक लक्षात आली आहे का? कृपया खालील **Send feedback** बटनावर क्लिक करा आणि आम्हाला कळवा!
