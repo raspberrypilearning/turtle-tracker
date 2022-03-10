@@ -1,18 +1,18 @@
-## Draw the route
+## మార్గాన్ని గీయండి
 
-In this step, you will use the `Pen`{:class="block3extensions"} extension blocks to draw a path to show the turtle’s movement, and will then add a stamp to represent its known locations.
+ఈ దశలో, మీరు తాబేలు కదలికను చూపించడానికి మార్గాన్ని గీయడానికి `Pen`{:class="block3extensions"} పొడిగింపు బ్లాక్‌లను ఉపయోగిస్తారు మరియు దాని తెలిసిన స్థానాలను సూచించడానికి ఒక స్టాంప్‌ను జోడిస్తుంది.
 
-A stamp is a copy of the sprite, which you cannot move or delete once you have stamped it.
+Stamp అనేది sprite యొక్క కాపీ, మీరు స్టాంప్ చేసిన తర్వాత దాన్ని తరలించలేరు లేదా తొలగించలేరు.
 
-When a tag is placed on a turtle, it uses the Global Positioning System (GPS) to detect its current position from a satellite. This data is stored and can be used to work out the route taken by the turtle.
+తాబేలుపై ట్యాగ్‌ను ఉంచినప్పుడు, అది ఉపగ్రహం నుండి దాని ప్రస్తుత స్థానాన్ని గుర్తించడానికి గ్లోబల్ పొజిషనింగ్ సిస్టమ్ (GPS) ని ఉపయోగిస్తుంది. ఈ డేటా నిల్వ చేయబడుతుంది మరియు తాబేలు తీసుకున్న మార్గాన్ని పని చేసేలా చేయడానికి ఉపయోగించవచ్చు.
 
-The `Pen`{:class="block3extensions"} extension has already been added to the starter project.
+`Pen`{:class="block3extensions"} పొడిగింపు ఇప్పటికే స్టార్టర్ ప్రాజెక్ట్‌కి జోడించబడింది.
 
 --- task ---
 
-Select the **Turtle 1** sprite and add code to set up the pen:
+పెన్ను సెటప్ చేయడానికి **Turtle 1** sprite ని ఎంచుకుని, కోడ్‌ని జోడించండి:
 
-![image of Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 sprite యొక్క చిత్రం](images/turtle-1-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -24,15 +24,15 @@ when green flag clicked
 glide (1) secs to x: (-220) y: (-160)
 ```
 
-The colour `40` matches the colour of the sprite's costume.
+`40` రంగు sprite costume యొక్క రంగుతో సరిపోలుతుంది.
 
 --- /task ---
 
 --- task ---
 
-Add code to draw the route taken by the turtle using the pen:
+పెన్ను ఉపయోగించి తాబేలు తీసుకున్న మార్గాన్ని గీయడానికి కోడ్‌ను జోడించండి:
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 sprite యొక్క చిత్రం](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,19 +49,19 @@ glide (1) secs to x: (100) y: (100)
 
 --- task ---
 
-Click the green flag to run the setup code, and then click on the **Turtle 1** sprite on the Stage to see it draw its path.
+సెటప్ కోడ్‌ను అమలు చేయడానికి ఆకుపచ్చ జెండాను క్లిక్ చేసి, ఆపై దాని మార్గాన్ని గీసేందుకు Stage పై ఉన్న **Turtle 1** sprite పై క్లిక్ చేయండి.
 
-![Path of the Turtle 1 sprite](images/turtle-1-path.png)
+![Turtle 1 sprite యొక్క మార్గం](images/turtle-1-path.png)
 
-If your turtle doesn't draw a square, then carefully check your coordinates from the previous step.
+మీ తాబేలు చతురస్రాన్ని గీయకపోతే, మునుపటి దశ నుండి మీ కోఆర్డినేట్‌లను జాగ్రత్తగా తనిఖీ చేయండి.
 
 --- /task ---
 
-Now add a `stamp`{:class="block3extensions"} of the turtle to show its known positions.
+ఇప్పుడు దాని తెలిసిన స్థానాలను చూపించడానికి తాబేలు యొక్క `stamp`{:class="block3extensions"} ని జోడించండి.
 
 --- task ---
 
-![image of the Turtle 1 sprite](images/turtle-1-sprite.png)
+![Turtle 1 sprite యొక్క చిత్రం](images/turtle-1-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -82,15 +82,15 @@ glide (1) secs to x: (100) y: (100)
 
 --- task ---
 
-Click the green flag, and then click on the **Turtle 1** sprite to see the turtle draw its route and stamp a marker at each known position.
+ఆకుపచ్చ జెండాను క్లిక్ చేసి, ఆపై **Turtle 1** sprite పై క్లిక్ చేసి, తాబేలు దాని మార్గాన్ని గీసి, తెలిసిన ప్రతి స్థానంలో మార్కర్‌ను స్టాంప్ చేయండి.
 
-![Path of the Turtle 1 sprite with stamps](images/turtle-1-stamps.png)
+![స్టాంపులతో Turtle 1 sprite యొక్క మార్గం](images/turtle-1-stamps.png)
 
 --- /task ---
 
 --- task ---
 
-Of course, turtles don't swim in perfect squares! Try change the coordinate numbers to get your turtle to swim in a different route.
+అయితే, తాబేళ్లు ఖచ్చితమైన చతురస్రాల్లో ఈత కొట్టవు! మీ తాబేలు వేరే మార్గంలో ఈత కొట్టడానికి కోఆర్డినేట్ నంబర్‌లను మార్చడానికి ప్రయత్నించండి.
 
 --- /task ---
 
