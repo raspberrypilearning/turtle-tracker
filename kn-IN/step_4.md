@@ -12,7 +12,7 @@
 
 ಹಳದಿ **Turtle 2** ಸ್ಪ್ರೈಟ್‌ನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ ಮತ್ತು **Code** ಟ್ಯಾಬ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ. ಈ ಆಮೆಯು ಈಗಾಗಲೇ ಪೆನ್ನಿಗೆ ಮತ್ತು ಪ್ರಾರಂಭಿಕ ಸ್ಥಾನಕ್ಕೆ ಚಲಿಸಲು ಕೋಡ್‌ ಹೊದಾಣಿಕೆ ಹೊಂದಿದೆ.
 
-![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
+![Turtle 2 ಸ್ಪ್ರೈಟ್‌ ಚಿತ್ರ](images/turtle-2-sprite.png)
 
  `Variables`{:class="block3variables"} ಬ್ಲಾಕ್‌ಗಳ ಮೆನು ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ, ಮತ್ತು ನಂತರ **Make a List** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
@@ -20,13 +20,13 @@
 
 ಪಟ್ಟಿಯನ್ನು `x coords` ಎಂದು ಹೆಸರಿಸಿ. **For this sprite only** ನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ —ಇದು ಪ್ರತಿಯೊಂದು ಆಮೆಗೆ ತನ್ನದೇ ಆದ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಹೊಂದಲು ಅನುವುಮಾಡಿಕೊಡುತ್ತದೆ.
 
-![List creation dialogue for x coords](images/turtle-2-x-list.png)
+![x ನಿರ್ದೇಶಾಂಕಗಳಿಗೆ ಪಟ್ಟಿ ರಚಿಸುತ್ತಿರುವ ಡೈಲಾಗ್](images/turtle-2-x-list.png)
 
 **OK** ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ಪಟ್ಟಿಯು Stage ಮೇಲೆ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ.
 
 --- no-print ---
 
-![animation of adding x coords list for this sprite](images/add-x-coords-list.gif)
+![ಈ ಸ್ಪ್ರೈಟ್‌ಗಾಗಿ x ನಿರ್ದೇಶಾಂಕಗಳ ಪಟ್ಟಿಯನ್ನು ಸೇರಿಸುವ ಅನಿಮೇಷನ್](images/add-x-coords-list.gif)
 
 --- /no-print ---
 
@@ -36,11 +36,11 @@
 
 `y coords` ಎಂದು ಕರೆಯಲ್ಪಡುವ ಎರಡನೇ ಪಟ್ಟಿಯನ್ನು ಮಾಡಲು ಈಗ ಮತ್ತೆ **Make a List** ಕ್ಲಿಕ್‌ ಮಾಡಿ. ನೀವು **For this sprite only** ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಲೇ ಬೇಕು.
 
-![List creation dialogue for y coords](images/turtle-2-y-list.png)
+![y ನಿರ್ದೇಶಾಂಕಗಳಿಗೆ ಪಟ್ಟಿ ರಚಿಸುವ ಡೈಲಾಗ್](images/turtle-2-y-list.png)
 
 ನೀವು ಈಗ Stage ಮೇಲೆ ಎರಡು ಖಾಲಿ ಪಟ್ಟಿಗಳನ್ನು ಹೊಂದಿರುವಿರಿ.
 
-![screenshot of empty lists](images/empty-lists.png)
+![ಖಾಲಿ ಪಟ್ಟಿಗಳ ಸ್ಕ್ರೀನ್‌ಶಾಟ್](images/empty-lists.png)
 
 --- /task ---
 
@@ -69,17 +69,17 @@
 
 ಇದು ಪಟ್ಟಿಗೆ ನಮೂದನ್ನು ಸೇರಿಸುತ್ತದೆ. ಕೋಷ್ಟಕದಲ್ಲಿ ಮೊದಲನೆಯ x ನಿರ್ದೇಶಾಂಕದ ಮೌಲ್ಯ `189` ನಮೂದಿಸಿ.
 
-![Add data to x coords](images/turtle-2-add-data.png)
+![x ನಿರ್ದೇಶಾಂಕಗಳಿಗೆ ದತ್ತಾಂಶ ಸೇರಿಸಿ](images/turtle-2-add-data.png)
 
 ಉಳಿದ x ನಿರ್ದೇಶಾಂಕ ಮೌಲ್ಯಗಳಿಗೆ ಪುನರಾವರ್ತಿಸಿ, ಆಗ ನಿಮ್ಮ ಪಟ್ಟಿಯು ಈ ರೀತಿ ಕಾಣುತ್ತದೆ:
 
-![screenshot of x coord list with data](images/turtle-2-x-data.png)
+![ದತ್ತಾಂಶಗಳೊಂದಿಗೆ x ನಿರ್ದೇಶಾಂಕಗಳ ಪಟ್ಟಿಯ ಸ್ಕ್ರೀನ್‌ ಶಾಟ್](images/turtle-2-x-data.png)
 
 `-58` ನಂತಹ ಋಣಾತ್ಮಕ ಸಂಖ್ಯೆಗಳಲ್ಲಿ `-` ನ್ನು ನಮೂದಿಸುವಂತೆ ಎಚ್ಚರವಹಿಸಿ.
 
 --- no-print ---
 
-![Animated gif showing adding first x value](images/turtle-2-add-x-data.gif)
+![ಮೊದಲನೆಯ x ಮೌಲ್ಯ ಸೇರಿಸುತ್ತಿರುವುದನ್ನು ತೋರಿಸುತ್ತಿರುವ ಅನಿಮೇಟೆಡ್‌ ಜಿಐಫ್](images/turtle-2-add-x-data.gif)
 
 --- /no-print ---
 
@@ -91,7 +91,7 @@
 
 ನಿಮ್ಮ ಪಟ್ಟಿಗಳು ಈ ರೀತಿ ಕಾಣಬೇಕು:
 
-![screenshot of y coord list with data](images/turtle-2-y-data.png)
+![ದತ್ತಾಂಶದೊಂದಿಗೆ y ನಿರ್ದೇಶಾಂಕಗಳ ಪಟ್ಟಿಯ ಸ್ಕ್ರೀನ್‌ಶಾಟ್](images/turtle-2-y-data.png)
 
 --- /task ---
 
@@ -99,11 +99,11 @@
 
 ನೀವು ದತ್ತಾಂಶವನ್ನು ನಮೂದಿಸುವುದನ್ನು ಮುಗಿಸಿದಾಗ, ನೀವು ಪಟ್ಟಿಗಳನ್ನು Stage ಮೇಲಿಂದ ಮರೆಮಾಡಬಹುದು. `Variables`{:class="block3variables"} ಬ್ಲಾಕ್‌ಗಳ ಮೆನುನಲ್ಲಿ ಪಟ್ಟಿಗಳ ಮುಂದಿರುವ ಪೆಟ್ಟಿಗೆಯನ್ನು ಅನ್‌ಚೆಕ್‌ ಮಾಡಿ.
 
-![screenshot of unchecked lists](images/turtle-2-uncheck-lists.png)
+![ಅನ್‌ಚೆಕ್‌ ಆಗಿರುವ ಪಟ್ಟಿಗಳ ಸ್ಕ್ರೀನ್‌ಶಾಟ್](images/turtle-2-uncheck-lists.png)
 
 --- no-print ---
 
-![Animated of hiding lists](images/turtle-2-hide-lists.gif)
+![ಮರೆಯೂಗುವ ಪಟ್ಟಿಗಳ ಅನಿಮೇಟೆಡ್](images/turtle-2-hide-lists.gif)
 
 --- /no-print ---
 
