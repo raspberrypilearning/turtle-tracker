@@ -1,68 +1,68 @@
-## Real turtle movements
+## वास्तविक कासवाच्या हालचाली
 
-In this step, you will switch to to the map backdrop **Poilão Island**. Coordinate data for a real turtle that was tracked by the Shuttleworth Foundation has already been added to the **Turtle 3** sprite. Copy your code from the **Turtle 2** sprite to **Turtle 3** to see the route that this turtle took.
+या टप्प्यात, तुम्ही मॅप बॅकड्रॉप **Poilão Island** मध्ये बदलाल. Shuttleworth Foundation ने आधीच काढलेला वास्तव कासवासाठीचा कोऑर्डीनेट डेटा **Turtle 3** स्प्राईटला जोडला आहे. तुमचा कोड **Turtle 2** स्प्राईट पासून **Turtle 3** पर्यंत या कासव घेत असलेला मार्ग बघण्यासाठी कॉपी करा.
 
 --- task ---
 
-Click on the **Grid/Map Button** and you will see a map of the area around Poilão, an island off the west coast of Africa.
+**Grid/Map Button** वर क्लिक करा आणि तुम्हाला पश्चिम किनाऱ्यावरील पोइलाओ बेटाच्या आसपासच्या भागाचा नकाशा दिसेल.
 
-![Stage showing map with button highlighted](images/map-backdrop.png)
+![हायलाइट केलेल्या बटनासह नकाशा दाखवणारा Stage](images/map-backdrop.png)
 
-This small island measures less than 1km (1000 metres) across. Poilão is an important environmental location for nesting green sea turtles.
+हे लहान बेट असून त्याचे मोजमाप 1 किमी (1000 मीटर) पेक्षा कमी आहे. पोइलाओ हे हिरव्या समुद्री कासवांच्या निवाऱ्यासाठीचे महत्वाचे पर्यावरणीय ठिकाण आहे.
 
-The carapace (shell) of an adult green sea turtle is about 1m long.
+प्रौढ हिरव्या समुद्री कासवाचे कॅरेपेस (शेल) सुमारे 1 मीटर लांब असते.
 
 --- /task ---
 
 --- task ---
 
-Select the **Turtle 3** sprite, the orange turtle, and click on the **Code** tab.
+**Turtle 3** स्प्राईट, नारिंगी कासव  निवडा, आणि **Code** टॅबवर क्लिक करा.
 
-![image of the Turtle 3 sprite](images/turtle-3-sprite.png)
+![Turtle 3 स्प्राईटची इमेज](images/turtle-3-sprite.png)
 
-Open the `Variables`{:class="block3variables"} blocks menu, and check the boxes next to the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists to show them on the Stage.
+`Variables`{:class="block3variables"} ब्लॉक्स मेनू उघडा, आणि `x coords`{:class="block3variables"} आणि `y coords`{:class="block3variables"} लीस्टच्या पुढील बॉक्स Stage वर दाखवण्यासाठी तपासा.
 
-![Screenshot of the Turtle 3 lists on stage](images/turtle-3-lists-on-stage.png)
+![stage वरील Turtle 3 लीस्टचा स्क्रीनशॉट](images/turtle-3-lists-on-stage.png)
 
-These lists are **For this sprite only**, they contain different data to the lists you created for the **Turtle 2** sprite.
+या लीस्ट **For this sprite only** आहेत, त्यामध्ये **Turtle 2** स्प्राईटसाठी तुम्ही तयार केलेल्या लीस्टचा वेगवेगळा डेटा आहे.
 
-You can see the x and y coordinates on the Stage. These are based on the real movements of a sea turtle and have been turned into Scratch coordinates that work with the **Poilão Island** backdrop.
+तुम्ही Stage वर x आणि y कोऑर्डीनेट्स बघू शकता. हे समुद्री कासवाच्या वास्तव हालचालींवर आधारित आहे आणि Scratch कोऑर्डीनेट्स मध्ये वळले आहे जे **Poilão Island** बॅकड्रॉपसह कार्य करतात.
 
-When you have seen the coordinates, you can uncheck the boxes to hide them.
+तुम्ही कोऑर्डीनेट्स बघिल्यावर, तुम्ही बॉक्स त्यांना लपवण्यासाठी अनचेक करू शकता.
 
 --- /task ---
 
-It's hard for humans to understand lists of numbers. Your task is to copy your code to the **Turtle 3** sprite to draw and stamp the coordinates to make it easier to see where this turtle went.
+संख्यांची लीस्ट समजून घेणे मानवांसाठी कठीण आहे. तो कासव कुठे गेला ते बघणे सोपे व्हावे यासाठी कोऑर्डीनेट्स काढणे आणि स्टँप करणे यांसाठी **Turtle 3** स्प्राईटला तुमचा कोड कॉपी करणे हे तुमचा कार्य आहे.
 
 --- task ---
 
-Select the **Turtle 2** sprite and click on the **Code** tab. Drag the `when this sprite clicked`{:class="block3events"} block (all the blocks underneath will also move). Keep dragging until you are over the **Turtle 3** sprite in the Sprite pane under the Stage. The **Turtle 3** sprite will do a little wiggle to show that it has been selected and you can stop dragging.
+**Turtle 2** स्प्राईट निवडा आणि **Code** टॅबवर क्लिक करा. `when this sprite clicked`{:class="block3events"} ब्लॉक ड्रॅग करा (सर्व खालील ब्लॉक्स सुद्धा हलतील). तुम्ही Stage खालील Sprite पेनमधील **Turtle 3** स्प्राईटच्या वर असेपर्यंत ड्रॅग करणे चालू ठेवावे. **Turtle 3** स्प्राईट ते निवडले गेल्याचे दाखवण्यासाठी थोडे वळवळ करेल आणि तुम्ही ड्रॅग करणे थांबवू शकता.
 
-![Drag code from the Turtle 2 sprite to Turtle 3](images/turtle-3-drag-code.png)
+![Turtle 2 स्प्राईट मधून Turtle 3 मध्ये कोड ड्रॅग करा](images/turtle-3-drag-code.png)
 
-**Tip:** To drag with a mouse or trackpad, hold down the left mouse button while you move.
+**टीप:** माऊस किंवा ट्रॅपपॅडने ड्रॅग करण्यासाठी, तुम्ही हलवतांना माऊसचे डावे बटन धरून ठेवा.
 
-The code is still available on the **Turtle 2** sprite, but there will also be a copy in the **Turtle 3** sprite's **Code** tab.
+कोड अजुनही **Turtle 2** स्प्राईटवर उपलब्ध आहे, परंतु **Turtle 3** स्प्राईटच्या**Code** टॅबमध्ये त्याची कॉपी असेल.
 
-Select the **Turtle 3** sprite, and click on its **Code** tab to see the copied code.
+**Turtle 3** स्प्राईट निवडा, आणि कॉपी केलेला कोड बघण्यासाठी त्याच्या **Code** टॅबवर क्लिक करा.
 
 --- no-print ---
 
-![Animation of dragging code from Turtle 2 to Turtle 3](images/drag-code-to-turtle-3.gif)
+![Turtle 2 ते Turtle 3 पर्यंत कोड ड्रॅग करण्याचे ऍनिमेशन](images/drag-code-to-turtle-3.gif)
 
 --- /no-print ---
 
-**Tip:** You can right-click in the Code area and choose **Clean up Blocks** to tidy up your code.
+**टीप:** तुमचा कोड व्यवस्थित करण्यासाठी तुम्ही Code एरियात राईट-क्लिक करू शकता आणि **Clean up Blocks** निवडू शकता.
 
 --- /task ---
 
 --- task ---
 
-Click the **Turtle 3** sprite, the orange turtle, on the Stage to run your code and see the route that the turtle took.
+तुमचा कोड रन करण्यासाठी आणि कासवाने घेतलेला मार्ग बघण्यासाठी Stage वरील नारिंगी कासव **Turtle 3** स्प्राईटवर क्लिक करा.
 
-GPS readings are not perfectly accurate, and the turtles can't be tracked when they spend time underwater, but they give a very good idea where the turtles have travelled.
+GPS रीडींग फार योग्य नसतात, आणि कासवांनी पाण्याखाली वेळ घालवल्यावर त्यांना शोधले जाऊ शकत नाही, परंतु कासव कुठे कुठे गेले ते लक्षात घेण्याची ते उत्तम कल्पना देतात.
 
-**Remember:** You have one location for the turtle each day, so the lines join up the locations, they don't show how the turtle moved between positions (you would need more data for that).
+**लक्षात ठेवा:** तुमच्याकडे प्रत्येक दिवसासाठी एक ठिकाण आहे, त्यामुळे लाईन्स ठिकाणांना जुळतात, ते पोजिशन दरम्यान कासव कोठे हलतात हे दाखवत नाहीत (त्यासाठी तुम्हाला आणखी डेटाची आवश्यकता असते).
 
 --- /task ---
 
