@@ -1,32 +1,32 @@
-## Lists of coordinates
+## కోఆర్డినేట్‌ల జాబితాలు
 
-In this step, you will add **lists** of x and y coordinates to the **Turtle 2** sprite. This allows you to draw a longer route without having to write code for each location.
+ఈ దశలో, మీరు **Turtle 2** sprite కి x మరియు y కోఆర్డినేట్‌ల **lists** ని జోడిస్తారు. ఇది ప్రతి స్థానానికి కోడ్ రాయాల్సిన అవసరం లేకుండా సుదీర్ఘ మార్గాన్ని గీయడానికి మిమ్మల్ని అనుమతిస్తుంది.
 
-In previous projects you have used variables to store data. A variable can only store one piece of data at a time. A list also stores data, but it can store lots of information in order.
+మునుపటి ప్రాజెక్ట్‌లలో మీరు డేటాను నిల్వ చేయడానికి వేరియబుల్‌లను ఉపయోగించారు. ఒక వేరియబుల్ ఒక సమయంలో ఒక డేటా భాగాన్ని మాత్రమే నిల్వ చేయగలదు. జాబితా కూడా డేటాను నిల్వ చేస్తుంది, అయితే ఇది చాలా సమాచారాన్ని ఒక క్రమంలో నిల్వ చేయగలదు.
 
-You are going to create two lists, one for the x coordinates of your turtle and one for the y coordinates. Then, you will write code that moves the turtle using the data in the lists.
+మీరు రెండు జాబితాలను సృష్టించబోతున్నారు, ఒకటి మీ తాబేలు యొక్క x కోఆర్డినేట్‌ల కోసం మరియు ఒకటి y కోఆర్డినేట్‌ల కోసం. అప్పుడు, మీరు జాబితాలలోని డేటాను ఉపయోగించి తాబేలును కదిలించే కోడ్‌ను వ్రాస్తారు.
 
-### Create lists of x and y coordinates
+### X మరియు y కోఆర్డినేట్‌ల జాబితాలను సృష్టించండి
 
 --- task ---
 
-Select the yellow **Turtle 2** sprite and click on the **Code** tab. This turtle already has code set up for the pen and to move to a starting position.
+**Turtle 2** sprite ని ఎంచుకుని, **Code** ట్యాబ్‌పై క్లిక్ చేయండి. ఈ తాబేలు కోసం ఇప్పటికే పెన్ మరియు ప్రారంభ స్థానానికి తరలించడానికి కోడ్‌ సెటప్ చేయబడిఉంది.
 
-![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
+![Turtle 2 sprite యొక్క చిత్రం](images/turtle-2-sprite.png)
 
- Click on the `Variables`{:class="block3variables"} blocks menu, and then click on **Make a List**.
+ `Variables`{:class="block3variables"} బ్లాక్స్ మెనుపై క్లిక్ చేసి, ఆపై **Make a List**పై క్లిక్ చేయండి.
 
-![image highlighting Make a List button](images/turtle-2-make-a-list.png)
+![జాబితాను రూపొందించు బటన్ ను హైలైట్ చేసే చిత్రం](images/turtle-2-make-a-list.png)
 
-Name the list `x coords`. Choose **For this sprite only** — this will allow each turtle sprite to have its own coordinates.
+జాబితాకు `x coords` అని పేరు పెట్టండి. **For this sprite only** ని ఎంచుకోండి — ఇది ప్రతి turtle sprite దాని స్వంత కోఆర్డినేట్‌లను కలిగి ఉండటానికి అనుమతిస్తుంది.
 
-![List creation dialogue for x coords](images/turtle-2-x-list.png)
+![x coords కోసం జాబితా సృష్టించే డైలాగ్](images/turtle-2-x-list.png)
 
-Click **OK** and the list will appear on the Stage.
+**OK** క్లిక్ చేయండి మరియు జాబితా Stage పై కనిపిస్తుంది.
 
 --- no-print ---
 
-![animation of adding x coords list for this sprite](images/add-x-coords-list.gif)
+![ఈ sprite కోసం x coords జాబితాను జోడించే యానిమేషన్](images/add-x-coords-list.gif)
 
 --- /no-print ---
 
@@ -34,19 +34,19 @@ Click **OK** and the list will appear on the Stage.
 
 --- task ---
 
-Now click **Make a List** again to make a second list called `y coords`. You must select **For this sprite only**.
+`y coords`అని పిలువబడే రెండవ జాబితాను రూపొందించడానికి ఇప్పుడు **Make a List** ని మళ్లీ క్లిక్ చేయండి. మీరు **For this sprite only** ఎంచుకోవాలి.
 
-![List creation dialogue for y coords](images/turtle-2-y-list.png)
+![y coords కోసం జాబితా సృష్టించే డైలాగ్](images/turtle-2-y-list.png)
 
-You now have two empty lists on the Stage.
+మీరు ఇప్పుడు Stage పై రెండు ఖాళీ జాబితాలను కలిగి ఉన్నారు.
 
-![screenshot of empty lists](images/empty-lists.png)
+![ఖాళీ జాబితాల స్క్రీన్‌షాట్](images/empty-lists.png)
 
 --- /task ---
 
-Next, you need to add coordinate data to the lists.
+తరువాత, మీరు జాబితాలకు కోఆర్డినేట్ డేటాను జోడించాలి.
 
-This table gives coordinate positions for your turtle:
+ఈ పట్టిక మీ తాబేలు కోసం సమన్వయ స్థానాలను అందిస్తుంది:
 
 <div style="width:200px;">
 
@@ -65,21 +65,21 @@ This table gives coordinate positions for your turtle:
 
 --- task ---
 
-Click on the **+** at the bottom of the `x coords`{:class="block3variables"} list.
+`x coords`{:class="block3variables"} జాబితా దిగువన ఉన్న **+** పై క్లిక్ చేయండి.
 
-This adds an entry to the list. Enter the value `189`, the first x coordinate in the table.
+ఇది జాబితాకు ఒక ఎంట్రీని జోడిస్తుంది. పట్టికలో మొదటి x కోఆర్డినేట్ విలువను `189` గా నమోదు చేయండి.
 
-![Add data to x coords](images/turtle-2-add-data.png)
+![x coords కు డేటాను జోడించండి](images/turtle-2-add-data.png)
 
-Repeat for the rest of the x coordinate values so that your list looks like this:
+మిగిలిన x కోఆర్డినేట్ విలువల కోసం పునరావృతం చేయండి, తద్వారా మీ జాబితా ఇలా కనిపిస్తుంది:
 
-![screenshot of x coord list with data](images/turtle-2-x-data.png)
+![డేటాతో x coord జాబితా యొక్క స్క్రీన్ షాట్](images/turtle-2-x-data.png)
 
-Be careful to enter the `-` in negative numbers such as `-58`.
+`-58`వంటి ఋణ సంఖ్యలలో `-` ని నమోదు చేయడంలో జాగ్రత్తగా ఉండండి.
 
 --- no-print ---
 
-![Animated gif showing adding first x value](images/turtle-2-add-x-data.gif)
+![యానిమేటెడ్ gif మొదటి x విలువను జోడిస్తోంది](images/turtle-2-add-x-data.gif)
 
 --- /no-print ---
 
@@ -87,52 +87,52 @@ Be careful to enter the `-` in negative numbers such as `-58`.
 
 --- task ---
 
-Use the **+** at the bottom of the `y coords`{:class="block3variables"} list to add the y coordinate data for your turtle.
+మీ తాబేలు కోసం y కోఆర్డినేట్ డేటాను జోడించడానికి `y coords`{:class="block3variables"} జాబితా దిగువన ఉన్న **+** ని ఉపయోగించండి.
 
-Your lists should look like this:
+మీ జాబితాలు ఇలా ఉండాలి:
 
-![screenshot of y coord list with data](images/turtle-2-y-data.png)
+![డేటాతో y coord జాబితా యొక్క స్క్రీన్ షాట్](images/turtle-2-y-data.png)
 
 --- /task ---
 
 --- task ---
 
-When you have finished entering the data, you can hide the lists from the Stage. Uncheck the box next to the lists in the `Variables`{:class="block3variables"} blocks menu.
+మీరు డేటాను నమోదు చేయడం పూర్తి చేసిన తర్వాత, మీరు Stage నుండి జాబితాలను దాచవచ్చు. `Variables`{:class="block3variables"} బ్లాక్స్ మెనులో జాబితాల పక్కన ఉన్న బాక్సును అన్ చెక్ చేయండి.
 
-![screenshot of unchecked lists](images/turtle-2-uncheck-lists.png)
+![అన్ చెక్ చేయని జాబితాల స్క్రీన్‌షాట్](images/turtle-2-uncheck-lists.png)
 
 --- no-print ---
 
-![Animated of hiding lists](images/turtle-2-hide-lists.gif)
+![దాచిన జాబితాల యానిమేషన్](images/turtle-2-hide-lists.gif)
 
 --- /no-print ---
 
 --- /task ---
 
-### Move the turtles using the data in the lists
+### జాబితాలలోని డేటాను ఉపయోగించి తాబేళ్లను తరలించండి
 
-Next, you need to write code that uses the x and y coordinate values from the lists to draw the route of the **Turtle 2** sprite.
+తర్వాత, మీరు **Turtle 2** sprite యొక్క మార్గాన్ని గీయడానికి జాబితాల నుండి x మరియు y కోఆర్డినేట్ విలువలను ఉపయోగించే కోడ్‌ను వ్రాయాలి.
 
-The code to set up the pen and starting position has been provided for you. It is the same as for the **Turtle 1** sprite, except that it uses a different pen colour and coordinates.
+పెన్ మరియు ప్రారంభ స్థానం సెటప్ చేయడానికి కోడ్ మీ కోసం అందించబడింది. ఇది **Turtle 1** sprite మాదిరిగానే ఉంటుంది, కానీ ఇది వేరే పెన్ కలర్ మరియు కోఆర్డినేట్‌లను ఉపయోగిస్తుంది.
 
-Use `item 1 of x coords`{:class="block3variables"} block to get the first item in the `x coords`{:class="block3variables"} list, and `item 1 of y coords`{:class="block3variables"} block to get the first item in the `y coords`{:class="block3variables"} list. You can find these blocks in the `Variables`{:class="block3variables"} blocks menu. Together these values give you the first position for the **Turtle 2** sprite.
+`x coords`{:class="block3variables"} జాబితాలో మొదటి అంశాన్ని పొందడానికి `item 1 of x coords`{:class="block3variables"} బ్లాక్‌ ని ఉపయోగించండి మరియు `y coords`{:class="block3variables"} జాబితాలో మొదటి అంశాన్ని పొందడానికి `item 1 of y coords`{:class="block3variables"} బ్లాక్‌ ని. మీరు ఈ బ్లాక్‌లను `Variables`{:class="block3variables"} బ్లాక్‌ల మెనులో కనుగొనవచ్చు. ఈ విలువలు కలిసి మీకు **Turtle 2** sprite కి మొదటి స్థానాన్ని అందిస్తాయి.
 
 --- task ---
 
-Add code to move the turtle to its first position when it is clicked.
+తాబేలు క్లిక్ చేసినప్పుడు దాని మొదటి స్థానానికి తరలించడానికి కోడ్‌ను జోడించండి.
 
-![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
+![Turtle 2 sprite యొక్క చిత్రం](images/turtle-2-sprite.png)
 
 ```blocks3
 when this sprite clicked
 glide (1) secs to x: (item (1) of [x coords v]) y: (item (1) of [y coords v])
 ```
 
-Make sure you choose the correct list from the drop-down menu to select the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists.
+`x coords`{:class="block3variables"} మరియు `y coords`{:class="block3variables"} జాబితాలను ఎంచుకోవడానికి మీరు డ్రాప్-డౌన్ మెను నుండి సరైన జాబితాను ఎంచుకున్నారని నిర్ధారించుకోండి.
 
 --- no-print ---
 
-![Add code to move to first position](images/turtle-2-first-position.gif)
+![మొదటి స్థానానికి వెళ్లడానికి కోడ్‌ని జోడించండి](images/turtle-2-first-position.gif)
 
 --- /no-print ---
 
@@ -140,27 +140,27 @@ Make sure you choose the correct list from the drop-down menu to select the `x c
 
 --- task ---
 
-Run your code and click on the **Turtle 2** sprite (the yellow turtle) to see it move to its starting position.
+మీ కోడ్‌ని అమలు చేసి, **Turtle 2** sprite (పసుపు తాబేలు) దాని ప్రారంభ స్థానానికి వెళ్లడాన్ని చూడటానికి దానిపై క్లిక్ చేయండి.
 
 --- /task ---
 
-Now you need move the turtle through the positions. To do this, you need a variable to keep track of the next item in the list.
+ఇప్పుడు మీరు తాబేలును స్థానాల ద్వారా తరలించాలి. దీన్ని చేయడానికి, జాబితాలోని తదుపరి అంశాన్ని ట్రాక్ చేయడానికి మీకు వేరియబుల్ అవసరం.
 
 --- task ---
 
-Create a new variable with **For this sprite only** checked and name it `location`.
+**For this sprite only** తో కొత్త వేరియబుల్ ను సృష్టించండి మరియు దానికి `location` అని పేరు పెట్టండి.
 
-![screenshot of list variable](images/turtle-2-location-variable.png)
+![జాబితా వేరియబుల్ యొక్క స్క్రీన్ షాట్](images/turtle-2-location-variable.png)
 
-Uncheck `location`{:class="block3variables"}, so it is not displayed on the Stage.
+`location`{:class="block3variables"} ను అన్ చెక్ చేయండి, తద్వారా ఇది Stage పై చూపబడదు.
 
 --- /task ---
 
 --- task ---
 
-Add a block to set the `location`{:class="block3variables"} to `1` to start at the beginning of the list. Change the `glide`{:class="block3motion"} block so that it uses the `location`{:class="block3variables"} variable instead of the number 1.
+జాబితా ప్రారంభంలో ఆరంభించడానికి `location`{:class="block3variables"}ని `1` కి సెట్ చేయడానికి ఒక బ్లాక్‌ని జోడించండి. `glide`{:class="block3motion"} బ్లాక్‌ని మార్చండి, తద్వారా ఇది సంఖ్య 1కి బదులుగా `location`{:class="block3variables"} వేరియబుల్‌ని ఉపయోగిస్తుంది.
 
-![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
+![Turtle 2 sprite యొక్క చిత్రం](images/turtle-2-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -169,7 +169,7 @@ when this sprite clicked
 ```
 --- no-print ---
 
-![Use the location to look up items in the lists](images/turtle-2-use-location.gif)
+![జాబితాలలోని అంశాలను వెతకడానికి స్థానాన్ని ఉపయోగించండి](images/turtle-2-use-location.gif)
 
 --- /no-print ---
 
@@ -177,9 +177,9 @@ when this sprite clicked
 
 --- task ---
 
-Now add a `repeat`{:class="block3control"} loop to loop over the lists of coordinates. There's a block to find out the length of a list which you can use to give the number of times to repeat:
+ఇప్పుడు కోఆర్డినేట్‌ల జాబితాలను లూప్ చేయడానికి `repeat`{:class="block3control"} లూప్‌ను జోడించండి. జాబితా యొక్క పొడవును కనుగొనడానికి ఒక బ్లాక్ ఉంది, దాన్ని మీరు అన్నిసార్లు పునరావృతం చేయడానికి ఉపయోగించవచ్చు:
 
-![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
+![Turtle 2 sprite యొక్క చిత్రం](images/turtle-2-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -189,23 +189,23 @@ glide (1) secs to x: (item (location) of [x coords v]) y: (item (location) of [y
 +change [location v] by (1)
 ```
 
-Make sure your `glide`{:class="block3motion"} block is inside the `repeat`{:class="block3control"} loop.
+మీ `glide`{:class="block3motion"} బ్లాక్ `repeat`{:class="block3control"} లూప్ లోపల ఉందని నిర్ధారించుకోండి.
 
 --- no-print ---
 
-![Use the location to look up items in the lists](images/turtle-2-add-loop.gif)
+![జాబితాలలోని అంశాలను వెతకడానికి స్థానాన్ని ఉపయోగించండి](images/turtle-2-add-loop.gif)
 
 --- /no-print ---
 
-Each time round the loop, location increases and the `item`{:class="block3variables"} blocks get the next item from the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists.
+ఒక లూప్‌ చుట్టిన ప్రతిసారి, స్థానం పెరుగుతుంది మరియు `item`{:class="block3variables"} బ్లాక్‌లు, `x coords`{:class="block3variables"} మరియు `y coords`{:class="block3variables"} జాబితాల నుండి తదుపరి అంశాన్ని పొందుతాయి.
 
 --- /task ---
 
 --- task ---
 
-Inside the loop, add blocks to put the `pen up`{:class="block3extensions"}, `pen down`{:class="block3extensions"}, and `stamp`{:class="block3extensions"} the sprite.
+లూప్ లోపల sprite ను ఉంచడానికి, `pen up`{:class="block3extensions"}, `pen down`{:class="block3extensions"} మరియు `stamp`{:class="block3extensions"} బ్లాక్‌లను జోడించండి.
 
-![image of the Turtle 2 sprite](images/turtle-2-sprite.png)
+![Turtle 2 sprite యొక్క చిత్రం](images/turtle-2-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -222,11 +222,11 @@ change [location v] by (1)
 
 --- task ---
 
-Run your code to see the **Turtle 2** sprite draw its route using the x and y coordinates from the lists.
+జాబితాల నుండి x మరియు y కోఆర్డినేట్‌లను ఉపయోగించి **Turtle 2** sprite దాని మార్గాన్ని గీయడం చూడటానికి మీ కోడ్‌ని అమలు చేయండి.
 
-Check the boxes next to the `location`{:class="block3variables"} variable, and the `x coords`{:class="block3variables"} and `y coords`{:class="block3variables"} lists; arrange them on the Stage; and then click on the **Turtle 2** sprite to understand how the data is used.
+`location`{:class="block3variables"} వేరియబుల్ పక్కన ఉన్న బాక్సులను చెక్ చేయండి మరియు `x coords`{:class="block3variables"} మరియు `y coords`{:class="block3variables"} జాబితాలను తనిఖీ చేయండి; వాటిని Stage పై అమర్చండి; ఆపై డేటా ఎలా ఉపయోగించబడుతుందో అర్థం చేసుకోవడానికి **Turtle 2** sprite పై క్లిక్ చేయండి.
 
-![Stage with data shown for the Turtle 2 sprite](images/turtle-2-data-on-stage.png)
+![Turtle 2 sprite కోసం చూపబడిన డేటాతో Stage](images/turtle-2-data-on-stage.png)
 
 --- /task ---
 
