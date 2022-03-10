@@ -4,9 +4,9 @@
 
 --- task ---
 
-**ऑनलाईन:** Scratch मधील [starter project](http://rpf.io/turtle-tracker-on){:target="_blank"} उघडा.
+**ऑनलाईन:** Scratch मधील [स्टार्टर प्रोजेक्ट](http://rpf.io/turtle-tracker-on){:target="_blank"} उघडा.
 
-**ऑफलाईन:** Scratch ऑफलाईन एडिटरमधील [starter file](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"} उघडा. तुम्हाला आवश्यकता असल्यास, तुम्ही [येथे Scratch डाऊनलोड आणि इंस्टॉल करू शकता](https://scratch.mit.edu/download){:target="_blank"}.
+**ऑफलाईन:** Scratch ऑफलाईन एडिटरमधील [प्रोजेक्ट स्टार्टर फाईल](http://rpf.io/p/en/turtle-tracker-get){:target="_blank"} उघडा. तुम्हाला आवश्यकता असल्यास, तुम्ही [येथे Scratch डाऊनलोड आणि इंस्टॉल करू शकता](https://scratch.mit.edu/download){:target="_blank"}.
 
 जेव्हा तुम्ही स्टार्टर प्रोजेक्ट उघडता तेव्हा तुम्हाला ग्रिड आणि कासव दिसतील.
 
