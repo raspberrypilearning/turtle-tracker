@@ -1,18 +1,21 @@
 ---
 title: टर्टल ट्रॅकर
 hero_image: images/banner.png
-description: Africa पश्चिम किनार्‍यावरील Príncipe आणि Poilão बेटांवर खर्‍या समुद्री कासवांनी निवारा बांधताना घेतलेले मार्ग काढा
+description: Africa पश्चिम किनार्‍यावरील Príncipe आणि Poilão बेटांवर खर्‍या समुद्री
+  कासवांनी निवारा बांधताना घेतलेले मार्ग काढा
 version: 1
 listed: true
 copyedit: false
 last_tested: '2020-09-10'
 steps:
-  - title: परिचय
-    completion: engaged
-  - title: कोऑर्डिनेट्स वापरून
-  - title: मार्ग काढा
-  - title: कोऑर्डिनेट्सची लीस्ट
-  - title: वास्तविक कासवाच्या हालचाली
-    completion: internal
-  - title: फाईल मधून डेटा इंपोर्ट करा
-  - title: पुढे काय?
+- title: परिचय
+- title: कोऑर्डिनेट्स वापरून
+- title: मार्ग काढा
+  completion:
+  - engaged
+- title: कोऑर्डिनेट्सची लीस्ट
+- title: वास्तविक कासवाच्या हालचाली
+- title: फाईल मधून डेटा इंपोर्ट करा
+  completion:
+  - internal
+- title: पुढे काय?

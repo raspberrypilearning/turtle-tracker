@@ -9,11 +9,13 @@ copyedit: false
 last_tested: '2020-09-10'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Using coordinates
 - title: Draw the route
+  completion:
+  - engaged
 - title: Lists of coordinates
 - title: Real turtle movements
-  completion: internal
 - title: Import data from a file
+  completion:
+  - internal
 - title: What next?
